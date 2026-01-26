@@ -1,5 +1,5 @@
 {
-  "date": "2026-01-25 21:49:29",
+  "date": "2026-01-26 06:52:21",
   "channels": {
     "STREAMING MEDIA": [
       {
@@ -528,13 +528,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8"
-      },
-      {
-        "name": "Makkah TV",
-        "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8"
       },
       {
         "name": "AL Sunnah TV",
@@ -1464,6 +1457,13 @@
         "url": "http://163.61.227.29:8000/play/a03b/index.m3u8"
       },
       {
+        "name": "DISCOVERY",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01i/index.m3u8"
+      },
+      {
         "name": "DISCOVERY TURBO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "",
@@ -1476,6 +1476,13 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.140.254.2:3500/live/568.m3u8"
+      },
+      {
+        "name": "National Geographic",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://163.61.227.29:8000/play/a01d/index.m3u8"
       },
       {
         "name": "Animal Planet",
@@ -1637,13 +1644,6 @@
         "group": "",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://163.61.227.29:8000/play/a03x/index.m3u8"
-      },
-      {
-        "name": "Cartoon Network Hindi",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://163.61.227.29:8000/play/a064/index.m3u8"
       },
       {
         "name": "দূরন্ত টিভি",
@@ -1873,13 +1873,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
-      },
-      {
-        "name": "Jio SPORT HD 🚨📡📺 🚨",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8"
       },
       {
         "name": "Lemar AGF",
@@ -2418,13 +2411,6 @@
         "url": "http://116.90.120.152:8000/play/a0hq/index.m3u8"
       },
       {
-        "name": "Star Gold HD (1080p)",
-        "logo": "https://i.imgur.com/xC460sj.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.167.255.18:8085/play/a0kv/index.m3u8"
-      },
-      {
         "name": "Star Gold Romance (1080p)",
         "logo": "https://i.imgur.com/gSWv9U3.png",
         "group": "Movies",
@@ -2444,20 +2430,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://116.90.120.152:8000/play/a0gw/index.m3u8"
-      },
-      {
-        "name": "Star Movies HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.178.78.151:7505/play/a1ge/index.m3u8"
-      },
-      {
-        "name": "Star Movies Select HD (1080p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.178.78.151:7505/play/a1gd/index.m3u8"
       },
       {
         "name": "Star Utsav Movies (576p)",
@@ -3212,6 +3184,13 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mahaa-max/index.m3u8"
       },
       {
+        "name": "Maiboli (576p)",
+        "logo": "https://i.imgur.com/Aaih0rw.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt01.tangotv.in/MAIBOLI/index.m3u8"
+      },
+      {
         "name": "Mango Mobile TV (1080p)",
         "logo": "https://dvvlqr1rtlak3.cloudfront.net/Mango/MANGOTVLOGO.jpg",
         "group": "Entertainment",
@@ -3426,14 +3405,7 @@
         "logo": "https://i.imgur.com/xWxNy3L.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.167.255.18:8085/play/a0k5/index.m3u8"
-      },
-      {
-        "name": "StarPlus HD (1080p)",
-        "logo": "https://i.imgur.com/xWxNy3L.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.178.78.151:7505/play/a0uh/index.m3u8"
+        "url": "http://103.52.34.182:8001/play/a01l/index.m3u8"
       },
       {
         "name": "Studio Yuva (576p)",
@@ -5213,6 +5185,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8"
+      },
+      {
+        "name": "Mastiii (576p)",
+        "logo": "https://i.imgur.com/lxgXHx4.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8"
       },
       {
         "name": "Mh 1 Music (576p) [Not 24/7]",

@@ -438,12 +438,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
@@ -1218,6 +1212,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "DISCOVERY",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DISCOVERY TURBO",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a01w/index.m3u8",
@@ -1227,6 +1227,12 @@
     "name": "DISCOVERY SCIENCE",
     "type": "",
     "url": "http://103.140.254.2:3500/live/568.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "National Geographic",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01d/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1365,12 +1371,6 @@
     "name": "KIDS ZONE",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network Hindi",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1557,12 +1557,6 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Jio SPORT HD 🚨📡📺 🚨",
-    "type": "Cricket 🏏",
-    "url": "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2022,12 +2016,6 @@
     "img": "https://i.imgur.com/G0ZfzZr.png"
   },
   {
-    "name": "Star Gold HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.167.255.18:8085/play/a0kv/index.m3u8",
-    "img": "https://i.imgur.com/xC460sj.png"
-  },
-  {
     "name": "Star Gold Romance (1080p)",
     "type": "Movies",
     "url": "http://116.90.120.152:8000/play/a0he/index.m3u8",
@@ -2044,18 +2032,6 @@
     "type": "Movies",
     "url": "http://116.90.120.152:8000/play/a0gw/index.m3u8",
     "img": "https://i.imgur.com/azqtpYh.png"
-  },
-  {
-    "name": "Star Movies HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.178.78.151:7505/play/a1ge/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Movies Select HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.178.78.151:7505/play/a1gd/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Utsav Movies (576p)",
@@ -2694,6 +2670,12 @@
     "img": "https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png"
   },
   {
+    "name": "Maiboli (576p)",
+    "type": "Entertainment",
+    "url": "https://mumt01.tangotv.in/MAIBOLI/index.m3u8",
+    "img": "https://i.imgur.com/Aaih0rw.png"
+  },
+  {
     "name": "Mango Mobile TV (1080p)",
     "type": "Entertainment",
     "url": "https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8",
@@ -2876,13 +2858,7 @@
   {
     "name": "StarPlus (576p)",
     "type": "Entertainment",
-    "url": "http://103.167.255.18:8085/play/a0k5/index.m3u8",
-    "img": "https://i.imgur.com/xWxNy3L.png"
-  },
-  {
-    "name": "StarPlus HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.178.78.151:7505/play/a0uh/index.m3u8",
+    "url": "http://103.52.34.182:8001/play/a01l/index.m3u8",
     "img": "https://i.imgur.com/xWxNy3L.png"
   },
   {
@@ -4402,6 +4378,12 @@
     "type": "Music",
     "url": "https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Mastiii (576p)",
+    "type": "Music",
+    "url": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+    "img": "https://i.imgur.com/lxgXHx4.png"
   },
   {
     "name": "Mh 1 Music (576p) [Not 24/7]",
