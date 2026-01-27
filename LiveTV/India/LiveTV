@@ -254,6 +254,12 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
+    "url": "http://163.61.227.29:8000/play/a05l/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
+    "name": "Live Sports",
+    "type": "Live Sports",
     "url": "https://starsportshindiii.pages.dev/720p.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
@@ -346,6 +352,12 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "God TV",
@@ -822,12 +834,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FAST SPORTS",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "M4 SPORTS",
     "type": "",
     "url": "http://dvr1.kablova.tv/M4/index.m3u8",
@@ -888,9 +894,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "LOTUS MACAU",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03u/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ARY MUSIK",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -948,6 +966,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BIG MAGIC",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Dangal",
     "type": "",
     "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
@@ -963,6 +987,12 @@
     "name": "Zee 24 Ghanta",
     "type": "",
     "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Green Entertainment",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a02v/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1029,6 +1059,12 @@
     "name": "GUBBARE",
     "type": "",
     "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "KIDS ZONE",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1674,7 +1710,7 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png"
   },
   {
-    "name": "Star Gold 2 (576p)",
+    "name": "Star Gold 2 (480p)",
     "type": "Movies",
     "url": "http://116.90.120.152:8000/play/a0gz/index.m3u8",
     "img": "https://i.imgur.com/G0ZfzZr.png"
@@ -1803,6 +1839,12 @@
     "name": "Arabica TV",
     "type": "Bangladeshi 🇧🇩",
     "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DBC টিভি 🇧🇩",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2038,6 +2080,18 @@
     "type": "Infotainment Channels",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discovery",
+    "type": "Infotainment Channels",
+    "url": "http://stvlive.net:8080/discovery/index.m3u8",
+    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
+  },
+  {
+    "name": "Colors HD",
+    "type": "Entertainment",
+    "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8",
+    "img": "https://i.ibb.co/9grLJCS/fone22.png"
   },
   {
     "name": "FASHION ONE",
@@ -2655,12 +2709,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
