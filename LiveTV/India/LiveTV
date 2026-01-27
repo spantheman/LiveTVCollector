@@ -254,12 +254,6 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
-    "url": "http://163.61.227.29:8000/play/a05l/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
-    "name": "Live Sports",
-    "type": "Live Sports",
     "url": "https://starsportshindiii.pages.dev/720p.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
@@ -348,16 +342,10 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Madani TV",
+    "name": "AL Sunnah TV",
     "type": "Relagion Channel",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-  {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+    "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
+    "img": "https://i.ibb.co/rtkWYHV/20240827-092043.png"
   },
   {
     "name": "God TV",
@@ -834,6 +822,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "FAST SPORTS",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a001/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "M4 SPORTS",
     "type": "",
     "url": "http://dvr1.kablova.tv/M4/index.m3u8",
@@ -894,21 +888,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "LOTUS MACAU",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a03u/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Epic",
     "type": "",
     "url": "http://epiconvh.akamaized.net/live/epic/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ARY MUSIK",
+    "name": "GOLDMINES MOVIES",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a03r/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a04l/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -927,6 +915,12 @@
     "name": "START AIR",
     "type": "",
     "url": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NEWS18 INDIA",
+    "type": "",
+    "url": "http://103.140.254.2:3500/live/530.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -960,15 +954,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ARY Zindagi",
+    "name": "ARY DIGITAL",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a03p/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BIG MAGIC",
+    "name": "Play HD",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a04f/index.m3u8",
+    "url": "http://163.61.227.29:8000/play/a03c/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -984,15 +978,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Zee 24 Ghanta",
+    "name": "DISCOVERY SCIENCE",
     "type": "",
-    "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
+    "url": "http://103.140.254.2:3500/live/568.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Green Entertainment",
+    "name": "Animal Planet",
     "type": "",
-    "url": "http://163.61.227.29:8000/play/a02v/index.m3u8",
+    "url": "http://103.140.254.2:3500/live/567.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ndtv Good Times",
+    "type": "",
+    "url": "http://103.140.254.2:3500/live/560.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "5 NEWS HD",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a03m/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Zee 24 Ghanta",
+    "type": "",
+    "url": "https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1059,12 +1071,6 @@
     "name": "GUBBARE",
     "type": "",
     "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "KIDS ZONE",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1395,12 +1401,6 @@
     "name": "Russia Football 3 HD",
     "type": "Football",
     "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Real Madrid tv Football",
-    "type": "Football",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1962,10 +1962,10 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Madani Tv",
+    "name": "QURAN",
     "type": "ISLAMIC CHANNELS",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "img": "https://i.ibb.co/GnfgKbs/alquran.png"
   },
   {
     "name": "BAHRAIN QURAN",
@@ -2019,6 +2019,12 @@
     "name": "AL SUNNAH TV",
     "type": "ISLAMIC CHANNELS",
     "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
+    "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
+  },
+  {
+    "name": "AL SUNNAH TV",
+    "type": "ISLAMIC CHANNELS",
+    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
   },
   {
@@ -2086,12 +2092,6 @@
     "type": "Infotainment Channels",
     "url": "http://stvlive.net:8080/discovery/index.m3u8",
     "img": "https://i.ibb.co/V2gtYfH/download-1.png"
-  },
-  {
-    "name": "Colors HD",
-    "type": "Entertainment",
-    "url": "https://padmaonline.duckdns.org:8088/ColorsHD/index.m3u8",
-    "img": "https://i.ibb.co/9grLJCS/fone22.png"
   },
   {
     "name": "FASHION ONE",
