@@ -458,7 +458,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiOTZiMTI2NWQtZjNmYS00Yjg0LWE2YjAtNzQ4ZGMxMmU1MWYzIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
+    "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiYTg1YzRhN2QtOWYwOS00NmY2LTk5NTQtZTQ1ZjdhNmVhNDhkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -500,7 +500,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYTI3MWI1ZGMtZjNmYi00YWRiLWIzNWMtMTI3YTZlNmY1YzI3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
+    "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiMzYyZTFjNzItZThiNy00MDAyLWExMjYtNGM5MTZhMWU5YmM5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -570,6 +570,18 @@
     "img": " "
   },
   {
+    "name": "FOOD XP (UK)",
+    "type": "STREAMING MEDIA",
+    "url": "https://amg00416-amg00416c10-samsung-in-4883.playouts.now.amagi.tv/playlist/amg00416-travelxp-foodxp-samsungin/playlist.m3u8",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjciheyU-KLe3MezLr8V7gFZX1ymv2W_zckvN0nJYIGPvH7mshpfe6hNnPegRgclrCElERN5BkhWfn2jsi0MNMEXEzYneYllnmFlVShP_hHVuJppUbN4_pUVEMCdwK2j0iilkJV1qvCy484zsOLFJ6FIJ9W58_tzHNDrfZS-yrLJDKTSMYDlxVSm7d-n0c/s828/44867.png"
+  },
+  {
+    "name": "TRAVELXP HD (UK)",
+    "type": "STREAMING MEDIA",
+    "url": "https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/bc74e2a1403554c4f8742b61868364a3.png"
+  },
+  {
     "name": "ZOOM (IND)",
     "type": "TERRESTRIAL TV",
     "url": "https://d2esfk1pb9cdob.cloudfront.net/master.m3u8",
@@ -594,7 +606,7 @@
     "img": " "
   },
   {
-    "name": "DD SPORTS 2.0 (IND)",
+    "name": "DD SPORTS (IND)",
     "type": "TERRESTRIAL TV",
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     "img": " "
