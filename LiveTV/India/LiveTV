@@ -660,9 +660,9 @@
     "img": "https://i.ibb.co/cXPzpGp/SADA-CHANNEL-HBN-global-Punjabi-Satellite-TV.png"
   },
   {
-    "name": "Sana TV (1080p) [Not 24/7]",
+    "name": "Sana Tv",
     "type": "Entertainment",
-    "url": "https://galaxyott.live/hls/sanatv.m3u8",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sana-tv/index.m3u8?ads.vf=-nqSBaSbTTO",
     "img": "https://i.imgur.com/CR7DGBv.png"
   },
   {
@@ -1860,10 +1860,22 @@
     "img": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Red_Bull_TV.png"
   },
   {
+    "name": "Sony Sports Ten 1 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0ee/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png"
+  },
+  {
     "name": "Sony Sports Ten 2 HD",
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "type": "Sports",
+    "url": "http://103.229.254.25:7001/play/a0eg/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"
   },
   {
     "name": "RTA Sports",
@@ -8625,7 +8637,7 @@
     "name": "SHEMAROO TV (IND)",
     "type": "TERRESTRIAL TV",
     "url": "https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8",
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggHLw1kYQskJwnVhtz__ZOdXuRmnJmrKjyhhirt92pOzuiHHJXuFOPjEWfd5umgcXLwvtqYCINSeE1hC3ljNJhTeXeL_o8teWac73prx4Rx-WU7MnmBSK4-fcZsphNp3MEAECK6nzWs-dtbZnfgg7kDz-h_BENc6rh3WmcHyJU0Ick6VDvsrcG1c1QGuQ/s1536/44960.jpg"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSq5J-Wsz0c4l7ZO8SMO1aTjlumXG_7h51qWYw6liR80QjPpbQRyP9k-n9zNkKmMdv8ZtyVVGHFGxRJVC6axIB6wLJ6QqfmkJuG4JphLX8Z-QhFjIE7-o89pM9f1rBFLA5f6oP0r0AdMununRWaqhTGsuPXJ9U4o4HjI9c6jEnKjGLICLyKBzvmxKRlSQ/s1420/45029.jpg"
   },
   {
     "name": "ATRANGII (IND)",
@@ -8667,43 +8679,43 @@
     "name": "NAT GEO WILD HD (IND)",
     "type": "TERRESTRIAL TV",
     "url": "http://217.20.112.199:8888/natgeowild/index.m3u8",
-    "img": " "
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj11bCHU7u44ExYkkmyhUf3fCPNzcPCHlg6wfTV_GQFgBIpysMgCKvETIE0Cyc2c-79bMzstelRoeaw4Zl5Ow9t04WeTT5EUSH-7ZCOGY9StvfDHTKtBYSt-Y4OgwLPQFm5gyj_sf7Qqr4ck5RsSs_0fMP0U74kNNd4tIedlEfMmVL9L51iufgIIvtI01s/s320/45040.jpg"
   },
   {
     "name": "ANIMAL PLANET HD (IND)",
     "type": "TERRESTRIAL TV",
     "url": "http://217.20.112.199:8888/animalplanet/index.m3u8",
-    "img": " "
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO4ZpLqawfGCVDQoSCFKsi3Tc3ROW-2PDgQcsWTnpM4of3OA6t9jKt6k5oqSLBs_3AFdGoy4O8qAN7haIAUmG22vpUt0lweAfQCHtFgkzKwI-ky16go_ibbeNCDVV0ynW8KIT7Ab0VzV51t5vryUE3eT9hbcGYVNaXV1xyxsJKwfnnxP6rH1Xp3FiDH88/s320/45039.jpg"
   },
   {
     "name": "PRIVATE (USA)",
     "type": "ADULT LIVE",
     "url": "http://pl.online24.pm/play/793/623939143BE8A4B/video.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN-XT6BIFFJjxgaxmsvQCutK6HHMaV5CiOWn_eGrhkKoptPXPUSnXsVmOuW7FyxOZOUyRv8AmcecavbVw3DtQ2fGgiUlBgNlXxrtdlxphgmfrhT7XBC7MSIWv06Klx7Nw_nqOkqMOzXNFl7_bH3rdqthgJJKpKJZ_CjLSGoJIXCmkzyM7M6UKSQY29YBE/s320/45028.jpg"
   },
   {
     "name": "X4 (USA)",
     "type": "ADULT LIVE",
     "url": "http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215686",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1nYDR5xlllC6EYggqQeBKxK8DNDt8leGvzt3MmPwJxVNl9U-WtpzzQ2NQH7rn3yw_s4oWxaetihyphenhyphenuV7ocgcPfRiSO-eD9XYTAVngN72DP4tDHs0LivIyPo3VTwm8uvbojRbps_bMl9Oa-GMkrpZuid_-OQ_uSXN-HYk7dPYp5bXDQMjyYVUtmw7D_Ams/s320/45027.jpg"
   },
   {
     "name": "EROLUXE GAYS (USA)",
     "type": "ADULT LIVE",
     "url": "http://u.vipl.one/high/hc6s5fzmde/1691.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW5UFzjp_qpyYNN4iz7j5FJvR42fSntDvRkRNTr0GSW-b1ESXc9F6clLR1b3y4vIltGV1unTjgzyUQJ8RQBzWC0r0fJ8btpQK9nSmAIp-KLkvagJDVWzCD_-MG0Lf57iKZWyINDmNZDnsGQaucyVCrgLr9fSRLpab2BYlUe2MV9lnZj7tGryTtApaaaGs/s200/45017.png"
   },
   {
     "name": "EROLUXE BLOWJOB (USA)",
     "type": "ADULT LIVE",
     "url": "http://u.vipl.one/high/hc6s5fzmde/1687.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq12uiPVBA2f0Ut3S0SAvb1mOSmchgZbVo6M3FMj9KCHK6bR8NfS4etLrzcEbWdD9slqpyUEJPYpbYCs3zW8QfWEwOZamN415nesQVfH8Nz_bKZzelcuBIkEDHcUiuFC1dhT3XII-gYfr2iZFTaI3PznZGOzHUpRw5w_x2HmEpMfj04pSIy_Ep0cvzLUQ/s1600/45025.png"
   },
   {
     "name": "EROLUXE ORGY (USA)",
     "type": "ADULT LIVE",
     "url": "http://u.vipl.one/high/hc6s5fzmde/1699.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9XZRLlCZr_OxkU_4i7nwvXcZYQkGfyNIeaTwXjgZ9t8FhS1co3a60arpdsG-WSBrUqzWJang8QhPxZsZ89HLCbnDG061hYklMgx6pVeVeqbTX0_RIt258l5ys05jSsjF7ZkLbbF_NtbiScmXa3gsmlPrnjgKoUQLHeZzj04uTrSDCmRda22a6tANRHag/s1600/45026.png"
   },
   {
     "name": "FalconCast",
@@ -8712,10 +8724,28 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
+    "name": "ICC World Cup 2026",
+    "type": "ICC World Cup 2026",
+    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/2026_ICC_Men%27s_T20_World_Cup_logo.svg"
+  },
+  {
+    "name": "Live Sports",
+    "type": "Live Sports",
+    "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
     "name": "Live Sports",
     "type": "Live Sports",
     "url": "http://103.229.254.25:7001/play/a087/index.m3u8#EXTINF:-1 tvg-logo=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10\"group-title=\"Live Sports\",Live Sports",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
+    "name": "Gazi TV",
+    "type": "Bangla",
+    "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"
   },
   {
     "name": "ATN Bangla UK",
@@ -8814,6 +8844,12 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+  },
+  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
@@ -8835,12 +8871,6 @@
     "name": "Arihant TV",
     "type": "Relagion Channel",
     "url": "https://aasthaott.akamaized.net/110923/smil:arihant.smil/chunklist_b1928000.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Movie Bangla",
-    "type": "Bangla Movies",
-    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9042,15 +9072,33 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
   },
   {
+    "name": "Animal Planet HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a0dr/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
+  },
+  {
     "name": "Nat Geo HD",
     "type": "Information",
     "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
   {
+    "name": "Nat Geo HD",
+    "type": "Information",
+    "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
     "name": "Sony BBC Earth",
     "type": "Information",
     "url": "http://103.229.254.25:7001/play/a031/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "type": "Information",
+    "url": "http://202.70.146.135:8000/play/a067/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"
   },
   {
@@ -9156,12 +9204,6 @@
     "img": "h"
   },
   {
-    "name": "Pogo",
-    "type": "KIDS",
-    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -9180,15 +9222,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
   },
   {
-    "name": "Star Movies Select HD",
-    "type": "English Movies",
-    "url": "http://103.229.254.25:7001/play/a02v/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"
-  },
-  {
     "name": "Lotus",
     "type": "English Movies",
     "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "And Prive",
+    "type": "English Movies",
+    "url": "http://202.70.146.135:8000/play/a05y/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9366,6 +9408,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "A2",
+    "type": "",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "ARY Zindagi",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03o/index.m3u8",
@@ -9447,6 +9495,12 @@
     "name": "Discover Pakistan",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03b/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "DISCOVERY",
+    "type": "",
+    "url": "http://163.61.227.29:8000/play/a01i/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9615,12 +9669,6 @@
     "name": "KIDS ZONE",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a03x/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network Hindi",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a064/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9813,6 +9861,12 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10084,12 +10138,6 @@
     "type": "Infotainment Channels",
     "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Discovery",
-    "type": "Infotainment Channels",
-    "url": "http://stvlive.net:8080/discovery/index.m3u8",
-    "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
     "name": "Amazon SAT",
@@ -11164,6 +11212,12 @@
     "type": "Movies;News",
     "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
     "img": "https://i.ibb.co/jT3NCPp/logo-tv.png"
+  },
+  {
+    "name": "Jaya Plus (576p)",
+    "type": "Culture;Entertainment",
+    "url": "https://mumbai-edge.smartplaytv.in/JayaPLus/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_PLUS/images/LOGO_HD/image.png"
   },
   {
     "name": "Jaya TV (360p)",
