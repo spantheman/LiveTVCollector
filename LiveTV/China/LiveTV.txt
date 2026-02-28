@@ -3047,13 +3047,8 @@ URL: https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 2026-02-28 06:23:30
+Name: 2026-02-28 18:28:41
 URL: https://vd3.bdstatic.com/mda-rkaittm5s06vzzyq/sc/cae_h264/1762869883709304452/mda-rkaittm5s06vzzyq.mp4
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 8090电影一哥
-URL: https://yylunbo.ottiptv.cc/yy/29197808
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3113,7 +3108,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV10
-URL: http://182.150.23.74:808/hls/10/index.m3u8
+URL: http://61.136.172.236:9901/tsfile/live/0010_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3138,7 +3133,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV11
-URL: http://182.150.23.74:808/hls/11/index.m3u8
+URL: http://61.136.172.236:9901/tsfile/live/0011_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3238,7 +3233,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV15
-URL: https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0015_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: CCTV16
+URL: http://69.30.246.194/live/cctv16.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3262,11 +3262,6 @@ URL: http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: CCTV16
-URL: http://lu.wqwqwq.sbs/itv/1000000006000233002.m3u8?cdn=ystenlive
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: CCTV17
 URL: http://58.57.40.22:9901/tsfile/live/0019_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -3283,12 +3278,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0007_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV17
-URL: http://lu.wqwqwq.sbs/itv/1000000005000265015.m3u8?cdn=ystenlive
+URL: https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3408,12 +3403,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5+
-URL: http://cssbyd.imwork.net:8082/hls/6/index.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0116_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV5+
-URL: https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+URL: http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3438,7 +3433,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: CCTV6
-URL: http://182.150.23.74:808/hls/6/index.m3u8
+URL: http://218.3.138.25:1111/tsfile/live/1005_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3823,12 +3818,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://183.11.239.36:808/hls/114/index.m3u8
+URL: http://124.116.183.146:9901/tsfile/live/0107_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 东方卫视
-URL: http://120.76.248.139/live/bfgd/4200000093.m3u8
+URL: http://183.11.239.36:808/hls/114/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -3853,7 +3848,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 中华小当家
-URL: https://live.iill.top/huya/11342413
+URL: https://live.metshop.top/huya/11342413
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4177,6 +4172,11 @@ URL: https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 伊太刀刀
+URL: https://goodiptv.club/douyu/747764
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 伊犁哈萨克
 URL: http://110.153.180.106:55555/out_3/index.m3u8?zxinjd
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4437,6 +4437,16 @@ URL: http://8.138.7.223/【公众号：榴芒电视】/农林卫视.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 农林卫视
+URL: http://124.116.183.146:9901/tsfile/live/1004_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 农林卫视
+URL: http://124.116.183.146:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 凤凰中文
 URL: http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4468,17 +4478,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 北京卫视
+URL: http://124.116.183.146:9901/tsfile/live/0122_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 北京卫视
 URL: http://183.11.239.36:808/hls/41/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 北京卫视
 URL: http://120.76.248.139/live/bfgd/4200000083.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 北京卫视
-URL: http://182.150.23.74:808/hls/17/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4717,11 +4727,6 @@ URL: http://file.loulannews.cn/nmip-media/channellive/channel103824/playlist.m3u
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 史诗级科幻电影阿凡达
-URL: https://yylunbo.ottiptv.cc/yy/1382735577
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 叶县
 URL: http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4832,11 +4837,6 @@ URL: http://stream.hrbtv.net/zxpd/sd/live.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 哈尔滨都市咨询
-URL: http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 哑巴竟然会说话
 URL: https://yylunbo.ottiptv.cc/yy/1354932427
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4873,6 +4873,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
+URL: http://124.116.183.146:9901/tsfile/live/0123_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 四川卫视
 URL: http://183.11.239.36:808/hls/50/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -4883,12 +4888,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 四川卫视
-URL: http://182.150.23.74:808/hls/38/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 四川卫视
-URL: http://61.136.172.236:9901/tsfile/live/0123_1.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0123_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -4997,8 +4997,8 @@ URL: http://live.daningtv.com/aac_dngb/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 大家都在看的电视剧
-URL: https://yylunbo.ottiptv.cc/yy/1354930964
+Name: 大江大河2高分影视推荐
+URL: https://yylunbo.ottiptv.cc/yy/1382736797
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5038,6 +5038,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 天津卫视
+URL: http://124.116.183.146:9901/tsfile/live/0135_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 天津卫视
 URL: http://183.11.239.36:808/hls/42/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -5049,11 +5054,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 天津卫视
 URL: http://182.150.23.74:808/hls/27/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 天津卫视
-URL: http://61.136.172.236:9901/tsfile/live/0135_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5143,6 +5143,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
+URL: http://124.116.183.146:9901/tsfile/live/0130_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 安徽卫视
 URL: http://183.11.239.36:808/hls/40/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -5153,12 +5158,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 安徽卫视
-URL: http://182.150.23.74:808/hls/25/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 安徽卫视
-URL: http://61.136.172.236:9901/tsfile/live/0130_1.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0130_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5278,12 +5278,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://182.150.23.74:808/hls/23/index.m3u8
+URL: http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 山东卫视
-URL: http://61.136.172.236:9901/tsfile/live/0131_1.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0131_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5397,6 +5397,11 @@ URL: http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 平遥新闻综合
+URL: https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 广东体育
 URL: http://cdn2.163189.xyz/live/gdty/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5423,12 +5428,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://23.237.228.134/live6/guangdong.m3u8
+URL: http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://58.57.40.22:9901/tsfile/live/1039_1.m3u8
+URL: http://124.116.183.146:9901/tsfile/live/0125_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5443,7 +5448,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东卫视
-URL: http://61.136.172.236:9901/tsfile/live/0125_1.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0125_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5458,12 +5463,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东珠江
-URL: http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+URL: http://cdn2.132.us.kg/live/gdzj/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广东珠江
-URL: http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+URL: http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5528,17 +5533,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广西卫视
-URL: http://23.237.228.134/live6/guangxi.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 广西卫视
 URL: http://23.237.228.134/live6/guizhou.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 广西卫视
 URL: http://58.57.40.22:9901/tsfile/live/1049_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 广西卫视
+URL: http://23.237.228.134/live6/guangxi.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5679,6 +5684,16 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 张掖七彩丹霞
 URL: https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 当幽兰剑遇上链子刀
+URL: https://goodiptv.club/douyu/6027991
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 影视小艺
+URL: https://yylunbo.ottiptv.cc/yy/1382737886
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -5854,6 +5869,11 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 新疆卫视
 URL: http://120.76.248.139/live/bfgd/4200000150.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 新疆卫视
+URL: http://222.169.85.8:9901/tsfile/live/0110_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6052,11 +6072,6 @@ URL: http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 旺苍新闻综合
-URL: http://live.spccmc.com:90/live/spxwzh.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 昌黎综合
 URL: https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -6064,6 +6079,11 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 易门综合
 URL: https://zb-live.ynurl.com/yimen/3b75a2f9-7941-46b7-992d-a9796fbca5fe.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 晨晨的影视小窝
+URL: https://yylunbo.ottiptv.cc/yy/1382851576
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6119,21 +6139,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 来宾综合
 URL: http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 来看修牛蹄
-URL: https://yylunbo.ottiptv.cc/yy/1382749887
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 松潘新闻综合
-URL: http://live.spccmc.com:90/live/spxwzh.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 松潘新闻综合
-URL: http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6323,7 +6328,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 江西卫视
-URL: http://182.150.23.74:808/hls/30/index.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0138_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6433,7 +6438,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 河南卫视
-URL: http://182.150.23.74:808/hls/33/index.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 河源公共
+URL: http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 河源综合
+URL: http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6514,6 +6529,11 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 泸县新闻综合
 URL: http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 泸县新闻综合
+URL: https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -6963,17 +6983,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 深圳卫视
-URL: http://183.11.239.36:808/hls/45/index.m3u8
+URL: http://124.116.183.146:9901/tsfile/live/0126_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 深圳卫视
-URL: http://120.76.248.139/live/bfgd/4200000100.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 清官难当看芝麻官如何破局
-URL: https://yylunbo.ottiptv.cc/yy/1382749909
+URL: http://183.11.239.36:808/hls/45/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7018,12 +7033,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 湖北卫视
+URL: http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖北卫视
 URL: http://23.237.228.134/live6/hubei.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 湖北卫视
-URL: http://58.57.40.22:9901/tsfile/live/1038_1.m3u8
+URL: http://124.116.183.146:9901/tsfile/live/0132_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7034,16 +7054,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 湖北卫视
 URL: http://182.150.23.74:808/hls/28/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖北卫视
-URL: http://61.136.172.236:9901/tsfile/live/0132_1.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 湖南卫视
-URL: http://23.237.228.134/live6/hunan.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7059,6 +7069,11 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 湖南卫视
 URL: http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 湖南卫视
+URL: http://124.116.183.146:9901/tsfile/live/0128_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7129,6 +7144,16 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 滦平新闻
 URL: http://jwplay.hebyun.com.cn/live/LPTV001/1500k/tzwj_video.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 滨海新闻综合
+URL: http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 漫画解说
+URL: https://www.goodiptv.club/douyu/5907076
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7282,8 +7307,38 @@ URL: http://120.76.248.139/live/bfgd/4200000149.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 电影
-URL: https://yylunbo.ottiptv.cc/yy/37454459
+Name: 电影刘德华
+URL: http://live.metshop.top/huya/11342424?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影动作电影
+URL: http://live.metshop.top/huya/11602077?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影周星星
+URL: http://live.metshop.top/huya/11336587?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影战争片
+URL: http://live.metshop.top/huya/21059574?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影搞笑喜剧
+URL: http://live.metshop.top/huya/11342423?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影梁家辉
+URL: http://live.metshop.top/huya/11342429?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影犯罪片
+URL: http://live.metshop.top/huya/11352974?cdn=alicdn
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7292,13 +7347,18 @@ URL: https://yylunbo.ottiptv.cc/yy/1351496216
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 电影百团大战
-URL: https://yylunbo.ottiptv.cc/yy/1382736871
+Name: 电影蜘蛛侠
+URL: http://live.metshop.top/huya/21059599?cdn=alicdn
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 电影黑豹
-URL: https://yylunbo.ottiptv.cc/yy/1382736816
+Name: 电影谍战
+URL: http://live.metshop.top/huya/21059585?cdn=alicdn
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 电影谍战片
+URL: http://live.metshop.top/huya/21059587?cdn=alicdn
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7344,11 +7404,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 百家讲坛之明太祖朱元璋
 URL: https://yylunbo.ottiptv.cc/yy/1354936149
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 百家讲坛红楼梦篇
-URL: https://yylunbo.ottiptv.cc/yy/1382741639
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7412,16 +7467,6 @@ URL: http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 科幻片来看神奇的地球
-URL: https://yylunbo.ottiptv.cc/yy/1354930897
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 科幻电影
-URL: https://yylunbo.ottiptv.cc/yy/1354930209
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 秦安综合
 URL: https://play.kankanlive.com/live/1680577080200944.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -7474,16 +7519,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 绍兴电视台公共
 URL: http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 经典港片电影
-URL: https://yylunbo.ottiptv.cc/yy/1461889059
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 经典港片电影
-URL: https://yylunbo.ottiptv.cc/yy/1459801818
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7569,6 +7604,11 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 苏州社会经济
 URL: https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 苹果Zei甜
+URL: https://goodiptv.club/douyu/1174353
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7773,12 +7813,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 贵州卫视
-URL: http://23.237.228.134/live6/hainan.m3u8
+URL: http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 贵州卫视
-URL: http://58.57.40.22:9901/tsfile/live/1042_1.m3u8
+URL: http://23.237.228.134/live6/hainan.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -7793,7 +7833,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 贵州卫视
-URL: http://182.150.23.74:808/hls/26/index.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0120_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8068,12 +8108,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://23.237.228.134/live6/chongqing.m3u8
+URL: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://36.32.174.67:60080/newlive/live/hls/34/live.m3u8
+URL: http://124.116.183.146:9901/tsfile/live/0142_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8088,7 +8128,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 重庆卫视
-URL: http://61.136.172.236:9901/tsfile/live/0142_1.m3u8
+URL: http://222.169.85.8:9901/tsfile/live/0142_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8134,21 +8174,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 金鹰卡通
 URL: http://124.228.160.14:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 金鹰卡通
-URL: http://125.43.240.161:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 金鹰卡通
-URL: http://101.66.199.142:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 钟馗传说
-URL: https://yylunbo.ottiptv.cc/yy/1382736839
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8387,6 +8412,11 @@ URL: http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 靓剑乐乐陪看
+URL: https://yylunbo.ottiptv.cc/yy/1352946111
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 靖天戏剧
 URL: http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -8568,6 +8598,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 黑龙江卫视
+URL: http://124.116.183.146:9901/tsfile/live/0143_1.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 黑龙江卫视
 URL: http://120.76.248.139/live/bfgd/4200000095.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
@@ -8579,11 +8614,6 @@ Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3
 --------------------------------------------------
 Name: 黑龙江卫视
 URL: http://123.129.70.178:9901/tsfile/live/0143_1.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 黑龙江卫视
-URL: http://218.13.170.98:9901/tsfile/live/1006_1.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/TianmuTNT/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
