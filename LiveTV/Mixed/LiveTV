@@ -1028,7 +1028,7 @@
   {
     "name": "ESPN 4",
     "type": "DEPORTES",
-    "url": "https://cdn-live.mundogo.cl/espn4/espn4.mpd",
+    "url": "http://152.231.29.139:8000/play/a0dd/index.m3u8",
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea10%2FIMAGES%2F00%2F10%2F11%2F10113696_046392A4A17B42D1.png&height=60&resize=RATIO&format=PNG"
   },
   {
@@ -1154,7 +1154,7 @@
   {
     "name": "WIN SPORTS +",
     "type": "DEPORTES",
-    "url": "http://imaxplay.net:8880//live/Alemilo/Kg3wf9X3yG/516934.ts",
+    "url": "http://152.231.29.139:8000/play/a0gf/index.m3u8",
     "img": "https://img.hidra.app/deportes/winsportsplus.png"
   },
   {
@@ -1658,7 +1658,7 @@
   {
     "name": "TNT SERIES",
     "type": "CINE Y SERIES",
-    "url": "http://45.5.119.43:4000/play/a0km/index.m3u8",
+    "url": "http://152.231.29.139:8000/play/a02f/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png"
   },
   {
@@ -1672,12 +1672,6 @@
     "type": "CINE Y SERIES",
     "url": "http://179.49.163.34:45000/play/a058/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
-  },
-  {
-    "name": "AVI REWIND",
-    "type": "CINE Y SERIES",
-    "url": "http://179.49.163.34:45000/play/a05k/index.m3u8",
-    "img": "https://sitelco.tv/img/canales/logos/65.webp"
   },
   {
     "name": "group-title=\"CINE Y SERIES\", FREETV CLASICO",
@@ -1940,7 +1934,7 @@
   {
     "name": "COMEDY CENTRAL",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278410.m3u8",
+    "url": "http://152.231.29.139:8000/play/a09b/index.m3u8",
     "img": "https://logowik.com/content/uploads/images/comedy-central.jpg"
   },
   {
@@ -2036,8 +2030,14 @@
   {
     "name": "CARACOL",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://179.49.163.34:45000/play/a032/index.m3u8",
+    "url": "http://152.231.29.139:8000/play/a0ax/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png"
+  },
+  {
+    "name": "RCN",
+    "type": "CULTURA Y ENTRETENIMIENTO",
+    "url": "http://152.231.29.139:8000/play/a0ay/index.m3u8",
+    "img": "https://imagenes.noticiasrcn.com/ImgNoticias/styles/530xauto/s3/noticias/rcnlogo.jpg"
   },
   {
     "name": "FOOD NETWORK",
