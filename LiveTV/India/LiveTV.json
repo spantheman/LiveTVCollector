@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-10 06:55:14",
+  "date": "2026-03-10 14:04:18",
   "channels": {
     "Promo": [
       {
@@ -1242,6 +1242,20 @@
       }
     ],
     "Football": [
+      {
+        "name": "Astro SPORTS Primier",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO SPORTS PLUS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://107.175.220.4:11799/go_sportsplus/playlist.m3u8"
+      },
       {
         "name": "MuxIP-SportsFirst TV🎯",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
