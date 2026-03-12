@@ -12,6 +12,12 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
   {
+    "name": "Gazi TV",
+    "type": "Bangla",
+    "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"
+  },
+  {
     "name": "ATN Bangla UK",
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
@@ -28,6 +34,12 @@
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"
+  },
+  {
+    "name": "RTV",
+    "type": "Bangla",
+    "url": "http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"
   },
   {
     "name": "Deepto TV",
@@ -108,6 +120,12 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+  },
+  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
@@ -154,12 +172,6 @@
     "type": "Kolkata Bangla",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
-  },
-  {
-    "name": "AAKASH AATH",
-    "type": "Kolkata Bangla",
-    "url": "https://cdn-4.pishow.tv/live/969/master.m3u8",
-    "img": "http://tv.digitalview.live:8080/images/COkEO-FWL6Un57bQno1oDDZsiBeWCSjxPVZv0hLJ3dQmW5aAA-8mIeuB88P0SUdrjBBSFEHQ2ZXiddKtVfnJCQ.png"
   },
   {
     "name": "Bangla Movies",
@@ -412,6 +424,12 @@
     "type": "Sports",
     "url": "http://103.229.254.25:7001/play/a0ef/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png"
+  },
+  {
+    "name": "Sony Sports Ten 5",
+    "type": "Sports",
+    "url": "http://103.99.249.139/sonyten3/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png"
   },
   {
     "name": "DD Sports 2.0",
@@ -732,12 +750,6 @@
     "img": "https://i.imgur.com/XVUGLxa.png"
   },
   {
-    "name": "Tom & Jarry",
-    "type": "KIDS",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-    "img": "h"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -981,6 +993,12 @@
     "name": "Sky Sport Mian Event",
     "type": "Cricket 🏏",
     "url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "🚨Sathiya TV Srilanka 📡📺",
+    "type": "Cricket 🏏",
+    "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1692,21 +1710,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "DBC টিভি 🇧🇩",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "24/7 Shinchan",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC Cbeebies",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cartoon Network",
-    "type": "Kids",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1942,6 +1954,12 @@
     "type": "Entertainment",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8",
     "img": "https://i.ibb.co/9grLJCS/fone22.png"
+  },
+  {
+    "name": "Aakaash Aath (720p)",
+    "type": "Entertainment",
+    "url": "https://cdn-4.pishow.tv/live/969/master.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540"
   },
   {
     "name": "Adithya TV (576p)",
