@@ -1908,6 +1908,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Akash Aath",
+    "type": "Bangla",
+    "url": "https://mumt03.tangotv.in/AAKASHAATH/index.m3u8",
+    "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/34/Aakash_Aath_logo_%282013%29.png"
+  },
+  {
+    "name": "Amar Bangla",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+    "img": "https://amarbanglatv.in/wp-content/uploads/2024/08/cropped-Amar-Bangla.png"
+  },
+  {
     "name": "ASIAN TV",
     "type": "Bangla",
     "url": "http://103.229.254.25:7001/play/a063/index.m3u8",
@@ -1916,7 +1928,7 @@
   {
     "name": "ATN Bangla UK",
     "type": "Bangla",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
+    "url": "https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
   },
   {
@@ -1958,7 +1970,7 @@
   {
     "name": "GAZI TV HD",
     "type": "Bangla",
-    "url": "http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8",
+    "url": "http://tvn2.chowdhury-shaheb.com:80/gazitv/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png"
   },
   {
@@ -1972,6 +1984,12 @@
     "type": "Bangla",
     "url": "http://103.229.254.25:7001/play/a05q/index.m3u8",
     "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/a/a3/Maasranga_TV_HD_logo.png"
+  },
+  {
+    "name": "Me TV",
+    "type": "Bangla",
+    "url": "http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8",
+    "img": "https://yt3.googleusercontent.com/OHsKWwrPCUUomluu0R4GqjQNXuD3vOHDK3dLq2Qczmu9ZI5X7ljltXoHM8c4-vElz4DdD3qflQ=s72-c-k-c0x00ffffff-no-rj"
   },
   {
     "name": "MOV | Bangla Movies (Tplay)",
@@ -1992,16 +2010,16 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png"
   },
   {
+    "name": "MOV | ZB Cinema",
+    "type": "Bangla",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/index.m3u8",
+    "img": "https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg"
+  },
+  {
     "name": "MOV | ZEE BANGLA CINEMA",
     "type": "Bangla",
     "url": "http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8",
     "img": "http://openboxv8s.com/india/zee_bangla_cinema.jpg"
-  },
-  {
-    "name": "Movie Bangla TV",
-    "type": "Bangla",
-    "url": "http://alvetv.com/mbtv/8080/index.m3u8",
-    "img": "https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png"
   },
   {
     "name": "MU | Bengali Beats",
@@ -2042,7 +2060,7 @@
   {
     "name": "STAR JALSHA HD (Ads Only)",
     "type": "Bangla",
-    "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8",
     "img": "http://openboxv8s.com/india/star_jalsha.png"
   },
   {
@@ -3108,6 +3126,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "---Live(Star Sports 1 HD)---",
+    "type": "Sports",
+    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
+    "img": "https://static.epg.best/cn/StarSports1.cn.png"
+  },
+  {
     "name": "---Live(T Sports HD)---",
     "type": "Sports",
     "url": "http://198.195.239.50:8095/Tsports/index.m3u8",
@@ -3164,13 +3188,13 @@
   {
     "name": "CR | Fox Cricket 501 HD",
     "type": "Sports",
-    "url": "http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/19146/index.m3u8",
+    "url": "http://i0ckghar.otttv.pw/iptv/HYVPB352KPFADRC2A2KTW8XK/19146/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/2/24/FoxCricket.svg"
   },
   {
     "name": "FB | FIFA+",
     "type": "Sports",
-    "url": "https://ba3e2e93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c0VuZ2xpc2hfSExT/playlist.m3u8?ads.wurl_channel=1781&ads.wurl_name=FIFAPlusEnglish&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+    "url": "https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN270000230_20250514T004921SQUARE.png"
   },
   {
@@ -3208,12 +3232,6 @@
     "type": "Sports",
     "url": "https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8",
     "img": "https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90"
-  },
-  {
-    "name": "FIGHT | MMA TV",
-    "type": "Sports",
-    "url": "https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8",
-    "img": "https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7"
   },
   {
     "name": "FIGHT | MVMT Culture",
@@ -3400,12 +3418,6 @@
     "type": "Sports",
     "url": "https://dqw6u0upa8l21.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0etl87ne2tj77/Hagerty.m3u8",
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png"
-  },
-  {
-    "name": "RACING | MTRSPT1",
-    "type": "Sports",
-    "url": "https://amg02873-kravemedia-mtrspt1-sportstribal-ajosc.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-sportstribal/playlist.m3u8",
-    "img": "https://a.jsrdn.com/hls/23099/mtrspt1/logo_20250122_232635_70.png"
   },
   {
     "name": "RACING | RACER International",
@@ -4698,6 +4710,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "EN | Oxygen Music",
+    "type": "Music",
+    "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg"
+  },
+  {
     "name": "EN | Play TV",
     "type": "Music",
     "url": "http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8",
@@ -4790,7 +4808,7 @@
   {
     "name": "EN | XITE Hits",
     "type": "Music",
-    "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
+    "url": "https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/02/Xite_2013.svg"
   },
   {
@@ -5892,12 +5910,6 @@
     "img": "https://live.dinesh29.com.np/logos/jiotvplus/colorsbengalihd.png"
   },
   {
-    "name": "Aamar Bangla (720p)",
-    "type": "Entertainment",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png"
-  },
-  {
     "name": "Asian TV (1080p)",
     "type": "Entertainment",
     "url": "https://edge2.roarzone.info:8447/roarzone/edge3/asian-tv/index.m3u8",
@@ -6528,15 +6540,9 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a0/WWAY_3_%282016%29.svg"
   },
   {
-    "name": "AccuWeather NOW",
-    "type": "International News",
-    "url": "https://amg00684-accuweather-accuweather-plex-jbd2s.amagi.tv/playlist/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/e/ec/AccuWeather_2019_stacked.svg"
-  },
-  {
     "name": "Al Jazeera English HD",
     "type": "International News",
-    "url": "https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8",
+    "url": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
     "img": "https://emergencyuk.org/wp-content/uploads/2017/03/Aljazeera-logo-English-1024x768.png"
   },
   {
@@ -6560,7 +6566,7 @@
   {
     "name": "Bloomberg TV",
     "type": "International News",
-    "url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+    "url": "https://bloomberg.com/media-manifest/streams/us.m3u8",
     "img": "https://cordcutting.com/wp-content/uploads/2018/01/bloomberg-television-logo-300x150.png"
   },
   {
@@ -6616,12 +6622,6 @@
     "type": "International News",
     "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/3/39/Fox_News_Channel_%282017%29.svg"
-  },
-  {
-    "name": "France 24 English",
-    "type": "International News",
-    "url": "http://iptv.prosto.tv:7000/ch205/video.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg"
   },
   {
     "name": "GB News",
@@ -6882,12 +6882,6 @@
     "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png"
   },
   {
-    "name": "MOV | Star Gold HD",
-    "type": "India",
-    "url": "http://198.195.239.50:8095/StarGold/index.m3u8",
-    "img": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png"
-  },
-  {
     "name": "MOV | Star Gold Thrills",
     "type": "India",
     "url": "http://119.152.240.15:8000/play/a0iy/index.m3u8",
@@ -7106,7 +7100,7 @@
   {
     "name": "NEWS | IBC 24",
     "type": "India",
-    "url": "https://cdn-3.pishow.tv/live/220/master.m3u8",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/4/4b/Ibc24.png"
   },
   {
@@ -7626,6 +7620,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Weather Spy",
+    "type": "Educational",
+    "url": "https://beaece44.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1dlYXRoZXJTcHlfSExT/playlist.m3u8",
+    "img": "https://weatherspy.net/icon.png"
+  },
+  {
     "name": "Wheel World",
     "type": "Educational",
     "url": "https://cc-ii7599ywyixac.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ii7599ywyixac/IQJW/WBD/WheelWorld_IN/WheelWorld_IN.m3u8",
@@ -7754,7 +7754,7 @@
   {
     "name": "EN | COURT TV",
     "type": "International",
-    "url": "https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
+    "url": "https://d2fm99ft1zcnjm.cloudfront.net/playlist/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8",
     "img": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true"
   },
   {
@@ -7768,12 +7768,6 @@
     "type": "International",
     "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/e/e6/Red_Carpet_TV.svg"
-  },
-  {
-    "name": "EN | TV BRICS English",
-    "type": "International",
-    "url": "https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/0/0c/TV_BRICS.svg"
   },
   {
     "name": "H2O & Friends",
