@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-17 22:29:27",
+  "date": "2026-03-18 07:16:59",
   "channels": {
     "Promo": [
       {
@@ -17,13 +17,6 @@
         "group": "Live Sports",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8"
-      },
-      {
-        "name": "Live Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10",
-        "group": "Live Sports",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.161.153.165:8000/play/a02f/index.m3u8"
       },
       {
         "name": "Live Sports",
@@ -82,13 +75,6 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
-      },
-      {
-        "name": "Channel 9",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png",
-        "group": "Bangla",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.161.153.165:8000/play/a02g/index.m3u8"
       },
       {
         "name": "Channel S UK HD",
@@ -253,13 +239,6 @@
         "group": "Kolkata Bangla Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8"
-      },
-      {
-        "name": "ZB Cinema",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Kolkata Bangla Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8"
       }
     ],
     "Kolkata Bangla Music": [
@@ -431,13 +410,6 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.175.73.12:8080/live/270/270_0.m3u8"
-      },
-      {
-        "name": "Zee Action",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",
-        "group": "Hindi Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.161.153.165:8000/play/a03s/index.m3u8"
       },
       {
         "name": "Star Gold",
@@ -918,13 +890,6 @@
       }
     ],
     "English Movies": [
-      {
-        "name": "And Flix",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "English Movies",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.161.153.165:8000/play/a01z/index.m3u8"
-      },
       {
         "name": "And Prive",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -2073,6 +2038,13 @@
         "group": "Bangladeshi 🇧🇩",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
+      },
+      {
+        "name": "pcv",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Bangladeshi 🇧🇩",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
       },
       {
         "name": "24/7 Shinchan",
@@ -3496,6 +3468,13 @@
         "url": "https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8"
       },
       {
+        "name": "24 News (576p)",
+        "logo": "https://i.imgur.com/xraizkS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8"
+      },
+      {
         "name": "99TV (720p)",
         "logo": "https://i.imgur.com/dZA4gel.png",
         "group": "News",
@@ -4803,13 +4782,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm"
-      },
-      {
-        "name": "Twenty Four News (396p)",
-        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8"
       },
       {
         "name": "V6 News (576p)",

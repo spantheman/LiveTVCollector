@@ -85,11 +85,6 @@ URL: https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Channel 9
-URL: http://103.161.153.165:8000/play/a02g/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Channel S UK HD
 URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg
@@ -150,6 +145,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: DBC টিভি 🇧🇩
 URL: http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: pcv
+URL: https://padmaonline.duckdns.org:8088/pcv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -512,11 +512,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: English Movies
-Name: And Flix
-URL: http://103.161.153.165:8000/play/a01z/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: And Prive
 URL: http://202.70.146.135:8000/play/a05y/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1677,11 +1672,6 @@ URL: http://103.175.73.12:8080/live/270/270_0.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Zee Action
-URL: http://103.161.153.165:8000/play/a03s/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Star Gold
 URL: http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png
@@ -2119,11 +2109,6 @@ URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: ZB Cinema
-URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 
 Group: Kolkata Bangla Music
 Name: Dhoom Music
@@ -2189,11 +2174,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Group: Live Sports
 Name: Live Sports
 URL: https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Live Sports
-URL: http://103.161.153.165:8000/play/a02f/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3196,6 +3176,11 @@ URL: https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: 24 News (576p)
+URL: https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+Logo: https://i.imgur.com/xraizkS.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: 99TV (720p)
 URL: https://cdn-1.pishow.tv/live/1211/master.m3u8
 Logo: https://i.imgur.com/dZA4gel.png
@@ -4129,11 +4114,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="News",TV Punjab (720p)
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm
 Logo: https://en.tvpunjab.com/storage/2022/03/logo-2022.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Twenty Four News (396p)
-URL: https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: V6 News (576p)

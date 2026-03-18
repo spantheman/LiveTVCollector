@@ -14,12 +14,6 @@
   {
     "name": "Live Sports",
     "type": "Live Sports",
-    "url": "http://103.161.153.165:8000/play/a02f/index.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
-    "name": "Live Sports",
-    "type": "Live Sports",
     "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
   },
@@ -64,12 +58,6 @@
     "type": "Bangla",
     "url": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png"
-  },
-  {
-    "name": "Channel 9",
-    "type": "Bangla",
-    "url": "http://103.161.153.165:8000/play/a02g/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"
   },
   {
     "name": "Channel S UK HD",
@@ -201,12 +189,6 @@
     "name": "Bangla Movies",
     "type": "Kolkata Bangla Movies",
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZB Cinema",
-    "type": "Kolkata Bangla Movies",
-    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -345,12 +327,6 @@
     "name": "Zee Action",
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"
-  },
-  {
-    "name": "Zee Action",
-    "type": "Hindi Movies",
-    "url": "http://103.161.153.165:8000/play/a03s/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"
   },
   {
@@ -754,12 +730,6 @@
     "type": "KIDS",
     "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
-  },
-  {
-    "name": "And Flix",
-    "type": "English Movies",
-    "url": "http://103.161.153.165:8000/play/a01z/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "And Prive",
@@ -1725,6 +1695,12 @@
     "name": "DBC টিভি 🇧🇩",
     "type": "Bangladeshi 🇧🇩",
     "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "pcv",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2934,6 +2910,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/22Scope_News.png"
   },
   {
+    "name": "24 News (576p)",
+    "type": "News",
+    "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
+    "img": "https://i.imgur.com/xraizkS.png"
+  },
+  {
     "name": "99TV (720p)",
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8",
@@ -4054,12 +4036,6 @@
     "type": "News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=W-glh07KfBm",
     "img": "https://en.tvpunjab.com/storage/2022/03/logo-2022.png"
-  },
-  {
-    "name": "Twenty Four News (396p)",
-    "type": "News",
-    "url": "https://segment.yuppcdn.net/110322/channel24/playlist.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TWENTY_FOUR/images/LOGO_HD/image.png"
   },
   {
     "name": "V6 News (576p)",
