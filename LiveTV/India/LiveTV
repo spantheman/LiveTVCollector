@@ -90,9 +90,9 @@
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
   },
   {
-    "name": "Peace TV English",
+    "name": "Peace TV Urdu",
     "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
@@ -100,6 +100,12 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -405,6 +411,12 @@
     "name": "Star Sports 1 HD",
     "type": "Sports",
     "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "type": "Sports",
+    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
   },
   {
@@ -726,6 +738,12 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
   },
   {
+    "name": "Lotus",
+    "type": "English Movies",
+    "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "And Flix",
     "type": "English Movies",
     "url": "http://103.161.153.165:8000/play/a01z/index.m3u8",
@@ -772,12 +790,6 @@
     "type": "Hindi Music",
     "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "9XM",
-    "type": "Hindi Music",
-    "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"
   },
   {
     "name": "E24",
@@ -1569,12 +1581,6 @@
     "name": "Arabica TV",
     "type": "Bangladeshi 🇧🇩",
     "url": "http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DBC টিভি 🇧🇩",
-    "type": "Bangladeshi 🇧🇩",
-    "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4552,12 +4558,6 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
-  },
-  {
-    "name": "Peace TV Urdu (1080p)",
-    "type": "Religious",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
