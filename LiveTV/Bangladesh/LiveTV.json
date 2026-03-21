@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-21 06:46:28",
+  "date": "2026-03-21 13:52:43",
   "channels": {
     "BANGLA": [
       {
@@ -506,13 +506,6 @@
         "url": "http://198.195.239.50:8095/DiscoveryKids/index.m3u8"
       },
       {
-        "name": "0. Gopal Var",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",
-        "group": "Kids",
-        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
-      },
-      {
         "name": "0. Hooray Rhymes",
         "logo": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4600007TC_20250122T004830SQUARE.png",
         "group": "Kids",
@@ -594,7 +587,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fc/Hi_dostv2.png",
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://mumt03.tangotv.in/HIDOST/index.m3u8"
+        "url": "https://cdn-1.pishow.tv/live/224/master.m3u8"
       },
       {
         "name": "1. Hooray Kids",
@@ -2297,6 +2290,13 @@
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8"
       },
       {
+        "name": "DEEPTO TV HD",
+        "logo": "https://jcwsw2vt33.gpcdn.net/uploads/images/2022/07/25/logos_1384ea456744d5914ba331fa72df78c8_goplay_deepto_logo_final_white.svg",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8"
+      },
+      {
         "name": "Ekushay TV",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png",
         "group": "Bangla",
@@ -2323,6 +2323,13 @@
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
         "url": "http://103.229.254.25:7001/play/a05q/index.m3u8"
+      },
+      {
+        "name": "Me TV",
+        "logo": "https://yt3.googleusercontent.com/OHsKWwrPCUUomluu0R4GqjQNXuD3vOHDK3dLq2Qczmu9ZI5X7ljltXoHM8c4-vElz4DdD3qflQ=s72-c-k-c0x00ffffff-no-rj",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "MOV | COLORS BANGLA CINEMA HD",
@@ -2353,6 +2360,13 @@
         "url": "http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8"
       },
       {
+        "name": "MU | Bengali Beats",
+        "logo": "https://tplay.live/originals/bengali-beats/bengali-beats.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8"
+      },
+      {
         "name": "MU | SANGEET BANGLA",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",
         "group": "Bangla",
@@ -2364,7 +2378,7 @@
         "logo": "https://cdn.dribbble.com/userupload/32075529/file/original-52b78ab450ff3dd796b6b99265e319f4.jpg",
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+        "url": "https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "NAGORIK HD",
@@ -2388,11 +2402,18 @@
         "url": "https://cdn-4.pishow.tv/live/1499/master.m3u8"
       },
       {
+        "name": "SONY AATH HD",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/00/SONY_AATH.png",
+        "group": "Bangla",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8"
+      },
+      {
         "name": "STAR JALSHA HD (Ads Only)",
         "logo": "http://openboxv8s.com/india/star_jalsha.png",
         "group": "Bangla",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8"
+        "url": "https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8"
       },
       {
         "name": "US-BD Journal 24 TV",
@@ -3787,6 +3808,13 @@
         "url": "https://d2w9b8sam7j3zv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5g55ahrn9ajah/v1/pfl_pflmma_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
       },
       {
+        "name": "FIGHT | TNA Wrestling Channel",
+        "logo": "https://media.unreel.me/prod/sportsplus/logo/67c2dd14-d8c7-47fa-99e5-452f2715e404",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8"
+      },
+      {
         "name": "GOLF | Golf Network",
         "logo": "https://media.unreel.me/prod/freelivesports/logo/aef93e60-809c-4253-8a6f-012ad4a18842",
         "group": "Sports",
@@ -3889,7 +3917,7 @@
         "logo": "https://openpaddock.net/wp-content/uploads/2014/11/RedbullTV_blue.jpg",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+        "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8"
       },
       {
         "name": "MIXER | Sharjah Sports",
@@ -3924,7 +3952,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/Trace_Sport_Stars_%282022%29.svg",
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"
+        "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8"
       },
       {
         "name": "MIXER | WOF 1",
@@ -5192,6 +5220,13 @@
         "url": "https://tvsen7.aynascope.net/MadaniTV/index.m3u8?e=1773655989&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=44b783a30e9ae3231d0b07401f6d2030"
       },
       {
+        "name": "Dua Channel",
+        "logo": "https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",
+        "group": "Religious",
+        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
+        "url": "https://newyork.zeuscdn724.com:443/H9/index.m3u8"
+      },
+      {
         "name": "Hyder TV",
         "logo": "https://hyder.tv/wp-content/uploads/2019/08/Logo_HYDER-TV_high-res_013.png",
         "group": "Religious",
@@ -5506,13 +5541,6 @@
         "group": "Music",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
         "url": "https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "EN | Oxygen Music",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6c/Oxygen_2017.svg",
-        "group": "Music",
-        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8"
       },
       {
         "name": "EN | Play TV",
@@ -7801,13 +7829,6 @@
         "url": "https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "France 24 English",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/02/France_24_2013.svg",
-        "group": "International News",
-        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
-      },
-      {
         "name": "GB News",
         "logo": "https://assets.rbl.ms/61228189/origin.png",
         "group": "International News",
@@ -7927,13 +7948,6 @@
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/9b91e9007e754db39a8b32c6bfc5b24a/index.m3u8"
-      },
-      {
-        "name": "ENT | E24",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/48/E24_new.jpg",
-        "group": "India",
-        "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8"
       },
       {
         "name": "ENT | Epic TV",
@@ -8318,7 +8332,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4b/Ibc24.png",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0bfbd0b9de7f4407949202296560c0fe/index.m3u8"
+        "url": "https://cdn-3.pishow.tv/live/220/master.m3u8"
       },
       {
         "name": "NEWS | India Today",
@@ -8381,7 +8395,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/f/fe/Republic-logo2.svg",
         "group": "India",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8"
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8"
       },
       {
         "name": "NEWS | Times Now Navbharat",
@@ -8467,7 +8481,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/Dunya_News.png",
         "group": "Pakistan",
         "source": "https://raw.githubusercontent.com/time2shine/IPTV/refs/heads/master/combined.m3u",
-        "url": "https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w1668837618_b950272.m3u8"
+        "url": "http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8"
       },
       {
         "name": "NEWS | GEO TEZZ",
