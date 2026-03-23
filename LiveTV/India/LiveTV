@@ -78,6 +78,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Peace TV Bangla",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
+    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
+  },
+  {
     "name": "Peace TV English",
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
@@ -100,12 +106,6 @@
     "type": "Relagion Channel",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
     "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
-    "name": "AL Sunnah TV",
-    "type": "Relagion Channel",
-    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
-    "img": "https://i.ibb.co/rtkWYHV/20240827-092043.png"
   },
   {
     "name": "EWTN TV",
@@ -165,12 +165,6 @@
     "name": "ZB Cinema",
     "type": "Kolkata Bangla Movies",
     "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Dhoom Music",
-    "type": "Kolkata Bangla Music",
-    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -606,12 +600,6 @@
     "img": "https://i.imgur.com/XVUGLxa.png"
   },
   {
-    "name": "Tom & Jarry",
-    "type": "KIDS",
-    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
-    "img": "h"
-  },
-  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -846,6 +834,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "M Sports BD",
+    "type": "Cricket 🏏",
+    "url": "https://cors-proxy.cooks.fyi/http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "TSportss BD",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8",
@@ -892,12 +886,6 @@
     "type": "Football",
     "url": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BIS HABER",
-    "type": "Football",
-    "url": "https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8",
-    "img": "https://i.ibb.co/BfM21nC/beinhaber.png"
   },
   {
     "name": "A SPOR",
@@ -1470,16 +1458,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sunnah Tv",
-    "type": "ISLAMIC CHANNELS",
-    "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "QURAN",
     "type": "ISLAMIC CHANNELS",
     "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
     "img": "https://i.ibb.co/GnfgKbs/alquran.png"
+  },
+  {
+    "name": "BAHRAIN QURAN",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8",
+    "img": "https://i.ibb.co/cygNtwH/bahrain-quaran.png"
   },
   {
     "name": "QURAN RADIOTV SMC",

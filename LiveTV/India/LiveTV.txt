@@ -264,6 +264,11 @@ URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: M Sports BD
+URL: https://cors-proxy.cooks.fyi/http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: TSportss BD
 URL: https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -994,11 +999,6 @@ URL: https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: BIS HABER
-URL: https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Bein_Spor_Haber.m3u8
-Logo: https://i.ibb.co/BfM21nC/beinhaber.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: A SPOR
 URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 Logo: https://i.ibb.co/xSjB51j/aspor.png
@@ -1469,14 +1469,14 @@ URL: https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Sunnah Tv
-URL: http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: QURAN
 URL: http://m.live.net.sa:1935/live/quran/playlist.m3u8
 Logo: https://i.ibb.co/GnfgKbs/alquran.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: BAHRAIN QURAN
+URL: https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+Logo: https://i.ibb.co/cygNtwH/bahrain-quaran.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: QURAN RADIOTV SMC
@@ -1679,11 +1679,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: KIDS
-Name: Tom & Jarry
-URL: https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-Logo: h
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Zoo Moo
 URL: https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1799,13 +1794,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: ZB Cinema
 URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-
-Group: Kolkata Bangla Music
-Name: Dhoom Music
-URL: http://103.175.73.12:8080/live/378/378_0.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3628,6 +3616,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
+Name: Peace TV Bangla
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
+Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Peace TV English
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
@@ -3646,11 +3639,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Makkah TV
 URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: AL Sunnah TV
-URL: http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-Logo: https://i.ibb.co/rtkWYHV/20240827-092043.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: EWTN TV
