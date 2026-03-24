@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-23 22:20:09",
+  "date": "2026-03-24 06:49:53",
   "channels": {
     "BANGLA": [
       {
@@ -189762,6 +189762,15 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/355ba051-9a60-48aa-adcf-5a6c64da8c5c/355ba051-9a60-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8"
+      }
+    ],
+    "Business": [
+      {
+        "name": "Ekhon TV (1080p)",
+        "logo": "https://i.imgur.com/tRrDh6z.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://tplay.live/out/bangladesh/ekhontv.index.m3u8"
       }
     ],
     "Family": [
