@@ -60,12 +60,6 @@
     "img": "https://i.ibb.co.com/4VtHQpf/20240907-023221.png"
   },
   {
-    "name": "ATN Music",
-    "type": "Bangla Music",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"
-  },
-  {
     "name": "RTV Music",
     "type": "Bangla Music",
     "url": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8",
@@ -82,12 +76,6 @@
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
-  },
-  {
-    "name": "Peace TV English",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
     "name": "Peace TV Urdu",
@@ -174,12 +162,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Dhoom Music",
-    "type": "Kolkata Bangla Music",
-    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "ABP Ananda",
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
@@ -225,6 +207,30 @@
     "name": "NK",
     "type": "Indian Bangla News",
     "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Pal",
+    "type": "Uncategorized",
+    "url": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Plus",
+    "type": "Hindi",
+    "url": "http://103.229.254.25:7001/play/a09z/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"
+  },
+  {
+    "name": "Zee TV HD",
+    "type": "Hindi",
+    "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"
+  },
+  {
+    "name": "Big Magic",
+    "type": "Hindi",
+    "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -346,12 +352,6 @@
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s"
-  },
-  {
-    "name": "Big Magic",
-    "type": "Hindi",
-    "url": "http://103.175.73.12:8080/live/13/13_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Star Sports 1 HD",
@@ -753,6 +753,12 @@
     "name": "ETV TV",
     "type": "Live Tv",
     "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Me-টিভি",
+    "type": "Live Tv",
+    "url": "https://iptvbd.live/metv1080/1080.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1338,6 +1344,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "pcv",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "24/7 Shinchan",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8",
@@ -1431,6 +1443,12 @@
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Peace Tv English",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
