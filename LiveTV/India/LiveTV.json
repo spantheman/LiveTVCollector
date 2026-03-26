@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-25 22:27:00",
+  "date": "2026-03-26 07:22:04",
   "channels": {
     "Promo": [
       {
@@ -78,6 +78,13 @@
       }
     ],
     "Bangla Music": [
+      {
+        "name": "ATN Music",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",
+        "group": "Bangla Music",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+      },
       {
         "name": "RTV Music",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -280,38 +287,6 @@
         "url": "https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8"
       }
     ],
-    "Uncategorized": [
-      {
-        "name": "Sony Pal",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://45.127.56.3:6699/live/Corpus-POL1/SRV4/2/SONY-PAL/live.mpd"
-      }
-    ],
-    "Hindi": [
-      {
-        "name": "Star Plus",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png",
-        "group": "Hindi",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a09z/index.m3u8"
-      },
-      {
-        "name": "Zee TV HD",
-        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",
-        "group": "Hindi",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8"
-      },
-      {
-        "name": "Big Magic",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Hindi",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.175.73.12:8080/live/13/13_0.m3u8"
-      }
-    ],
     "Hindi Movies": [
       {
         "name": "Zee Anmol TV",
@@ -452,6 +427,15 @@
         "group": "Hindi Movies",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://103.175.73.12:8080/live/19/19_0.m3u8"
+      }
+    ],
+    "Hindi": [
+      {
+        "name": "Big Magic",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Hindi",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.175.73.12:8080/live/13/13_0.m3u8"
       }
     ],
     "Sports": [
@@ -720,7 +704,7 @@
       },
       {
         "name": "Sony BBC Earth HD (1080p)",
-        "logo": "https://i.imgur.com/XVUGLxa.png",
+        "logo": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://116.90.120.151:8000/play/a0j1/index.m3u8"
@@ -943,13 +927,6 @@
         "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8"
       },
       {
-        "name": "Me-টিভি",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://iptvbd.live/metv1080/1080.m3u8"
-      },
-      {
         "name": "NXT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1017,6 +994,13 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://stream.spicefmbd.com/stream.m3u8"
+      },
+      {
+        "name": "M Sports BD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://cors-proxy.cooks.fyi/http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "TSportss BD",
@@ -1632,13 +1616,6 @@
         "group": "Bangladeshi 🇧🇩",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8"
-      },
-      {
-        "name": "pcv",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Bangladeshi 🇧🇩",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://padmaonline.duckdns.org:8088/pcv/index.m3u8"
       },
       {
         "name": "24/7 Shinchan",
@@ -2329,7 +2306,7 @@
       },
       {
         "name": "Sony Aath (720p)",
-        "logo": "https://i.imgur.com/q4AwVq9.png",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://103.161.153.165:8000/play/sonyatth/index.m3u8"
@@ -2389,13 +2366,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8"
-      },
-      {
-        "name": "StarPlus HD (720p)",
-        "logo": "https://i.imgur.com/xWxNy3L.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://padmaonline.duckdns.org:8088/StarPlusHD/index.m3u8"
       },
       {
         "name": "Studio Yuva (576p)",
@@ -2638,6 +2608,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8"
+      },
+      {
+        "name": "CGTN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://0472.org/hls/cgtn.m3u8"
       },
       {
         "name": "CNN (US)",
@@ -3678,6 +3655,13 @@
         "url": "https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8"
       },
       {
+        "name": "Prime News (576p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Prime_News.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt02.tangotv.in/PRIMENEWS/index.m3u8"
+      },
+      {
         "name": "Prudent Media (1080p)",
         "logo": "https://i.imgur.com/DG0x4UD.png",
         "group": "News",
@@ -3846,6 +3830,13 @@
         "url": "http://116.90.120.151:8000/play/a0h2/index.m3u8"
       },
       {
+        "name": "STV Haryana News (576p)",
+        "logo": "https://i.imgur.com/TJRZo9e.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8"
+      },
+      {
         "name": "Sudarshan News (1080p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUDARSHAN_NEWS/images/LOGO_HD/image.png",
         "group": "News",
@@ -3991,6 +3982,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Vistaar News (576p)",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISTAAR_NEWS/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8"
       },
       {
         "name": "Zee 24 Ghanta (576p)",
@@ -5044,6 +5042,13 @@
         "url": "https://stream.singamcloud.in/shalinitv/shalinitv/index.m3u8"
       },
       {
+        "name": "Shekinah TV (1080p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Shekinah.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8"
+      },
+      {
         "name": "Shemaroo Marathi Bana (720p)",
         "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png",
         "group": "Undefined",
@@ -5065,6 +5070,13 @@
         "url": "https://mumt04.tangotv.in/SUBHARTITV/index.m3u8"
       },
       {
+        "name": "Taaza TV (720p)",
+        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Taaza_TV.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.we2live.in/taazatv/live/playlist.m3u8"
+      },
+      {
         "name": "Tamilan TV (1080p)",
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Tamilan_Television.png",
         "group": "Undefined",
@@ -5084,6 +5096,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-4.pishow.tv/live/239/master.m3u8"
+      },
+      {
+        "name": "The Q India (576p)",
+        "logo": "https://dtil.tmsimg.com/assets/s144002_ld_h15_aa.png?lock=720x540",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://mumt05.tangotv.in/THEQ/index.m3u8"
       },
       {
         "name": "Total TV Haryana (576p)",
