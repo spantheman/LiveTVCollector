@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-28 21:56:57",
+  "date": "2026-03-29 07:24:47",
   "channels": {
     "Promo": [
       {
@@ -30,21 +30,7 @@
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",
         "group": "IPL 2026",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.144.89.251:8082/STAR.SPORTS1.HD/index.m3u8?token=18581078ed533bb3b82ded3836313a98542b7f63-31247d00daebb0d69e54f45c9a71bf91-1774717415-1774706615&remote=no_check_ip"
-      },
-      {
-        "name": "IPL 2026",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",
-        "group": "IPL 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "IPL 2026",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10",
-        "group": "IPL 2026",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://103.144.89.251:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=5856217e4eb3315c8bc4d50bb070968a42f65a21-3a54cb2beeccbac085f1f494683e39be-1774717459-1774706659"
       },
       {
         "name": "IPL 2026",
@@ -386,6 +372,13 @@
         "url": "http://103.229.254.25:7001/play/a09z/index.m3u8"
       },
       {
+        "name": "Zee TV HD",
+        "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png",
+        "group": "Hindi",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8"
+      },
+      {
         "name": "Big Magic",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Hindi",
@@ -698,6 +691,13 @@
         "group": "Information",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8"
+      },
+      {
+        "name": "Discover Pakistan TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Information",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8"
       }
     ],
     "Documentary": [
@@ -1051,6 +1051,13 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
+        "name": "PSL 🇵🇰🏏 Willow HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.m3u8"
+      },
+      {
         "name": "TSportss BD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1165,25 +1172,11 @@
         "url": "https://proshls.wns.live/hls/stream.m3u8"
       },
       {
-        "name": "Russia Football 1 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Football",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://cdntv.online/low/9mlxywika2/55.m3u8"
-      },
-      {
         "name": "Russia Football 2 HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://cdntv.online/low/9mlxywika2/56.m3u8"
-      },
-      {
-        "name": "Russia Football 3 HD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Football",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "http://cdntv.online/low/9mlxywika2/57.m3u8"
       },
       {
         "name": "Real Madrid tv Football",
@@ -2593,13 +2586,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
