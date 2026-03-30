@@ -210,6 +210,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "ABP Ananda",
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
@@ -334,6 +340,12 @@
     "type": "Hindi Movies",
     "url": "http://103.161.153.165:8000/play/a03s/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"
+  },
+  {
+    "name": "Star Gold Select HD",
+    "type": "Hindi Movies",
+    "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg"
   },
   {
     "name": "And Pictures HD",
@@ -654,6 +666,12 @@
     "img": "https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540"
   },
   {
+    "name": "Tom & Jarry",
+    "type": "KIDS",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "img": "h"
+  },
+  {
     "name": "Zoo Moo",
     "type": "KIDS",
     "url": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
@@ -915,12 +933,6 @@
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1342,12 +1354,6 @@
     "type": "Movies",
     "url": "http://116.90.120.151:8000/play/a0he/index.m3u8",
     "img": "https://i.imgur.com/gSWv9U3.png"
-  },
-  {
-    "name": "Star Gold Select HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.229.254.25:7001/play/a032/index.m3u8",
-    "img": "https://i.imgur.com/U7eiuqv.png"
   },
   {
     "name": "Star Gold Thrills (576p)",
