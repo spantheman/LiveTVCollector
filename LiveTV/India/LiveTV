@@ -26,12 +26,6 @@
   {
     "name": "PSL 2026",
     "type": "PSL 2026",
-    "url": "http://sm-monirul.top/RoarZone/play.php?id=ZWRnZTIvdHNwb3J0cw==&e=.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"
-  },
-  {
-    "name": "PSL 2026",
-    "type": "PSL 2026",
     "url": "http://103.175.242.10:8080/tsports1/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrZBygzDovVY_wCvtTy8J8SQogo6-QPwfmGThA4vBFcWXFqXLpCNpQuaG7&s=10"
   },
@@ -166,12 +160,6 @@
     "type": "Bangla Movies",
     "url": "https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Amar Bangla",
-    "type": "Bangla Movies",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png"
   },
   {
     "name": "Gopal Bhar",
@@ -1362,6 +1350,12 @@
     "img": "https://i.imgur.com/azqtpYh.png"
   },
   {
+    "name": "Star Movies HD (1080p)",
+    "type": "Movies",
+    "url": "http://ptu.ridsys.in/riptv/live/STAR_MOVIES_HD/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png"
+  },
+  {
     "name": "Star Movies Select HD (1080p)",
     "type": "Movies",
     "url": "http://116.90.120.151:8000/play/a0ij/index.m3u8",
@@ -1404,6 +1398,12 @@
     "img": "https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/aumnrs.png"
   },
   {
+    "name": "Vijay Super (576p)",
+    "type": "Movies",
+    "url": "http://ptu.ridsys.in/riptv/live/VIJAY_SUPER/index.m3u8",
+    "img": "https://i.imgur.com/3MWm9nD.png"
+  },
+  {
     "name": "Zee Biskope (576p)",
     "type": "Movies",
     "url": "http://116.90.120.151:8000/play/a0kf/index.m3u8",
@@ -1444,6 +1444,12 @@
     "type": "Movies",
     "url": "http://116.90.120.151:8000/play/a0io/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "Zee Thirai HD (1080p)",
+    "type": "Movies",
+    "url": "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Arabica TV",
@@ -1686,6 +1692,12 @@
     "img": "https://dtil.tmsimg.com/assets/s142510_ld_h15_ab.png?lock=720x540"
   },
   {
+    "name": "Aamar Bangla (720p)",
+    "type": "Entertainment",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Amaar_Bangla.png"
+  },
+  {
     "name": "Amrita TV (720p)",
     "type": "Entertainment",
     "url": "https://ddash74r36xqp.cloudfront.net/master.m3u8",
@@ -1744,6 +1756,12 @@
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "img": "https://i.imgur.com/M8uCJ0D.png"
+  },
+  {
+    "name": "Colors Tamil HD (1080p)",
+    "type": "Entertainment",
+    "url": "http://ptu.ridsys.in/riptv/live/COLORS_TAMIL/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png"
   },
   {
     "name": "Dabangg (576p)",
@@ -2088,6 +2106,12 @@
     "img": "https://i.imgur.com/H1jhHDl.png"
   },
   {
+    "name": "Star Vijay (576p)",
+    "type": "Entertainment",
+    "url": "http://ptu.ridsys.in/riptv/live/STAR_VIJAY/index.m3u8",
+    "img": "https://i.imgur.com/dZtJHAe.png"
+  },
+  {
     "name": "Star Vijay HD (360p)",
     "type": "Entertainment",
     "url": "http://198.27.83.207:2550/STAR_VIJAY_SD/index.m3u8",
@@ -2178,6 +2202,12 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540"
   },
   {
+    "name": "Zee Tamil HD (1080p)",
+    "type": "Entertainment",
+    "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540"
+  },
+  {
     "name": "Times Of India",
     "type": "NEWS INTERNASIONAL TV",
     "url": "https://live.sli.ke/live/npnhm84gz9/master.m3u8",
@@ -2235,6 +2265,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4264,6 +4300,12 @@
     "type": "Religious",
     "url": "https://aasthaott.akamaized.net/110923/smil:vedic.smil/playlist.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s144069_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Village TV (576p)",
+    "type": "Religious",
+    "url": "https://villagetv.applelive.in/villagetv/villagetv/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/VillageTV.png"
   },
   {
     "name": "Zainabia Channel",
