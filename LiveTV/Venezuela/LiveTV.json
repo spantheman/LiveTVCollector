@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31 22:26:24",
+  "date": "2026-04-01 08:01:05",
   "channels": {
     "News": [
       {
@@ -787,6 +787,15 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://vcp.myplaytv.com/explosioncreativa/explosioncreativa/playlist.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Nickelodeon Latin America",
+        "logo": "https://i.imgur.com/E84jnP8.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
       }
     ],
     "Family": [
