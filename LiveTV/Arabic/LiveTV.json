@@ -1,5 +1,5 @@
 {
-  "date": "2026-03-31 22:34:16",
+  "date": "2026-04-01 08:48:10",
   "channels": {
     "General": [
       {
@@ -556,6 +556,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Jeddah Radio (1080p)",
+        "logo": "https://i.imgur.com/Q3d7G04.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://live.kwikmotion.com/sbrksajeddahradiolive/srpksajeddahradio/chunks.m3u8"
       },
       {
         "name": "Jordan Songs (1080p)",
