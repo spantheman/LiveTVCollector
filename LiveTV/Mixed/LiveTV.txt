@@ -13536,11 +13536,6 @@ URL: https://amg01821-amg01821c38-rakuten-it-10669.playouts.now.amagi.tv/ts-eu-w
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
-Name: 80 Anni - 2a Guerra Mondiale
-URL: https://12c898047ca54008a2014edf2411f165.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_80Anni2aGuerraMondiale/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
---------------------------------------------------
 
 Group: eSports Live
 Name: ESL Counter Strike Live
@@ -13555,6 +13550,26 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: film
+Name: Film Asiatici - Rakuten TV
+URL: https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
+--------------------------------------------------
+Name: Fantascienza - Rakuten TV
+URL: https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
+--------------------------------------------------
+Name: Bizzarro Movies
+URL: https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
+--------------------------------------------------
+Name: Cinema Italiano
+URL: https://fcfbb33e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0NpbmVtYVNlZ3JldG8tMV9ITFM/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
+--------------------------------------------------
 Name: Cine Peplum
 URL: https://9466b388.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQLTFfSExT/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -13567,11 +13582,6 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/o
 --------------------------------------------------
 Name: CG Grandi Film
 URL: https://9a97f2f113334de59d1c4dc093b76280.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-it_CGtv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
---------------------------------------------------
-Name: Brividy Cinema
-URL: https://136d462a71e843a886633ffc9d0f9bb2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_Serially/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -13692,7 +13702,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Med.TV
-URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiNWE2MDRlYjYtNThjYy00YzgxLWJmZmQtYmI3MDE5Yjc0N2E3IiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+URL: https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-medtv-1-restreaming/bitok/eyJzdGlkIjoiZjNhYjgxYTEtMGNjMC00YTkzLTg1MjQtNDZmOGZkYmE3MTMxIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -13771,7 +13781,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/o
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiNzg5ODA3MTEtNDA0OC00MDliLWE5OTgtOTQ5MjczMzE0ZWIyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
+URL: https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570-restreaming/bitok/eyJzdGlkIjoiZTBkNjczZGItMTAxNS00ZGVlLWE3OWItZDUzMDVmOTgwNmNiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/live/eds/euronews-it/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -13806,7 +13816,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiNDQ0ZmNiMjAtNzAyNi00MDMwLWFjYWMtYjdkNzk4MjM0ODkwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
+URL: https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576-restreaming/bitok/eyJzdGlkIjoiYzczMjczMTUtZTI5ZS00OTkzLTliYjAtZDkyYWZjMTQ2YWE3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/live/eds/africanews-en/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
@@ -13837,11 +13847,6 @@ URL: https://alarm-for-cobra-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649b
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
-Name: Serially Crime
-URL: https://bb0eae10f3324ced912bfb79fff13245.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SeriallyCrime/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
---------------------------------------------------
 Name: Soap Latino
 URL: https://2bbff49a727b4b1fad4b7928ca7bb0ed.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapLatino/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -13849,11 +13854,6 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/o
 --------------------------------------------------
 Name: Soap Turco
 URL: https://f3fabe7fdead448fa4d41b06c2f56a82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_SoapTurco/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
---------------------------------------------------
-Name: Risate dal Sud
-URL: https://ea65571e3aa748d1a0c2a15a8ab8b07a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RisatealSud/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/master/output/rakuten.m3u
 --------------------------------------------------
