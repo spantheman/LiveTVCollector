@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-01 22:31:39",
+  "date": "2026-04-02 08:14:22",
   "channels": {
     "General": [
       {
@@ -256,7 +256,7 @@
       },
       {
         "name": "LBC (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/whyZXzW.png",
+        "logo": "https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8"
@@ -660,7 +660,7 @@
         "logo": "https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8"
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8"
       },
       {
         "name": "Rashid AlMajed (1080p)",
@@ -1200,7 +1200,7 @@
       },
       {
         "name": "Al Arabiya (1080p)",
-        "logo": "https://i.imgur.com/NXFkYFj.png",
+        "logo": "https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
@@ -1653,7 +1653,7 @@
         "logo": "https://i.imgur.com/cTLj7Yt.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8"
+        "url": "https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8"
       },
       {
         "name": "iFilm Arabic",
@@ -1710,13 +1710,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8"
-      },
-      {
-        "name": "Spooky Nights (1080p)",
-        "logo": "https://shahid.mbc.net/mediaObject/b0016b19-b35b-4ea6-afb9-5b74a0aac825?height=auto&width=512&croppingPoint=&version=1&type=png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8"
       }
     ],
     "Kids": [
@@ -1796,7 +1789,7 @@
     "Business": [
       {
         "name": "Al Arabiya Business (1080p)",
-        "logo": "https://i.imgur.com/eEV4r6J.jpg",
+        "logo": "https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
@@ -2193,15 +2186,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8"
-      }
-    ],
-    "Animation": [
-      {
-        "name": "Anime (1080p)",
-        "logo": "https://shahid.mbc.net/mediaObject/a5893f8d-8488-4c21-ab97-a627f99c7676?height=auto&width=512&croppingPoint=&version=1&type=png",
-        "group": "Animation",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8"
       }
     ],
     "Documentary;Education": [

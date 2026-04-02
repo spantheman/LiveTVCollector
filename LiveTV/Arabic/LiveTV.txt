@@ -1,10 +1,3 @@
-Group: Animation
-Name: Anime (1080p)
-URL: https://shls-live-enc.edgenextcdn.net/out/v1/e7350ddf46c94dddafe14b099394ff56/index.m3u8
-Logo: https://shahid.mbc.net/mediaObject/a5893f8d-8488-4c21-ab97-a627f99c7676?height=auto&width=512&croppingPoint=&version=1&type=png
-Source: https://iptv-org.github.io/iptv/languages/ara.m3u
---------------------------------------------------
-
 Group: Animation;Kids
 Name: Spacetoon Arabic (1080p)
 URL: https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
@@ -15,7 +8,7 @@ Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 Group: Business
 Name: Al Arabiya Business (1080p)
 URL: https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
-Logo: https://i.imgur.com/eEV4r6J.jpg
+Logo: https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: CNBC Arabiya (1080p)
@@ -368,7 +361,7 @@ Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: LBC (1080p) [Geo-blocked]
 URL: https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8
-Logo: https://i.imgur.com/whyZXzW.png
+Logo: https://s3.eu-central-1.amazonaws.com/rotana.website/channels/1688402500.webp
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: Libya Al Wataniya (360p)
@@ -605,7 +598,7 @@ Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 
 Group: Movies
 Name: Aflam (1080p)
-URL: https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+URL: https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 Logo: https://i.imgur.com/cTLj7Yt.png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
@@ -647,11 +640,6 @@ Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 Name: Rotana Cinema KSA (1080p) [Geo-blocked]
 URL: https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.imgur.com/pGgp38I.png
-Source: https://iptv-org.github.io/iptv/languages/ara.m3u
---------------------------------------------------
-Name: Spooky Nights (1080p)
-URL: https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8
-Logo: https://shahid.mbc.net/mediaObject/b0016b19-b35b-4ea6-afb9-5b74a0aac825?height=auto&width=512&croppingPoint=&version=1&type=png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 
@@ -762,7 +750,7 @@ Logo: https://i.imgur.com/JkDD3bK.png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: Rabeh Saqer (1080p)
-URL: https://shls-live-enc.edgenextcdn.net/out/v1/ea4275b6dc0840c198c17f6dc6f1ec49/index.m3u8
+URL: https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 Logo: https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
@@ -805,7 +793,7 @@ Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: Al Arabiya (1080p)
 URL: https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-Logo: https://i.imgur.com/NXFkYFj.png
+Logo: https://shahid.mbc.net/mediaObject/a4c125db-ede8-4970-9eed-963948c78651?height=auto&width=512&croppingPoint=&version=1&type=png
 Source: https://iptv-org.github.io/iptv/languages/ara.m3u
 --------------------------------------------------
 Name: Al Araby TV (1080p)
