@@ -96,22 +96,16 @@
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
   },
   {
-    "name": "Peace TV English",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
-    "name": "Peace TV Urdu",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -186,6 +180,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Colors Bangla Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
+  },
+  {
     "name": "Dhoom Music",
     "type": "Kolkata Bangla Music",
     "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
@@ -250,6 +250,12 @@
     "type": "Hindi",
     "url": "http://103.229.254.25:7001/play/a09z/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"
+  },
+  {
+    "name": "Colors",
+    "type": "Hindi",
+    "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"
   },
   {
     "name": "Zee TV",
@@ -942,6 +948,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Russia Football 3 HD",
+    "type": "Football",
+    "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Real Madrid tv Football",
     "type": "Football",
     "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
@@ -976,12 +988,6 @@
     "type": "Movies",
     "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
-  },
-  {
-    "name": "&prive HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.161.153.165:8000/play/a05m/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540"
   },
   {
     "name": "&TV (576p)",
@@ -1596,12 +1602,6 @@
     "img": "https://i.ibb.co/V2gtYfH/download-1.png"
   },
   {
-    "name": "Amazon SAT",
-    "type": "Infotainment Channels",
-    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "FASHION ONE",
     "type": "Entertainment",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
@@ -1660,12 +1660,6 @@
     "type": "Entertainment",
     "url": "https://mumt01.tangotv.in/CAPTAIN/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540"
-  },
-  {
-    "name": "Colors (576p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
-    "img": "https://i.imgur.com/M8uCJ0D.png"
   },
   {
     "name": "Colors Bangla HD (1080p)",
@@ -2187,6 +2181,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4110,6 +4110,12 @@
     "img": "https://i.imgur.com/1ztVXUi.png"
   },
   {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
+  },
+  {
     "name": "PMC Telugu (1080p)",
     "type": "Religious",
     "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
@@ -4797,25 +4803,25 @@
     "name": "CNBC Awaaz (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png"
   },
   {
     "name": "CNBC Bajar (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_BAJAR/images/LOGO_HD/image.png"
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540"
   },
   {
     "name": "CNBC TV18 (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png"
   },
   {
     "name": "CNBC TV18 Prime HD (1080p)",
     "type": "Business",
     "url": "https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png"
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png"
   },
   {
     "name": "ET Now (720p)",

@@ -117,22 +117,22 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Group: Business
 Name: CNBC Awaaz (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC Bajar (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_BAJAR/images/LOGO_HD/image.png
+Logo: https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC TV18 (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC TV18 Prime HD (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ET Now (720p)
@@ -534,11 +534,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Captain (576p)
 URL: https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Colors (576p)
-URL: http://103.229.254.25:7001/play/a077/index.m3u8
-Logo: https://i.imgur.com/M8uCJ0D.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Bangla HD (1080p)
@@ -994,6 +989,11 @@ URL: http://cdntv.online/low/9mlxywika2/56.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Russia Football 3 HD
+URL: http://cdntv.online/low/9mlxywika2/57.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Real Madrid tv Football
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1276,6 +1276,11 @@ Group: Hindi
 Name: Star Plus
 URL: http://103.229.254.25:7001/play/a09z/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Colors
+URL: http://103.229.254.25:7001/play/a077/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Zee TV
@@ -1652,11 +1657,6 @@ URL: http://stvlive.net:8080/discovery/index.m3u8
 Logo: https://i.ibb.co/V2gtYfH/download-1.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Amazon SAT
-URL: https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 
 Group: Islamic
 Name: AL SUNNAH AL NABAWIYAH TV
@@ -1799,6 +1799,11 @@ URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Colors Bangla Cinema
+URL: http://103.229.254.25:7001/play/a078/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 
 Group: Kolkata Bangla Music
 Name: Dhoom Music
@@ -1914,11 +1919,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: &pictures HD (1080p)
 URL: http://103.161.153.165:8000/play/a05u/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: &prive HD (1080p)
-URL: http://103.161.153.165:8000/play/a05m/index.m3u8
-Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &TV (576p)
@@ -2524,6 +2524,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: BBC News
+URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3702,19 +3707,14 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
 Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Peace TV English
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Peace TV Urdu
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Madani TV
 URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: AL Sunnah TV
@@ -3977,6 +3977,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Peace TV Bangla (1080p)
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 Logo: https://i.imgur.com/1ztVXUi.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Peace TV Urdu (1080p)
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+Logo: https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: PMC Telugu (1080p)
