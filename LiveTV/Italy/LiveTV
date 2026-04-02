@@ -996,12 +996,6 @@
     "img": "https://i.imgur.com/sEY21rg.png"
   },
   {
-    "name": "RAI 4K [Geo-blocked]",
-    "type": "Undefined",
-    "url": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
-    "img": "https://i.imgur.com/O1K1fv4.png"
-  },
-  {
     "name": "Rai 5 (1080p)",
     "type": "Undefined",
     "url": "http://78.130.250.2:8023/play/a04o/index.m3u8",
@@ -1690,6 +1684,12 @@
     "type": "Rai",
     "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16",
     "img": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png"
+  },
+  {
+    "name": "Rai 4K (HbbTV)",
+    "type": "Rai",
+    "url": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8",
+    "img": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png"
   },
   {
     "name": "Rete 4",
