@@ -908,7 +908,7 @@
   {
     "name": "AZTECA DEPORTES",
     "type": "DEPORTES",
-    "url": "http://45.173.201.51:4000/play/a0r8/index.m3u8",
+    "url": "http://200.115.96.66:4000/play/a00h/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png"
   },
   {
@@ -936,22 +936,28 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/960px-Movistar_Deportes.svg.png"
   },
   {
-    "name": "TENNIS CHANNEL",
-    "type": "DEPORTES",
-    "url": "http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8",
-    "img": "https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png"
-  },
-  {
     "name": "WIN SPORTS +",
     "type": "DEPORTES",
     "url": "http://38.19.41.123:8000/play/a0cl/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/3840px-Win_Sports%2B_logo.svg.png"
   },
   {
+    "name": "TENNIS CHANNEL",
+    "type": "DEPORTES",
+    "url": "http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8",
+    "img": "https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png"
+  },
+  {
     "name": "NBA",
     "type": "DEPORTES",
     "url": "http://212.102.60.231:80/NBA_TV/index.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYMKHGeDkGIrrpwyUmTU3pVORNfUGE6JtR7A&s"
+  },
+  {
+    "name": "GOLF CHANNEL",
+    "type": "DEPORTES",
+    "url": "http://181.119.111.25:4000/play/a0cb/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Golf_Channel_logo_2025.svg/250px-Golf_Channel_logo_2025.svg.png"
   },
   {
     "name": "A3S",
@@ -986,7 +992,7 @@
   {
     "name": "AZCINEMA",
     "type": "CINE Y SERIES",
-    "url": "http://45.173.201.51:4000/play/a0rg/index.m3u8",
+    "url": "http://200.115.96.66:4000/play/a02b/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037"
   },
   {
@@ -1268,7 +1274,7 @@
   {
     "name": "TCM",
     "type": "CINE Y SERIES",
-    "url": "http://38.41.8.1:8000/play/a04x",
+    "url": "http://181.78.20.119:58002/play/a01a/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png"
   },
   {
@@ -1352,7 +1358,7 @@
   {
     "name": "ADULT SWIM",
     "type": "INFANTILES",
-    "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/08.m3u8",
+    "url": "http://181.78.20.119:58002/play/a06h/index.m3u8",
     "img": "https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?crop=178px%2C100px%2C666px%2C371px&resize=1000%2C563"
   },
   {
