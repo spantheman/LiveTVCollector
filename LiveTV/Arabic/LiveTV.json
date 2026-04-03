@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-02 22:30:31",
+  "date": "2026-04-03 08:17:10",
   "channels": {
     "General": [
       {
@@ -2144,6 +2144,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8"
+      },
+      {
+        "name": "Goal Zone (1080p)",
+        "logo": "https://shahid.mbc.net/mediaObject/18bf9987-49ab-4c51-bb94-c568efa51db7?height=auto&width=512&croppingPoint=&version=1&type=png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://shls-live-enc.edgenextcdn.net/out/v1/18cffab0757d448ca6c1a686d330b346/index.m3u8"
       },
       {
         "name": "Jordan Sport (1080p) [Geo-blocked]",
