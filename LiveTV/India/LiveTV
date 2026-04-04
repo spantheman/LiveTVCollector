@@ -90,15 +90,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ATN Music",
+    "type": "Bangla Music",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"
+  },
+  {
     "name": "Peace TV Bangla",
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
   },
   {
-    "name": "Peace TV Urdu",
+    "name": "Peace TV English",
     "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
@@ -366,12 +372,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Manoranjan Prime",
-    "type": "Hindi Movies",
-    "url": "http://103.175.73.12:8080/live/345/345_0.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s"
-  },
-  {
     "name": "Manoranjan Grend",
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
@@ -466,6 +466,12 @@
     "type": "Information",
     "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Infinity HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "img": "https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg"
   },
   {
     "name": "History TV 18",
@@ -628,6 +634,12 @@
     "type": "Hindi Music",
     "url": "http://103.175.73.12:8080/live/155/155_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"
+  },
+  {
+    "name": "E24",
+    "type": "Hindi Music",
+    "url": "http://103.175.73.12:8080/live/159/159_0.m3u8",
+    "img": "https://i.ibb.co/dbjnG3X/20240803-105403.png"
   },
   {
     "name": "Music India",
@@ -1458,12 +1470,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Peace Tv English",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Sunnah Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
@@ -1648,12 +1654,6 @@
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "img": "https://i.imgur.com/M8uCJ0D.png"
-  },
-  {
-    "name": "Colors Infinity HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors Tamil HD (1080p)",
@@ -4098,6 +4098,12 @@
     "img": "https://i.imgur.com/1ztVXUi.png"
   },
   {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
+  },
+  {
     "name": "PMC Telugu (1080p)",
     "type": "Religious",
     "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
@@ -5007,7 +5013,7 @@
     "name": "Zee Cine Classic (1080p)",
     "type": "Classic",
     "url": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcinecla.png"
+    "img": "https://i.imgur.com/QCRhS1n.png"
   },
   {
     "name": "Zee Classic (576p)",
