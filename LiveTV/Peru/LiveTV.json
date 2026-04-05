@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-04 21:50:05",
+  "date": "2026-04-05 06:42:37",
   "channels": {
     "Entertainment": [
       {
@@ -1126,6 +1126,15 @@
         "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
       }
     ],
+    "Animation;Kids": [
+      {
+        "name": "Disney Jr. Latin America South",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+      }
+    ],
     "Music": [
       {
         "name": "Karibena [Not 24/7]",
@@ -1307,6 +1316,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
+      },
+      {
+        "name": "Pakapaka (1080p)",
+        "logo": "https://i.imgur.com/GJbRWwH.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8"
       }
     ],
     "Musica": [

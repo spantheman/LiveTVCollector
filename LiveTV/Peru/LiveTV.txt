@@ -48,6 +48,13 @@ Logo: https://animax.lat/assets/img/pandalogo2.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 
+Group: Animation;Kids
+Name: Disney Jr. Latin America South
+URL: http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+Logo: https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+
 Group: Auto;Entertainment
 Name: Top Gear (720p)
 URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?
@@ -685,6 +692,11 @@ Group: Kids
 Name: Nickelodeon Latin America
 URL: http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8
 Logo: https://i.imgur.com/E84jnP8.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Pakapaka (1080p)
+URL: http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-36_400.m3u8
+Logo: https://i.imgur.com/GJbRWwH.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
