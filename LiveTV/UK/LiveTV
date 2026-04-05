@@ -1272,12 +1272,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png"
   },
   {
-    "name": "Wonder (1080p)",
-    "type": "Undefined",
-    "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/LquGNbh.png"
-  },
-  {
     "name": "BBC Parliament (1080p) [Geo-blocked]",
     "type": "Legislative",
     "url": "https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_parliament/iptv_mse_v0_hevc.mpd",
@@ -1552,6 +1546,12 @@
     "type": "Science",
     "url": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8",
     "img": "https://i.imgur.com/hQwS3ui.png"
+  },
+  {
+    "name": "Wonder (1080p)",
+    "type": "Science",
+    "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/LquGNbh.png"
   },
   {
     "name": "Rakuten TV Family Movies UK (1080p)",

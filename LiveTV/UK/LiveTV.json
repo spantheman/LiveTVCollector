@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-04 21:57:15",
+  "date": "2026-04-05 07:22:31",
   "channels": {
     "Series": [
       {
@@ -1509,13 +1509,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "http://69.64.57.208/voxafrica/playlist.m3u8"
-      },
-      {
-        "name": "Wonder (1080p)",
-        "logo": "https://i.imgur.com/LquGNbh.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
       }
     ],
     "Legislative": [
@@ -1866,6 +1859,13 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8"
+      },
+      {
+        "name": "Wonder (1080p)",
+        "logo": "https://i.imgur.com/LquGNbh.png",
+        "group": "Science",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://lds-wonder-rakuten.amagi.tv/playlist.m3u8"
       }
     ],
     "Family;Movies": [
