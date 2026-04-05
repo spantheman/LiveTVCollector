@@ -78,10 +78,34 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Peace TV Bangla",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
+    "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
+  },
+  {
+    "name": "Peace TV English",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
+    "name": "Peace TV Urdu",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -476,12 +500,6 @@
   {
     "name": "Nat Geo HD",
     "type": "Information",
-    "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
-  },
-  {
-    "name": "Nat Geo HD",
-    "type": "Information",
     "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
@@ -496,6 +514,12 @@
     "type": "Information",
     "url": "https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Colors Infinity HD",
+    "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
+    "img": "https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg"
   },
   {
     "name": "History TV 18",
@@ -636,18 +660,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Movie Bangla",
-    "type": "",
-    "url": "http://alvetv.com/moviebanglatv/8080/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Histoire HD",
-    "type": "",
-    "url": "http://151.80.18.177:86/Histoire/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Hindi Hits HD",
     "type": "Hindi Music",
     "url": "http://146.59.253.52:8080/hindihitshd/index.m3u8",
@@ -738,54 +750,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "SUN BANGLA",
-    "type": "Live Tv",
-    "url": "https://smart.bengaldigital.live/sun-bangla-paid/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Shananda Movie",
-    "type": "Live Tv",
-    "url": "http://smart.bengaldigital.live/Zee-Bangla/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "DIPPTO",
-    "type": "Live Tv",
-    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ETV TV",
-    "type": "Live Tv",
-    "url": "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Me-টিভি",
-    "type": "Live Tv",
-    "url": "https://iptvbd.live/metv1080/1080.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NXT",
-    "type": "Live Tv",
-    "url": "https://smart.bengaldigital.live/WWE/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Doraemon",
-    "type": "Kids🍭🎯🎉",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZEE CINEMA HD",
-    "type": "Bangladeshi",
-    "url": "http://smart.bengaldigital.live/ZeeCinema/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Saudia Arabia",
     "type": "Cricket 🏏",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8",
@@ -843,6 +807,12 @@
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Star Sports SL 2 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1362,9 +1332,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Deepto TV",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "24/7 Shinchan",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209901/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "4/7 Doraemon",
+    "type": "Bangladeshi 🇧🇩",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1452,12 +1434,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
-    "name": "Peace tv Bangla",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
-  },
-  {
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
@@ -1508,12 +1484,6 @@
   {
     "name": "AL EKHBARIA",
     "type": "ISLAMIC CHANNELS",
-    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
-    "img": "https://i.ibb.co/TkVK043/ekbariya.png"
-  },
-  {
-    "name": "AL EKHBARIA",
-    "type": "ISLAMIC CHANNELS",
     "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
     "img": "https://i.ibb.co/TkVK043/ekbariya.png"
   },
@@ -1528,12 +1498,6 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
     "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
-  },
-  {
-    "name": "QURAN KAREEM TV",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
-    "img": "https://i.ibb.co/f0cKj4S/kareem.jpg"
   },
   {
     "name": "AL ISTIQAMA",
@@ -1648,12 +1612,6 @@
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a0a1/index.m3u8",
     "img": "https://i.imgur.com/M8uCJ0D.png"
-  },
-  {
-    "name": "Colors Infinity HD (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0du/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png"
   },
   {
     "name": "Colors Tamil (576p)",
@@ -4096,12 +4054,6 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
-  },
-  {
-    "name": "Peace TV Urdu (1080p)",
-    "type": "Religious",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
