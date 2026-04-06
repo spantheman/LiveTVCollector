@@ -168,6 +168,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ZB Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Colors Bangla Cinema",
     "type": "Kolkata Bangla Movies",
     "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
@@ -1484,6 +1490,12 @@
   {
     "name": "AL EKHBARIA",
     "type": "ISLAMIC CHANNELS",
+    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
+    "img": "https://i.ibb.co/TkVK043/ekbariya.png"
+  },
+  {
+    "name": "AL EKHBARIA",
+    "type": "ISLAMIC CHANNELS",
     "url": "https://cdn-globecast.akamaized.net/live/eds/al_ekhbariya/hls_roku/index.m3u8",
     "img": "https://i.ibb.co/TkVK043/ekbariya.png"
   },
@@ -1498,6 +1510,12 @@
     "type": "ISLAMIC CHANNELS",
     "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
     "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
+  },
+  {
+    "name": "QURAN KAREEM TV",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8",
+    "img": "https://i.ibb.co/f0cKj4S/kareem.jpg"
   },
   {
     "name": "AL ISTIQAMA",
