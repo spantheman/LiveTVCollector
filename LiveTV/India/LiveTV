@@ -102,12 +102,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
@@ -174,16 +168,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "ZB Cinema",
-    "type": "Kolkata Bangla Movies",
-    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Colors Bangla Cinema",
     "type": "Kolkata Bangla Movies",
     "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
+  },
+  {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "ABP Ananda",
@@ -500,6 +494,12 @@
   {
     "name": "Nat Geo HD",
     "type": "Information",
+    "url": "http://103.229.254.25:7001/play/a038/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
+  },
+  {
+    "name": "Nat Geo HD",
+    "type": "Information",
     "url": "http://202.70.146.135:8000/play/a05o/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"
   },
@@ -807,12 +807,6 @@
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1294,6 +1288,12 @@
     "type": "Movies",
     "url": "http://103.157.248.140:8000/play/a00q/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
+    "name": "Zee Cinemalu HD (1080p)",
+    "type": "Movies",
+    "url": "https://mumbai-edge.smartplaytv.in/ZeeCinemaluHD/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022ZEQ9.png?lock=720x540"
   },
   {
     "name": "Zee South Flix (1080p)",
@@ -2068,6 +2068,12 @@
     "type": "Entertainment",
     "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG00233WCL.png?lock=720x540"
+  },
+  {
+    "name": "Zee Telugu HD (1080p)",
+    "type": "Entertainment",
+    "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Times Of India",
@@ -3910,6 +3916,12 @@
     "type": "Religious",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
     "img": "https://i.imgur.com/jSedjXf.png"
+  },
+  {
+    "name": "Divyavani TV (576p)",
+    "type": "Religious",
+    "url": "https://mumbai-edge.smartplaytv.in/Divyavani/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Divya_Vani.png"
   },
   {
     "name": "Fateh TV (1080p) [Not 24/7]",
