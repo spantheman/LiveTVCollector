@@ -954,9 +954,45 @@
     "img": "https://i.imgur.com/BOXIRBT.png"
   },
   {
+    "name": "DirecTV Sports (1080p)",
+    "type": "Sports",
+    "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png"
+  },
+  {
+    "name": "L1 Max (720p)",
+    "type": "Sports",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8",
+    "img": "https://i.imgur.com/2fziU2B.png"
+  },
+  {
+    "name": "Monterrico TV (1080p) [Not 24/7]",
+    "type": "Sports",
+    "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
+    "img": "https://i.imgur.com/SuVO9T7.png"
+  },
+  {
+    "name": "Ovacion TV (720p) [Not 24/7]",
+    "type": "Sports",
+    "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+    "img": "https://i.imgur.com/7Xndgxk.png"
+  },
+  {
+    "name": "Esports Max (720p)",
+    "type": "Sports",
+    "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8",
+    "img": "https://i.imgur.com/OprRgQN.png"
+  },
+  {
     "name": "Disney Jr. Latin America South",
     "type": "Animation;Kids",
     "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
+  },
+  {
+    "name": "Disney Jr. Latin America South HD (1080p)",
+    "type": "Animation;Kids",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg"
   },
   {
@@ -1066,30 +1102,6 @@
     "type": "Music",
     "url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
     "img": "https://i.imgur.com/Up1u4TH.png"
-  },
-  {
-    "name": "L1 Max (720p)",
-    "type": "Sports",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8",
-    "img": "https://i.imgur.com/2fziU2B.png"
-  },
-  {
-    "name": "Monterrico TV (1080p) [Not 24/7]",
-    "type": "Sports",
-    "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8",
-    "img": "https://i.imgur.com/SuVO9T7.png"
-  },
-  {
-    "name": "Ovacion TV (720p) [Not 24/7]",
-    "type": "Sports",
-    "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
-    "img": "https://i.imgur.com/7Xndgxk.png"
-  },
-  {
-    "name": "Esports Max (720p)",
-    "type": "Sports",
-    "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8",
-    "img": "https://i.imgur.com/OprRgQN.png"
   },
   {
     "name": "Latina Clasicos",

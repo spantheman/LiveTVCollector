@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-05 21:51:47",
+  "date": "2026-04-06 06:42:45",
   "channels": {
     "Entertainment": [
       {
@@ -1126,6 +1126,43 @@
         "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8"
       }
     ],
+    "Sports": [
+      {
+        "name": "DirecTV Sports (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
+      },
+      {
+        "name": "L1 Max (720p)",
+        "logo": "https://i.imgur.com/2fziU2B.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
+      },
+      {
+        "name": "Monterrico TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/SuVO9T7.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
+      },
+      {
+        "name": "Ovacion TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/7Xndgxk.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
+      },
+      {
+        "name": "Esports Max (720p)",
+        "logo": "https://i.imgur.com/OprRgQN.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
+      }
+    ],
     "Animation;Kids": [
       {
         "name": "Disney Jr. Latin America South",
@@ -1133,6 +1170,13 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "http://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD"
+      },
+      {
+        "name": "Disney Jr. Latin America South HD (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-35.playlist.m3u8"
       }
     ],
     "Music": [
@@ -1261,36 +1305,6 @@
         "group": "Music",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8"
-      }
-    ],
-    "Sports": [
-      {
-        "name": "L1 Max (720p)",
-        "logo": "https://i.imgur.com/2fziU2B.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/l1maxhd/playlist.m3u8"
-      },
-      {
-        "name": "Monterrico TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/SuVO9T7.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8"
-      },
-      {
-        "name": "Ovacion TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/7Xndgxk.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
-      },
-      {
-        "name": "Esports Max (720p)",
-        "logo": "https://i.imgur.com/OprRgQN.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
       }
     ],
     "Series": [
