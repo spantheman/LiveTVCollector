@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-06 22:15:33",
+  "date": "2026-04-07 07:52:04",
   "channels": {
     "News": [
       {
@@ -778,6 +778,24 @@
         "group": "Extra Channels - World;News",
         "source": "https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_xtraplus_102420.m3u",
         "url": "https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Comedy Central Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Disney Channel Latin America (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8"
       }
     ],
     "Science": [
