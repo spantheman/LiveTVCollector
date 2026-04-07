@@ -8,6 +8,12 @@
   {
     "name": "IPL 2026",
     "type": "IPL 2026",
+    "url": "http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"
+  },
+  {
+    "name": "IPL 2026",
+    "type": "IPL 2026",
     "url": "http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10"
   },
@@ -70,12 +76,6 @@
     "type": "Bangla Music",
     "url": "https://tplay.live/originals/bengali-beats/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Peace TV English",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
     "name": "Madani TV",
@@ -150,6 +150,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ZB Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Colors Bangla Cinema",
     "type": "Kolkata Bangla Movies",
     "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
@@ -190,12 +196,6 @@
     "type": "Indian Bangla News",
     "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
-  },
-  {
-    "name": "Kolkata TV",
-    "type": "Indian Bangla News",
-    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
-    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png"
   },
   {
     "name": "TV9 Bangla",
@@ -726,21 +726,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "T Sports HD 🇧🇩",
+    "name": "TSportss BD",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/TSports/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "T Sports HD 🇧🇩",
+    "type": "Cricket 🏏",
+    "url": "https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -964,12 +964,6 @@
     "type": "Movies",
     "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Filamchi Bhojpuri (1080p)",
-    "type": "Movies",
-    "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Jalsha Movies HD (1080p)",
@@ -1776,12 +1770,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Nazara (1080p)",
-    "type": "Entertainment",
-    "url": "https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540"
-  },
-  {
     "name": "Nepal 1 (396p)",
     "type": "Entertainment",
     "url": "https://d1msejlow1t3l4.cloudfront.net/fta/nepal1/chunks.m3u8",
@@ -2370,6 +2358,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_TV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Big TV 24x7 (576i)",
+    "type": "News",
+    "url": "https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8",
+    "img": "https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj"
+  },
+  {
     "name": "BRK News (576p)",
     "type": "News",
     "url": "https://cdn-1.pishow.tv/live/1037/master.m3u8",
@@ -2680,6 +2674,12 @@
     "type": "News",
     "url": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Kolkata TV (1080p)",
+    "type": "News",
+    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Living India News (1080p)",
@@ -3616,12 +3616,6 @@
     "type": "Music",
     "url": "https://cdn-3.pishow.tv/live/1229/master.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ShowBox (576p)",
-    "type": "Music",
-    "url": "http://116.90.120.151:8000/play/a0k2/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png"
   },
   {
     "name": "Songdew TV (396p)",
@@ -4815,7 +4809,7 @@
     "name": "Zee Comedy Nation (1080p)",
     "type": "Comedy",
     "url": "https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8",
-    "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png"
+    "img": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png"
   },
   {
     "name": "Food Food (576p)",

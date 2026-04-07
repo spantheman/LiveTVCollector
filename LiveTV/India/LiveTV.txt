@@ -188,7 +188,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee Comedy Nation (1080p)
 URL: https://amg00862-amg00862c5-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c5-amgplt0173/playlist.m3u8
-Logo: https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zcomedynation.png
+Logo: https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2100002GD_20260325T012327SQUARE.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
@@ -242,18 +242,18 @@ URL: http://xui.mainserver.cc/play/oCkZyqACmAE6FvzKu_186PEFGOk9LoJ4xGfS1beyo7s/.
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: T Sports HD 🇧🇩
+Name: TSportss BD
 URL: https://mflixott.com/tv/plusbox/live/TSports/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: T Sports HD 🇧🇩
+URL: https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Star Sports SL 1 🇮🇳
 URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Star Sports SL 2 🇮🇳
-URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -712,11 +712,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: MTV HD (1080p)
 URL: http://103.157.248.140:8000/play/a01p/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Nazara (1080p)
-URL: https://cc-p1izg43bk7sj5.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p1izg43bk7sj5/DIYC/PMSL/IN10/Nazara_IN_B/Nazara_IN_B.m3u8
-Logo: https://dtil.tmsimg.com/assets/s158303_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nepal 1 (396p)
@@ -1413,6 +1408,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 
 Group: IPL 2026
 Name: IPL 2026
+URL: http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
+Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: IPL 2026
 URL: http://stvlive.net:8080/starsports2/tracks-v1a1/mono.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
@@ -1519,11 +1519,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Calcutta News
 URL: https://akdnetwork.co.in/live/cnnew/index.m3u8
 Logo: https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Kolkata TV
-URL: https://cdn.ottlive.co.in/kolkatatv/index.m3u8
-Logo: https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: TV9 Bangla
@@ -1755,6 +1750,11 @@ URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: ZB Cinema
+URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Colors Bangla Cinema
 URL: http://103.229.254.25:7001/play/a078/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
@@ -1928,11 +1928,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: ETV Cinema HD (1080p)
 URL: https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143026_ld_h15_aa.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Filamchi Bhojpuri (1080p)
-URL: https://epiconvh.akamaized.net/live/filamchi/master.m3u8
-Logo: https://dtil.tmsimg.com/assets/s157803_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Jalsha Movies HD (1080p)
@@ -2339,11 +2334,6 @@ URL: https://cdn-3.pishow.tv/live/1229/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SANGEET_MARATHI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: ShowBox (576p)
-URL: http://116.90.120.151:8000/play/a0k2/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHOWBOX/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Songdew TV (396p)
 URL: https://yuppnimrestreammum.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 Logo: https://dtil.tmsimg.com/assets/s142920_ld_h9_aa.png?lock=720x540
@@ -2720,6 +2710,11 @@ URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BIG_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
+Name: Big TV 24x7 (576i)
+URL: https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+Logo: https://yt3.googleusercontent.com/blnfLkIGphkSPHfWy4SVOVyHlrWSAEn2pArAS5wdH7tYmXAFD4dVMGLtSmZr5R5CNl1d2cUuDw=s512-c-k-c0x00ffffff-no-rj
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: BRK News (576p)
 URL: https://cdn-1.pishow.tv/live/1037/master.m3u8
 Logo: https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/brk-news.png
@@ -2978,6 +2973,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Khabrain Abhi Tak (576p)
 URL: https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Kolkata TV (1080p)
+URL: https://cdn.ottlive.co.in/kolkatatv/index.m3u8
+Logo: https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Living India News (1080p)
@@ -3616,11 +3616,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
-Name: Peace TV English
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Madani TV
 URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
