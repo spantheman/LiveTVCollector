@@ -26,7 +26,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNDoxMjo0IFBNJmhhc2hfdmFsdWU9ZnVnRTFrNUluNUo5R2pyWmF6VUhYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI0ZWIyYzNiLTIwMjgtNDQwYi04MTc1LWExMmVhZWUwY2UzOA==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjYgMTI6OTo5IEFNJmhhc2hfdmFsdWU9L0JWMHpTTkpBdmorVi9EVU5pTmFwQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiNTQwMGIzLTcwZTAtNDhkOS1iNDExLTJhNzk3NzE2YzZlYw==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNDoxMjo0IFBNJmhhc2hfdmFsdWU9MDlHS1RJajdJb1BWbWpUZnUzUGx1dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM4YTk2MWVmLTlmNmEtNDZhYS1iMGFlLWUyNWUxZTUyYjVkMg==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjYgMTI6OToxMCBBTSZoYXNoX3ZhbHVlPXNjWCtWMkpQNlhvZmVSVFVKbFIzMXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD05MTg2YmFkYS1hNWZhLTRjMzctYTRhMi02ODhmODc3MDQ2Mjc=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -98,7 +98,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgNDoxMjo1IFBNJmhhc2hfdmFsdWU9OE5rRGw4bTZuWVR0c2ZsRWNOMGFCQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBlMDBhNzRmLWZmOWMtNGI5Zi05ZmE1LWI2MjcxOWI0ZWU5MA==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjYgMTI6OToxMCBBTSZoYXNoX3ZhbHVlPTNNTW8xc3lwRisxMTM4WU5MU2tibEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yN2FkZGZmZC0zZjIyLTRkMDktYWFiNi1mMDU3ZmRiYTIzZmU=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -6129,7 +6129,7 @@
     "name": "RTP Noticias (720p) [Not 24/7]",
     "type": "News",
     "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/Bm2XEHH.png"
+    "img": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png"
   },
   {
     "name": "SIC Notícias (1080p)",
@@ -6183,25 +6183,25 @@
     "name": "RTP 1 (720p) [Not 24/7]",
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/w7GV86i.png"
+    "img": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png"
   },
   {
     "name": "RTP Açores (720p) [Not 24/7]",
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/960px-RTP_A%C3%A7ores_%282016%29.svg.png"
+    "img": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png"
   },
   {
     "name": "RTP Madeira (504p) [Not 24/7]",
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/nJNWTqA.png"
+    "img": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmadeira_2026.png"
   },
   {
     "name": "RTP Memória (504p) [Not 24/7]",
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/jCpfdiJ.png"
+    "img": "https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpmemoria_2026.png"
   },
   {
     "name": "TVI (720p)",
@@ -6284,7 +6284,7 @@
   {
     "name": "TVI Internacional 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgMTo0OTo0NyBQTSZoYXNoX3ZhbHVlPTdMZzN1TENQTWgzajN0Wlo1dmFsM1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYzI5NWUxNC1jYWY1LTQyNjMtYjBkOC00OTg0MDg0MGYwZWI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgOTowOjIzIFBNJmhhc2hfdmFsdWU9UlRpdGZJcmJqZmVobityYkNFQW5Ddz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWMzOTFlYTViLTIxNGQtNDc4Yy04NGE1LTJjNGQ1ZGE5ZTdjMA==/",
     "img": "https://logo.m3uassets.com/tviinternacional.png"
   },
   {
@@ -6296,7 +6296,7 @@
   {
     "name": "TVI 🇵🇹",
     "type": "Portugal 🇵🇹",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgMTo0OTo0NiBQTSZoYXNoX3ZhbHVlPVR1d1FNQlJmZHJuMFJPd0ZmWjUrU1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mZDczZDg2Yy0yMDEzLTRkOTItYmVjNC1lMTllNzBhMGQ3MzU=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgOTowOjIyIFBNJmhhc2hfdmFsdWU9aEVLbE9sVVJ1S0JhMitqSWd2REZCUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFkODMyNmE5LWQ3MDAtNDYxMC05MTgyLTM0OTJmMTFhYTM1Yw==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/tvi.webp"
   },
   {
@@ -6428,7 +6428,7 @@
   {
     "name": "CNN Portugal 🇵🇹",
     "type": "News 🇵🇹🇧🇷",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgMTo0OTo0NiBQTSZoYXNoX3ZhbHVlPURqTk42QWtLWnNaQUxMeGN5V1pYTUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZmU1NGQ2Yi01ZTcwLTQwMDYtYmFlOC1jYTI0Y2ViNTNhMGQ=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC82LzIwMjYgOTowOjIzIFBNJmhhc2hfdmFsdWU9dEl1MGdjQ3I3WkJTdmVYWmg1Y29jUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIyOTY4YzZhLTlhZTMtNGY1Ny05MGFlLTZiMmZhNzI0ZGZiZA==/",
     "img": "https://github.com/iprtl/p1/raw/master/logo/cnnpt.png"
   },
   {
