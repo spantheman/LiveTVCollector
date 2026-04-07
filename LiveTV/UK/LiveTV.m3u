@@ -65,6 +65,8 @@ http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6UcPWP9.png" group-title="Entertainment",Blaze (576p) [Geo-blocked]
 https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/22MfjF4.png" group-title="Entertainment",E4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1096333958
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entertainment",ENT Channel (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entertainment",ENT Family (720p)
@@ -267,8 +269,8 @@ https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_
 https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_05/iptv_uhd_v1.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/viB0FS2.png" group-title="General",Canaf54 TV
 https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4
-https://x.canlitvapp.com/u-channel-4/index.m3u8
+#EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1940621521
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 UK HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5
@@ -283,8 +285,10 @@ https://halalondon-live.ercdn.net/halalondon/halalondon.m3u8
 https://ibc.massstream.net/IBC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E8VwnK7.png" group-title="General",iON TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (720p) [Geo-Blocked]
-https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xwPekCF.png" group-title="General",ITV1 (1080p)
+http://80.194.62.172:50002/stream/channelid/95929545
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 (1080p)
+http://80.194.62.172:50002/stream/channelid/404728797
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7oGGgfD.png" group-title="General",Kanal Jadid
@@ -399,6 +403,8 @@ https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0QzCFs.png" group-title="Undefined",Sheffield Live TV (360p) [Not 24/7]
 http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHEz5rq.png" group-title="Undefined",Sky Mix (1080p)
+http://80.194.62.172:50002/stream/channelid/1848745953
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LBICKI5.png" group-title="Undefined",Sony Max (576p)
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/svc98Kg.png" group-title="Undefined",Spark TV (1080p)
@@ -437,6 +443,8 @@ https://ap02.iqplay.tv:8082/iqb8002/ka1s0n/playlist.m3u8
 https://amg01079-nbcuuk-amg01079c2-lg-gb-2030.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMnpsQ5.png" group-title="Movies",DiscoverFilm
 https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",Film4 (1080p)
+http://80.194.62.172:50002/stream/channelid/1764271106
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",Film4 HD (1080p) [Geo-Blocked]
 https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
 #EXTINF:-1 tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="Movies",GREAT! movies (1080p)

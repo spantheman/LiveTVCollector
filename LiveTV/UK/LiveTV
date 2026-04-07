@@ -198,6 +198,12 @@
     "img": "https://i.imgur.com/6UcPWP9.png"
   },
   {
+    "name": "E4 (1080p)",
+    "type": "Entertainment",
+    "url": "http://80.194.62.172:50002/stream/channelid/1096333958",
+    "img": "https://i.imgur.com/22MfjF4.png"
+  },
+  {
     "name": "ENT Channel (720p)",
     "type": "Entertainment",
     "url": "https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8",
@@ -804,9 +810,9 @@
     "img": "https://i.imgur.com/viB0FS2.png"
   },
   {
-    "name": "Channel 4",
+    "name": "Channel 4 (1080p)",
     "type": "General",
-    "url": "https://x.canlitvapp.com/u-channel-4/index.m3u8",
+    "url": "http://80.194.62.172:50002/stream/channelid/1940621521",
     "img": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png"
   },
   {
@@ -852,9 +858,15 @@
     "img": "https://i.imgur.com/E8VwnK7.png"
   },
   {
-    "name": "ITV2 (720p) [Geo-Blocked]",
+    "name": "ITV1 (1080p)",
     "type": "General",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd",
+    "url": "http://80.194.62.172:50002/stream/channelid/95929545",
+    "img": "https://i.imgur.com/xwPekCF.png"
+  },
+  {
+    "name": "ITV2 (1080p)",
+    "type": "General",
+    "url": "http://80.194.62.172:50002/stream/channelid/404728797",
     "img": "https://i.imgur.com/2BpUK0W.png"
   },
   {
@@ -1200,6 +1212,12 @@
     "img": "https://i.imgur.com/p0QzCFs.png"
   },
   {
+    "name": "Sky Mix (1080p)",
+    "type": "Undefined",
+    "url": "http://80.194.62.172:50002/stream/channelid/1848745953",
+    "img": "https://i.imgur.com/hHEz5rq.png"
+  },
+  {
     "name": "Sony Max (576p)",
     "type": "Undefined",
     "url": "https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8",
@@ -1312,6 +1330,12 @@
     "type": "Movies",
     "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
     "img": "https://i.imgur.com/oMnpsQ5.png"
+  },
+  {
+    "name": "Film4 (1080p)",
+    "type": "Movies",
+    "url": "http://80.194.62.172:50002/stream/channelid/1764271106",
+    "img": "https://i.imgur.com/MTSgoGI.png"
   },
   {
     "name": "Film4 HD (1080p) [Geo-Blocked]",

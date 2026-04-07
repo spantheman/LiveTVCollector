@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-06 22:09:05",
+  "date": "2026-04-07 07:20:15",
   "channels": {
     "Series": [
       {
@@ -236,6 +236,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8"
+      },
+      {
+        "name": "E4 (1080p)",
+        "logo": "https://i.imgur.com/22MfjF4.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://80.194.62.172:50002/stream/channelid/1096333958"
       },
       {
         "name": "ENT Channel (720p)",
@@ -953,11 +960,11 @@
         "url": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
       },
       {
-        "name": "Channel 4",
+        "name": "Channel 4 (1080p)",
         "logo": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://x.canlitvapp.com/u-channel-4/index.m3u8"
+        "url": "http://80.194.62.172:50002/stream/channelid/1940621521"
       },
       {
         "name": "Channel 4 UK HD (1080p) [Geo-Blocked]",
@@ -1009,11 +1016,18 @@
         "url": "https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8"
       },
       {
-        "name": "ITV2 (720p) [Geo-Blocked]",
+        "name": "ITV1 (1080p)",
+        "logo": "https://i.imgur.com/xwPekCF.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://80.194.62.172:50002/stream/channelid/95929545"
+      },
+      {
+        "name": "ITV2 (1080p)",
         "logo": "https://i.imgur.com/2BpUK0W.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd"
+        "url": "http://80.194.62.172:50002/stream/channelid/404728797"
       },
       {
         "name": "ITV4 (1080p) [Geo-Blocked]",
@@ -1427,6 +1441,13 @@
         "url": "http://tv.sheffieldlive.org/hls/main.m3u8"
       },
       {
+        "name": "Sky Mix (1080p)",
+        "logo": "https://i.imgur.com/hHEz5rq.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://80.194.62.172:50002/stream/channelid/1848745953"
+      },
+      {
         "name": "Sony Max (576p)",
         "logo": "https://i.imgur.com/LBICKI5.png",
         "group": "Undefined",
@@ -1568,6 +1589,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Film4 (1080p)",
+        "logo": "https://i.imgur.com/MTSgoGI.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "http://80.194.62.172:50002/stream/channelid/1764271106"
       },
       {
         "name": "Film4 HD (1080p) [Geo-Blocked]",

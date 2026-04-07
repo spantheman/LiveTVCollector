@@ -185,6 +185,11 @@ URL: https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5
 Logo: https://i.imgur.com/6UcPWP9.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
+Name: E4 (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/1096333958
+Logo: https://i.imgur.com/22MfjF4.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
 Name: ENT Channel (720p)
 URL: https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 Logo: https://static.elektamedia.com/ch/entch.png
@@ -459,8 +464,8 @@ URL: https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3
 Logo: https://i.imgur.com/viB0FS2.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: Channel 4
-URL: https://x.canlitvapp.com/u-channel-4/index.m3u8
+Name: Channel 4 (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/1940621521
 Logo: https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -499,8 +504,13 @@ URL: https://ap02.iqplay.tv:8082/iqb8002/i09/playlist.m3u8
 Logo: https://i.imgur.com/E8VwnK7.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
-Name: ITV2 (720p) [Geo-Blocked]
-URL: https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+Name: ITV1 (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/95929545
+Logo: https://i.imgur.com/xwPekCF.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: ITV2 (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/404728797
 Logo: https://i.imgur.com/2BpUK0W.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
@@ -622,6 +632,11 @@ Group: Movies
 Name: DiscoverFilm
 URL: https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/oMnpsQ5.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Film4 (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/1764271106
+Logo: https://i.imgur.com/MTSgoGI.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Film4 HD (1080p) [Geo-Blocked]
@@ -1312,6 +1327,11 @@ Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 Name: Sheffield Live TV (360p) [Not 24/7]
 URL: http://tv.sheffieldlive.org/hls/main.m3u8
 Logo: https://i.imgur.com/p0QzCFs.png
+Source: https://iptv-org.github.io/iptv/countries/uk.m3u
+--------------------------------------------------
+Name: Sky Mix (1080p)
+URL: http://80.194.62.172:50002/stream/channelid/1848745953
+Logo: https://i.imgur.com/hHEz5rq.png
 Source: https://iptv-org.github.io/iptv/countries/uk.m3u
 --------------------------------------------------
 Name: Sony Max (576p)
