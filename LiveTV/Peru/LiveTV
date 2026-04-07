@@ -954,6 +954,12 @@
     "img": "https://i.imgur.com/BOXIRBT.png"
   },
   {
+    "name": "Comedy Central Latin America (1080p)",
+    "type": "Comedy",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-60.playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png"
+  },
+  {
     "name": "DirecTV Sports (1080p)",
     "type": "Sports",
     "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd",
@@ -982,6 +988,12 @@
     "type": "Sports",
     "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8",
     "img": "https://i.imgur.com/OprRgQN.png"
+  },
+  {
+    "name": "Disney Channel Latin America (1080p)",
+    "type": "Animation;Kids",
+    "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-32.playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg"
   },
   {
     "name": "Disney Jr. Latin America South",
