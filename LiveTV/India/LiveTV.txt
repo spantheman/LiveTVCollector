@@ -267,16 +267,6 @@ URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Star Sports SL 1 🇮🇳
-URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Star Sports SL 2 🇮🇳
-URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Sony-Ten-Cricket HD
 URL: https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -562,11 +552,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Colors HD (1080p)
 URL: http://103.229.254.25:7001/play/a0a1/index.m3u8
 Logo: https://i.imgur.com/M8uCJ0D.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Colors Infinity HD (1080p)
-URL: http://103.229.254.25:7001/play/a0du/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_INFINITY/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Tamil (576p)
@@ -1353,6 +1338,16 @@ URL: http://103.175.73.12:8080/live/270/270_0.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Star Gold Select HD
+URL: http://103.229.254.25:7001/play/a032/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold%20Select%20HD.jpg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: And Pictures HD
+URL: http://103.229.254.25:7001/play/a033/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: B4U Movies
 URL: https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png
@@ -1548,13 +1543,8 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Information
-Name: Discovery Bangla
-URL: http://202.70.146.135:8000/play/a05z/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Nat Geo HD
-URL: http://202.70.146.135:8000/play/a05o/index.m3u8
+URL: http://103.229.254.25:7001/play/a038/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1566,6 +1556,16 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: BBC Earth
 URL: https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Colors Infinity HD
+URL: http://103.229.254.25:7001/play/a0du/index.m3u8
+Logo: https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: History TV 18
+URL: http://103.229.254.25:7001/play/a02z/index.m3u8
+Logo: https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Travel XP English EU
@@ -1748,13 +1748,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Colors Bangla Cinema
 URL: http://103.229.254.25:7001/play/a078/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-
-Group: Kolkata Bangla Music
-Name: Dhoom Music
-URL: http://103.175.73.12:8080/live/378/378_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
@@ -2053,11 +2046,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Star Gold Romance (576p)
 URL: http://103.157.248.140:8000/play/a01i/index.m3u8
 Logo: https://i.imgur.com/gSWv9U3.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Star Gold Select HD (1080p)
-URL: http://103.229.254.25:7001/play/a032/index.m3u8
-Logo: https://i.imgur.com/U7eiuqv.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Star Gold Thrills (576p)
@@ -2433,6 +2421,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: BBC News
+URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3601,11 +3594,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Relagion Channel
-Name: Peace TV Bangla
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8
-Logo: https://i.ibb.co/Gfw89mC/20240804-033102.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Peace TV English
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
@@ -4005,6 +3993,11 @@ Group: Sports
 Name: Star Sports 1 HD
 URL: http://41.205.93.154/STARSPORTS1/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Sony Sports Ten 2 HD
+URL: http://103.229.254.25:7001/play/a0ef/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%202.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: DD Sports 2.0
