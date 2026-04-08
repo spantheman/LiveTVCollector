@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-07 22:13:36",
+  "date": "2026-04-08 06:41:45",
   "channels": {
     "Entertainment": [
       {
@@ -22,6 +22,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
+      },
+      {
+        "name": "MTV Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-50.playlist.m3u8"
       },
       {
         "name": "Panc TV Peru (1080p)",
@@ -1340,13 +1347,6 @@
       }
     ],
     "Kids": [
-      {
-        "name": "Nickelodeon Latin America",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "http://201.217.246.42:44310/Live/d93a7c495cb5f5d236b25a3ffea95003/local-35.playlist.m3u8"
-      },
       {
         "name": "Pakapaka (1080p)",
         "logo": "https://i.imgur.com/GJbRWwH.png",
