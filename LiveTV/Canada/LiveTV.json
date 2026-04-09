@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:41:26",
+  "date": "2026-04-09 08:19:23",
   "channels": {
     "Religious": [
       {
@@ -168,6 +168,13 @@
         "url": "https://jmp2.uk/plu-62e925bc68d18a00077bb990.m3u8"
       },
       {
+        "name": "Nash Bridges Channel (1080p) [Geo-blocked]",
+        "logo": "https://images.pluto.tv/channels/666021cccb3ea10008406866/colorLogoPNG.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg00353-amg00353c35-xumo-us-3804.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "Nashville",
         "logo": "https://images.pluto.tv/channels/65cf8d7428730900087c5907/colorLogoPNG.png",
         "group": "Series",
@@ -182,6 +189,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8"
+      },
+      {
+        "name": "MovieSphere by Lionsgate",
+        "logo": "https://i.imgur.com/h1ejU90.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://jmp2.uk/plu-64a3d96f060e830008af6745.m3u8"
       },
       {
         "name": "NETV Toronto (720p)",
@@ -1333,6 +1347,15 @@
         "group": "Culture;General",
         "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
         "url": "http://66.11.33.44:8081/live/TCF/playlist.m3u8"
+      }
+    ],
+    "Comedy;Series": [
+      {
+        "name": "The Conners (1080p) [Geo-blocked]",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3acd803e-a5e3-430c-a34e-508123d2bd95/TheConners_1500x1000_Logo_Dark.png",
+        "group": "Comedy;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ca.m3u",
+        "url": "https://amg00353-amg00353c36-xumo-us-3803.playouts.now.amagi.tv/playlist.m3u8"
       }
     ],
     "Shop": [
