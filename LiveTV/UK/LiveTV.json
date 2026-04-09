@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:24:21",
+  "date": "2026-04-09 07:13:27",
   "channels": {
     "Series": [
       {
@@ -213,6 +213,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003"
+      },
+      {
+        "name": "Trailers (1080p)",
+        "logo": "https://i.imgur.com/RwZ1hCN.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg01821-lovetvchannels-lovemagazineuk-samsungse-p1sf1.amagi.tv/playlist/amg01821-lovetvchannels-lovemagazineuk-samsungse/playlist.m3u8"
       }
     ],
     "Entertainment": [
@@ -371,6 +378,13 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://jmp2.uk/plu-5cb6f6f9a461406ffe4022cf.m3u8"
+      },
+      {
+        "name": "Nature Time (720p)",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://jmp2.uk/plu-63d91c9c8795f30008678e62.m3u8"
       },
       {
         "name": "On The Case",
@@ -1846,15 +1860,6 @@
         "url": "https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8"
       }
     ],
-    "Comedy;Kids": [
-      {
-        "name": "Mr Bean Live Action (1080p)",
-        "logo": "https://d2yv6y0n3qsl5c.cloudfront.net/MBEANP/MrBeanLiveAction-LG_LOGO_800x200.png",
-        "group": "Comedy;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8"
-      }
-    ],
     "Animation;Kids": [
       {
         "name": "Mr. Bean Animated (1080p)",
@@ -1937,6 +1942,15 @@
         "group": "Cooking",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8"
+      }
+    ],
+    "Comedy;Series": [
+      {
+        "name": "The Chat Show Channel (1080p)",
+        "logo": "https://yt3.googleusercontent.com/aQ_vvywmcBt4X1SmeEMgT3uf7bb1Z__I9XVwabeg7RrSSEuIhswMlvwhyi0Wl4PlLHwXufLgOg=s900-c-k-c0x00ffffff-no-rj",
+        "group": "Comedy;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
+        "url": "https://amg00426-littledotstudio-thechatshow-samsungnz-uqmtt.amagi.tv/playlist/amg00426-littledotstudio-thechatshow-samsungnz/playlist.m3u8"
       }
     ],
     "Auto;Entertainment": [
