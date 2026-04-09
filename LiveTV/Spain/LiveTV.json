@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:37:55",
+  "date": "2026-04-09 08:09:30",
   "channels": {
     "General": [
       {
@@ -32970,6 +32970,13 @@
         "group": "Lifestyle",
         "source": "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "url": "http://31.148.48.15/Zhivi/index.m3u8"
+      },
+      {
+        "name": "El Mueble (720p)",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8"
       }
     ],
     "Series": [
@@ -61878,6 +61885,13 @@
         "url": "https://weyyak-live.akamaized.net/wedo_big_stories/index.m3u8"
       },
       {
+        "name": "Crimen & Historia (720p)",
+        "logo": "https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8"
+      },
+      {
         "name": "Love The Planet ES (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/RBcD49X.png",
         "group": "Documentary",
@@ -61885,11 +61899,11 @@
         "url": "https://amg01821-lovetv-amg01821c9-rlaxx-gb-10458.playouts.now.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "NatureTime (1080p)",
+        "name": "NatureTime Finland (1080p)",
         "logo": "https://i.imgur.com/72JmyjM.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
-        "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8"
+        "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
       }
     ],
     "Travel": [
@@ -62863,6 +62877,13 @@
         "group": "Animation;Kids",
         "source": "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "url": "http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8"
+      },
+      {
+        "name": "Mr. Bean Anime Spain (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "url": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8"
       }
     ],
     "Entertainment;Sports": [
