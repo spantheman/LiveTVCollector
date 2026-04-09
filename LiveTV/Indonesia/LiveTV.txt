@@ -5208,6 +5208,16 @@ URL: https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/Bloombe
 Logo: https://www.mncvision.id/userfiles/image/channel/bloomberg.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
+Name: NHK World Japan
+URL: https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: BBC World
+URL: https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
+Logo: https://www.mncvision.id/userfiles/image/channel/channel_332.jpg
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
 Name: Reformed21
 URL: https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mediampd/Reformed21HD.mpd
 Logo: https://www.visionplus.id/images/repository/943/49943-SNAPSHOT-l.png
@@ -7566,11 +7576,6 @@ Group: KNOWLEDGE
 Name: CGTN DOC
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDocumentaryHD.mpd
 Logo: https://mimipipi22.github.io/logo/knowledge/cgtndoc.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: DISCOVERY CHANNEL
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
-Logo: https://mimipipi22.github.io/logo/knowledge/discovery.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: DISCOVERY CHANNEL
@@ -10042,6 +10047,31 @@ URL: https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016c
 Logo: https://mimipipi22.github.io/logo/movies/cinemax.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: HBO 🇵🇭
+URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+Logo: https://mimipipi22.github.io/logo/movies/hbo.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: HBO HITS 🇵🇭
+URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+Logo: https://mimipipi22.github.io/logo/movies/hbohits.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: HBO FAMILY 🇵🇭
+URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+Logo: https://mimipipi22.github.io/logo/movies/hbofam.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: HBO SIGNATURE 🇵🇭
+URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+Logo: https://mimipipi22.github.io/logo/movies/hbosig.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: CINEMAX 🇵🇭
+URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+Logo: https://mimipipi22.github.io/logo/movies/cinemax.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: GALAXY
 URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 Logo: https://mimipipi22.github.io/logo/movies/galaxy.jpg
@@ -12048,28 +12078,28 @@ Logo: https://iili.io/Ju79znp.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HBO
-URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfguXCrrRxsqWxVxUqe-SEEv-mhg9ehi0Rw&s
+URL: http://103.58.160.157:8278/720-HBO/playlist.m3u8
+Logo: https://iili.io/Ju79f8g.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: HBO HITS
-URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s
+Name: HBO Hits
+URL: http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8
+Logo: https://iili.io/Ju79nwv.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: HBO FAMILY
-URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
-Logo: https://linear-poster.astro.com.my/prod/logo/HBO_Family.png
+Name: HBO Family
+URL: http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8
+Logo: https://iili.io/Ju79otR.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HBO Signature
-URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
-Logo: https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115
+URL: http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8
+Logo: https://iili.io/Ju79IMN.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: CINEMAX
-URL: https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
+Name: Cinemax
+URL: http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8
+Logo: https://iili.io/Ju79znp.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: HBO 🇮🇩
@@ -13473,11 +13503,6 @@ URL: https://atemeshield1-voe.sysln.id/live/eds/RussiaTodayHD/mediampd/RussiaTod
 Logo: https://mimipipi22.github.io/logo/news/rteng.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: EURONEWS
-URL: https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
-Logo: https://mimipipi22.github.io/logo/news/euronews.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
 Name: CNA
 URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd
 Logo: https://mimipipi22.github.io/logo/news/cna.jpg
@@ -13491,11 +13516,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: WION
 URL: https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8
 Logo: https://mimipipi22.github.io/logo/news/wion.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: CNBC ASIA
-URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
-Logo: https://mimipipi22.github.io/logo/news/cnbcasia.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: CNN INT
@@ -13582,11 +13602,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 --------------------------------------------------
 Name: PBS Travel
 URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: Nat Geo Sharks
-URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -15966,7 +15981,7 @@ Logo: https://www.mncvision.id/userfiles/image/channel/bbc_earth150x150.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CGTN Documentary
-URL: http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_205.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -15980,9 +15995,9 @@ URL: https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mediampd/Discove
 Logo: https://iili.io/JmoCv5u.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: DISCOVERY Channel hd
-URL: https://kusnadipepenk.github.io/ntn/disc.m3u8
-Logo: https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png
+Name: Discovery Channel
+URL: https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd
+Logo: https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Discovery Asia
@@ -16021,13 +16036,8 @@ Logo: https://www.mncvision.id/userfiles/image/channel/channel_201.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: National Geographic
-URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
+URL: https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd
 Logo: https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg
-Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
---------------------------------------------------
-Name: National Geographic Wild
-URL: http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8
-Logo: https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: Wild Earth
@@ -17371,6 +17381,11 @@ Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
 Name: Vasantham
 URL: https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+Logo: https://i.imgur.com/xqYSItV.jpeg
+Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
+--------------------------------------------------
+Name: CNA
+URL: https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
 Logo: https://i.imgur.com/xqYSItV.jpeg
 Source: https://raw.githubusercontent.com/okasahisnu/IPTV/refs/heads/main/Main
 --------------------------------------------------
@@ -22033,7 +22048,7 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 
 Group: TV Berita Indonesia
 Name: Berita Satu News
-URL: http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8
+URL: https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_103.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -22053,7 +22068,7 @@ Logo: https://static.mncnow.id/images/channel/7bdd87fc/0cb7_r32.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CNN INDONESIA
-URL: http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+URL: https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8
 Logo: https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -22070,6 +22085,11 @@ Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/pla
 Name: TV PARLEMEN
 URL: http://103.16.220.69:1935/golive/livestream/playlist.m3u8
 Logo: https://i.imgur.com/Hh3mx3u.png
+Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
+--------------------------------------------------
+Name: Jakarta GlobeNews Channel
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd
+Logo: https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 
@@ -22089,13 +22109,13 @@ URL: https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mediampd/CNNIntHD.m
 Logo: https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: Aljazeera English
-URL: http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English
+Name: Al Jazeera
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/aljazeera-avc1_2500000=7-3277707030000000.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/aljazeera.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: BBC World
-URL: https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_332.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -22105,27 +22125,27 @@ Logo: https://www.mncvision.id/userfiles/image/channel/bloomberg.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CGTN
-URL: https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_353.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
-Name: CNA
-URL: https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8
-Logo: https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg
+Name: Channel News Asia
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
+Logo: https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: CNBC Asia-Pacific
-URL: https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash/CNBC.mpd
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/cnbc.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: DW English
-URL: https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash/DW.mpd
+URL: https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/DWTV-avc1_2500000=7-3277707030000000.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_357.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: EuroNews English
-URL: https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash/EuroNews.mpd
+URL: https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd
 Logo: https://www.lyngsat.com/logo/tv/ee/euronews_fr.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
@@ -22135,12 +22155,12 @@ Logo: https://www.mncvision.id/userfiles/image/channel/fox_news_channel.png
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: France 24 English
-URL: https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash/France24.mpd
+URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/france_150px.jpg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------
 Name: NHK World Japan
-URL: https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 Logo: https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg
 Source: https://raw.githubusercontent.com/denimaung/nontontv/refs/heads/main/playlist.M3U
 --------------------------------------------------

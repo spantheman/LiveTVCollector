@@ -890,32 +890,32 @@
   {
     "name": "HBO",
     "type": "Movies",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJfguXCrrRxsqWxVxUqe-SEEv-mhg9ehi0Rw&s"
+    "url": "http://103.58.160.157:8278/720-HBO/playlist.m3u8",
+    "img": "https://iili.io/Ju79f8g.png"
   },
   {
-    "name": "HBO HITS",
+    "name": "HBO Hits",
     "type": "Movies",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYRrgJyVxiORjqkL9Wo_HBGNHI6CTWAMtMeQ&s"
+    "url": "http://103.58.160.157:8278/720-HBOHITS/playlist.m3u8",
+    "img": "https://iili.io/Ju79nwv.png"
   },
   {
-    "name": "HBO FAMILY",
+    "name": "HBO Family",
     "type": "Movies",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd",
-    "img": "https://linear-poster.astro.com.my/prod/logo/HBO_Family.png"
+    "url": "http://103.58.160.157:8278/720-HBOFAMILY/playlist.m3u8",
+    "img": "https://iili.io/Ju79otR.png"
   },
   {
     "name": "HBO Signature",
     "type": "Movies",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd",
-    "img": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115"
+    "url": "http://103.58.160.157:8278/720-HBOSIG/playlist.m3u8",
+    "img": "https://iili.io/Ju79IMN.png"
   },
   {
-    "name": "CINEMAX",
+    "name": "Cinemax",
     "type": "Movies",
-    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+    "url": "http://103.58.160.157:8278/720-CINEMAX/playlist.m3u8",
+    "img": "https://iili.io/Ju79znp.png"
   },
   {
     "name": "HBO 🇮🇩",
@@ -9414,12 +9414,6 @@
     "img": "https://mimipipi22.github.io/logo/news/rteng.jpg"
   },
   {
-    "name": "EURONEWS",
-    "type": "NEWS",
-    "url": "https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd",
-    "img": "https://mimipipi22.github.io/logo/news/euronews.jpg"
-  },
-  {
     "name": "CNA",
     "type": "NEWS",
     "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CNAHD/mediampd/CNAHD.mpd",
@@ -9436,12 +9430,6 @@
     "type": "NEWS",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wion-world-is-one-news/index.m3u8",
     "img": "https://mimipipi22.github.io/logo/news/wion.jpg"
-  },
-  {
-    "name": "CNBC ASIA",
-    "type": "NEWS",
-    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/news/cnbcasia.jpg"
   },
   {
     "name": "CNN INT",
@@ -11738,7 +11726,7 @@
   {
     "name": "Berita Satu News",
     "type": "TV Berita Indonesia",
-    "url": "http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843e.m3u8",
+    "url": "https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/BeritaSatu.m3u8",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_103.jpg"
   },
   {
@@ -11762,7 +11750,7 @@
   {
     "name": "CNN INDONESIA",
     "type": "TV Berita Indonesia",
-    "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w909769083_b384000_sleng.m3u8",
     "img": "https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.13"
   },
   {
@@ -11784,6 +11772,12 @@
     "img": "https://i.imgur.com/Hh3mx3u.png"
   },
   {
+    "name": "Jakarta GlobeNews Channel",
+    "type": "TV Berita Indonesia",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/JakartaGlobeHD/mediampd/JakartaGlobeHD.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/id/thumb/e/ea/Jakarta_globe_news_channel_id.png/640px-Jakarta_globe_news_channel_id.png"
+  },
+  {
     "name": "Voice Of America",
     "type": "TV Berita Internasional",
     "url": "https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8",
@@ -11802,15 +11796,15 @@
     "img": "https://w7.pngwing.com/pngs/335/473/png-transparent-cnn-international-fox-news-television-tv-channel-television-text-logo.png"
   },
   {
-    "name": "Aljazeera English",
+    "name": "Al Jazeera",
     "type": "TV Berita Internasional",
-    "url": "http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Al_Jazeera_English",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/aljazeera-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/aljazeera.png"
   },
   {
     "name": "BBC World",
     "type": "TV Berita Internasional",
-    "url": "https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_332.jpg"
   },
   {
@@ -11822,31 +11816,31 @@
   {
     "name": "CGTN",
     "type": "TV Berita Internasional",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/CGTN/sa_dash/CGTN.mpd",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_353.png"
   },
   {
-    "name": "CNA",
+    "name": "Channel News Asia",
     "type": "TV Berita Internasional",
-    "url": "https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8",
-    "img": "https://static.mncnow.id/images/channel/f36bdbf0/d7d8_r32.jpg"
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd",
+    "img": "https://cms.cignal.tv/Upload/Images/CNA%20LOGO%20-horizontal%20-%20on%20light%20background.png"
   },
   {
     "name": "CNBC Asia-Pacific",
     "type": "TV Berita Internasional",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/CNBC/sa_dash/CNBC.mpd",
+    "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/cnbc.png"
   },
   {
     "name": "DW English",
     "type": "TV Berita Internasional",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/DW/sa_dash/DW.mpd",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/DWTV/DWTV-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_357.png"
   },
   {
     "name": "EuroNews English",
     "type": "TV Berita Internasional",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/EuroNews/sa_dash/EuroNews.mpd",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/EURONEWS/mediampd/EURONEWS.mpd",
     "img": "https://www.lyngsat.com/logo/tv/ee/euronews_fr.png"
   },
   {
@@ -11858,13 +11852,13 @@
   {
     "name": "France 24 English",
     "type": "TV Berita Internasional",
-    "url": "https://av-ch-cdn.mncnow.id/live/eds/France24/sa_dash/France24.mpd",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/france_150px.jpg"
   },
   {
     "name": "NHK World Japan",
     "type": "TV Berita Internasional",
-    "url": "https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg"
   },
   {
@@ -12128,7 +12122,7 @@
   {
     "name": "CGTN Documentary",
     "type": "Pengetahuan Umum",
-    "url": "http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=CGTN_Documentary",
+    "url": "https://cdn10jtedge.indihometv.com/atm/DASH/CGTN_DOCUMENTARY/CGTN_DOCUMENTARY-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/channel_205.png"
   },
   {
@@ -12144,10 +12138,10 @@
     "img": "https://iili.io/JmoCv5u.png"
   },
   {
-    "name": "DISCOVERY Channel hd",
+    "name": "Discovery Channel",
     "type": "Pengetahuan Umum",
-    "url": "https://kusnadipepenk.github.io/ntn/disc.m3u8",
-    "img": "https://dl.dropboxusercontent.com/s/mdp2hnm9d2zi0cs/discovery.png"
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd",
+    "img": "https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png"
   },
   {
     "name": "Discovery Asia",
@@ -12194,14 +12188,8 @@
   {
     "name": "National Geographic",
     "type": "Pengetahuan Umum",
-    "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8",
+    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd",
     "img": "https://i.pinimg.com/736x/3f/c0/49/3fc04924f2a1832f252977405ac349ad.jpg"
-  },
-  {
-    "name": "National Geographic Wild",
-    "type": "Pengetahuan Umum",
-    "url": "http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176653.m3u8",
-    "img": "https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg"
   },
   {
     "name": "Wild Earth",
@@ -12382,6 +12370,18 @@
     "type": "FMX",
     "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mediampd/BloombergHD.mpd",
     "img": "https://www.mncvision.id/userfiles/image/channel/bloomberg.png"
+  },
+  {
+    "name": "NHK World Japan",
+    "type": "FMX",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/NHKWorldJapanHD/mediampd/NHKWorldJapanHD.mpd",
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_355.jpeg"
+  },
+  {
+    "name": "BBC World",
+    "type": "FMX",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/BBCWorldNewsHD/mediampd/BBCWorldNewsHD.mpd",
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_332.jpg"
   },
   {
     "name": "Reformed21",
@@ -14103,6 +14103,12 @@
     "name": "Vasantham",
     "type": "SINGAPURA",
     "url": "https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd",
+    "img": "https://i.imgur.com/xqYSItV.jpeg"
+  },
+  {
+    "name": "CNA",
+    "type": "SINGAPURA",
+    "url": "https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/profile_1/chunklist.m3u8",
     "img": "https://i.imgur.com/xqYSItV.jpeg"
   },
   {
@@ -15882,6 +15888,36 @@
     "img": "https://mimipipi22.github.io/logo/movies/cinemax.jpg"
   },
   {
+    "name": "HBO 🇵🇭",
+    "type": "MOVIES",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/movies/hbo.jpg"
+  },
+  {
+    "name": "HBO HITS 🇵🇭",
+    "type": "MOVIES",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/movies/hbohits.jpg"
+  },
+  {
+    "name": "HBO FAMILY 🇵🇭",
+    "type": "MOVIES",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/movies/hbofam.jpg"
+  },
+  {
+    "name": "HBO SIGNATURE 🇵🇭",
+    "type": "MOVIES",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/movies/hbosig.jpg"
+  },
+  {
+    "name": "CINEMAX 🇵🇭",
+    "type": "MOVIES",
+    "url": "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/movies/cinemax.jpg"
+  },
+  {
     "name": "GALAXY",
     "type": "MOVIES",
     "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd",
@@ -17608,12 +17644,6 @@
     "type": "KNOWLEDGE",
     "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mediampd/CGTNDocumentaryHD.mpd",
     "img": "https://mimipipi22.github.io/logo/knowledge/cgtndoc.jpg"
-  },
-  {
-    "name": "DISCOVERY CHANNEL",
-    "type": "KNOWLEDGE",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/disco/manifest.mpd",
-    "img": "https://mimipipi22.github.io/logo/knowledge/discovery.jpg"
   },
   {
     "name": "DISCOVERY CHANNEL",
@@ -19611,12 +19641,6 @@
     "name": "PBS Travel",
     "type": "NITRO",
     "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Nat Geo Sharks",
-    "type": "NITRO",
-    "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
