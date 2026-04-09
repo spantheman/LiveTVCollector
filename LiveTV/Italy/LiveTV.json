@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:22:16",
+  "date": "2026-04-09 06:50:32",
   "channels": {
     "Music": [
       {
@@ -1820,15 +1820,6 @@
         "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
       }
     ],
-    "Outdoor;Shop": [
-      {
-        "name": "INWILD (1080p) [Geo-blocked]",
-        "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Inwild.png",
-        "group": "Outdoor;Shop",
-        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
-        "url": "https://amg00861-amg00861c7-firetv-us-4725.playouts.now.amagi.tv/playlist.m3u8"
-      }
-    ],
     "Outdoor": [
       {
         "name": "Italian Fishing TV (1080p)",
@@ -1845,6 +1836,22 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
         "url": "https://amg01821-amg01821c11-rlaxx-gb-10459.playouts.now.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Storie Criminali",
+        "logo": "https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://jmp2.uk/plu-66177d18c8311c0008d077d0.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Mr. Bean Anime Italy (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/it.m3u",
+        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
       }
     ],
     "Outdoor;Travel": [
@@ -3817,13 +3824,6 @@
         "group": "RAKUTEN programmi_tv",
         "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
         "url": "https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8"
-      },
-      {
-        "name": "Mr. Bean",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "RAKUTEN programmi_tv",
-        "source": "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
-        "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8"
       },
       {
         "name": "Mr. Bean - Live Action",
