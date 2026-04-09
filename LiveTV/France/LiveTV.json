@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-08 22:29:23",
+  "date": "2026-04-09 07:33:56",
   "channels": {
     "Entertainment": [
       {
@@ -652,6 +652,15 @@
         "url": "https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8"
       }
     ],
+    "Animation;Kids": [
+      {
+        "name": "Banijay Mr Bean Animé (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/25/Mr._Bean_Animated_Series_stacked_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8"
+      }
+    ],
     "Business;News": [
       {
         "name": "like Gecko) Chrome/108.0.0.0 Safari/537.36\" group-title=\"Business;News\",BFM Business (1080p)",
@@ -934,6 +943,13 @@
         "url": "https://5421175365ea3.streamlock.net/live/smil:switch.smil/playlist.m3u8"
       },
       {
+        "name": "Nature Time France (1080p)",
+        "logo": "https://i.imgur.com/72JmyjM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://bamusa-naturetime-emea-fra-rakuten.amagi.tv/playlist.m3u8"
+      },
+      {
         "name": "Pluto TV Investigation",
         "logo": "https://i.imgur.com/8LdACfR.png",
         "group": "Documentary",
@@ -1118,6 +1134,15 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
         "url": "https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8"
+      }
+    ],
+    "Lifestyle;Travel": [
+      {
+        "name": "Voyages & Saveurs (720p)",
+        "logo": "https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/colorLogoPNG_1749650211442.png",
+        "group": "Lifestyle;Travel",
+        "source": "https://iptv-org.github.io/iptv/countries/fr.m3u",
+        "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8"
       }
     ],
     "Culture;General": [
