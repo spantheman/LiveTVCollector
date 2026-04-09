@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-09 07:54:41",
+  "date": "2026-04-09 14:38:05",
   "channels": {
     "Películas": [
       {
@@ -853,13 +853,6 @@
     ],
     "": [
       {
-        "name": "Águila Roja",
-        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg",
-        "group": "",
-        "source": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1"
-      },
-      {
         "name": "Cines Verdi",
         "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg",
         "group": "",
@@ -874,11 +867,11 @@
         "url": "https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}"
       },
       {
-        "name": "MyTime Movie Network",
-        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg",
+        "name": "Corazón",
+        "logo": "https://img.static-ottera.com/prod/run/linear_channel/logo/KTc3gRKJcyqG7d4VOOn1ZJrx1lvd_M2EYVVbyihgT5I.jpg",
         "group": "",
         "source": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.77"
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1"
       }
     ]
   }

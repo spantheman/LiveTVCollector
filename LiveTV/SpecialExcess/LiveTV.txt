@@ -1,9 +1,4 @@
 Group: 
-Name: Águila Roja
-URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/aguilaroja_c_1920x1080_0.jpg
-Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
---------------------------------------------------
 Name: Cines Verdi
 URL: https://daiconnect.com/live/hls/tvup/rt-cv/.m3u8?DAdID={{DEVICE_ID}}
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/04082023_logo_verdi_tv_fila_canales_1920x1080.jpg
@@ -14,9 +9,9 @@ URL: https://daiconnect.com/live/hls/tvup/rt-fg/.m3u8?DAdID={{DEVICE_ID}}
 Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/logo_feel_good_fila_canales_1920x1080.jpg
 Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
-Name: MyTime Movie Network
-URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8?ip=185.214.97.77
-Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/YECKAbCgFevzZ29V9z63YYJBzO_2PHeK42PRTrTirgg.jpg
+Name: Corazón
+URL: https://stream.ads.ottera.tv/playlist.m3u8?content_livestream=1
+Logo: https://img.static-ottera.com/prod/run/linear_channel/logo/KTc3gRKJcyqG7d4VOOn1ZJrx1lvd_M2EYVVbyihgT5I.jpg
 Source: https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
 --------------------------------------------------
 
