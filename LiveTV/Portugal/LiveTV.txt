@@ -3448,11 +3448,6 @@ URL: https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14f
 Logo: https://i.imgur.com/DwziwMY.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: RecordTV Europa (720p) [Geo-blocked]
-URL: https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
-Logo: https://i.imgur.com/DvxfBTE.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
 Name: RTP 1 (720p) [Not 24/7]
 URL: https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
 Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png
@@ -3460,6 +3455,11 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: RTP Açores (720p) [Not 24/7]
 URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png
+Source: https://iptv-org.github.io/iptv/countries/pt.m3u
+--------------------------------------------------
+Name: RTP Açores (504p) [Not 24/7]
+URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
 Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -3474,7 +3474,7 @@ Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpme
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: TVI (720p)
-URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+URL: https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvi.m3u8
 Logo: https://i.imgur.com/H8Tgl7m.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -3687,7 +3687,7 @@ Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 
 Group: Kids
-Name: Disney Channel (576p)
+Name: Disney Channel (1080p)
 URL: http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
@@ -3772,9 +3772,9 @@ URL: https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: SIC Notícias (1080p)
-URL: https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
-Logo: https://i.imgur.com/Gi6Q26M.png
+Name: RTP Noticias (504p) [Not 24/7]
+URL: https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+Logo: https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: Trailers (1080p)
@@ -3810,7 +3810,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgMjoxNzo1OSBQTSZoYXNoX3ZhbHVlPWUwVkplVW41bWJHdEJ5ZjgxeVBKZXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zODBmMmZlYi1jMjE3LTQ5YmYtODEyMS1mYzk2Mzg5NWUwYTQ=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgOTo2OjIzIFBNJmhhc2hfdmFsdWU9MUNjOFJFVXp0bGJIWmgyV1NLcFZ1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTI1YTkyNzcwLTFmYWMtNDhmZS1hOGIzLTVhYTUxM2VhYTE4MQ==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -5623,7 +5623,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgMjoxNzo1OSBQTSZoYXNoX3ZhbHVlPUxTNlNLeFVydS9mZGJMd3dCMnJsaXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kNzJkZWY0Yi05YjNjLTRlYmYtYTM5Ny05ZGMxNTZkOWZmYzc=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgOTo2OjI0IFBNJmhhc2hfdmFsdWU9OCtrQzZVQWlrakl3Q1hxOEUyYXJVUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM4OTA0OTY0LWY2N2MtNDE2Ni1hMzQ1LWNkNjNlYzZhMGNkZg==/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -5633,7 +5633,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgMjoxNzo1OCBQTSZoYXNoX3ZhbHVlPXZrbTIrNVBpd0lMWVdRejdpL2RadkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iYzE4ZThhMi05NjE3LTRiNDktYTNiZi1kMTA2NTFiZTUzMmY=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgOTo2OjIzIFBNJmhhc2hfdmFsdWU9dmNjL3JQejdJS1hzdE11NWVyNjM0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU4YmUzYzBkLThkNDctNGJkNi04OGE1LTZkZjJkNDM0N2U5Yg==/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/Freetv.m3u
 --------------------------------------------------
@@ -5912,7 +5912,7 @@ Source: https://raw.githubusercontent.com/inspirationlinks/m3u/refs/heads/live/F
 
 Group: Religious
 Name: ADB TV (1080p)
-URL: https://streamer-a03.videos.sapo.pt/live/sobrenaturaltv_3/playlist.m3u8
+URL: https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 Logo: https://i.ibb.co/HGfTJwt/ADBTV.jpg
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -6767,7 +6767,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgNDoyNTo5IFBNJmhhc2hfdmFsdWU9VzNvUGdDMkYwVGM5d1RmYnloV2Uvdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTlkNzRkNTVmLWJmNDgtNDZjMC1hMWUzLTA0ZGI3YTM4NDVmMw==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI2IDEyOjk6NDggQU0maGFzaF92YWx1ZT1PRGRkQ3lrK2hHcCtRYjg4b1JGY1BnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzhmNTViODYtNDViYS00OWY5LWJjODItZjM3Yzg1MzJmYmQy/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -6782,7 +6782,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgNDoyNTo5IFBNJmhhc2hfdmFsdWU9T2hxazdsK1VvNEdNNjFTQnd6aFp0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWIxMjNkMzc2LTk5Y2QtNDdmOS04Y2MxLTE2NTI0ZTYyYTZhZQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI2IDEyOjk6NDkgQU0maGFzaF92YWx1ZT10eUJRVTFZeFBDWjZVOVpsSTZzdmtBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTAxNjA4MTctMzlkZC00ZGY2LThmYTQtNjVkYjFjM2VjNmIz/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -6827,7 +6827,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjYgNDoyNToxMCBQTSZoYXNoX3ZhbHVlPUw3aFc0OVpEcjdUdFNKU1Y0Z2R2dkE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNjQ1NjJmMS0zZjVkLTRmNGQtODgxMS1mNTJiZThkMTFhM2I=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xMC8yMDI2IDEyOjk6NDkgQU0maGFzaF92YWx1ZT1nWUJNZEFrSzhROE1wQ3BYMUhwWnNnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NzliOGViYmYtNGJjNy00NWYyLTk1ZjQtNTczODc4ZmU2Nzc2/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
