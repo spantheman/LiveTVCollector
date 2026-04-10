@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-09 22:39:48",
+  "date": "2026-04-10 08:11:55",
   "channels": {
     "Uncategorized": [
       {
@@ -3207,6 +3207,13 @@
         "group": "Animation;Kids",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://x1co.com.br:8443/hls/stream.m3u8"
+      },
+      {
+        "name": "NickOnline Feed 2 (576p) [Not 24/7]",
+        "logo": "https://x1co.com.br:8443/logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "https://x1co.com.br:2083/hls/stream.m3u8"
       }
     ],
     "Documentary": [
