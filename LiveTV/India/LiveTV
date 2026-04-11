@@ -48,6 +48,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png"
   },
   {
+    "name": "Green TV",
+    "type": "Bangla",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"
+  },
+  {
     "name": "Srk Tv",
     "type": "Bangla",
     "url": "https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8",
@@ -78,22 +84,10 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Peace TV Urdu",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-  {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "EWTN TV",
@@ -132,9 +126,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Enter 10 Bangla",
+    "type": "Kolkata Bangla",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
+  },
+  {
     "name": "Bangla Movies",
     "type": "Kolkata Bangla Movies",
     "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bangla Movies",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -380,7 +386,7 @@
   {
     "name": "Star Sports 1 Tamil (576p)",
     "type": "Sports",
-    "url": "http://ptu.ridsys.in/riptv/live/STAR_SPORTS_TAMIL/index.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
   },
   {
@@ -394,12 +400,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a01m/index.m3u8",
     "img": "https://i.imgur.com/kHerF19.png"
-  },
-  {
-    "name": "Star Sports 3 (576p)",
-    "type": "Sports",
-    "url": "http://103.161.153.165:8000/play/a05p/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png"
   },
   {
     "name": "Discovery Bangla",
@@ -526,12 +526,6 @@
     "type": "Documentary",
     "url": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Sony BBC Earth (576p)",
-    "type": "Documentary",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/SONY_BBC_EARTH/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Tom & Jarry",
@@ -814,12 +808,6 @@
     "type": "Movies",
     "url": "https://cdn4.skygo.mn/live/disk1/THT/HLSv3-FTA/THT.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "&pictures HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.161.153.165:8000/play/a05u/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540"
   },
   {
     "name": "&TV (576p)",
@@ -1214,7 +1202,7 @@
   {
     "name": "Zee Thirai HD (1080p)",
     "type": "Movies",
-    "url": "http://ptu.ridsys.in/riptv/live/ZEE_THIRAI/index.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/ZEE_THIRAI_HD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
@@ -1328,7 +1316,7 @@
   {
     "name": "Nickelodeon (576p)",
     "type": "Kids",
-    "url": "http://ptu.ridsys.in/riptv/live/NICK/index.m3u8",
+    "url": "http://103.157.248.140:8000/play/a01n/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png"
   },
   {
@@ -1968,12 +1956,6 @@
     "img": "https://d3bd0tgyk368z1.cloudfront.net/zeelg/LG%20logo%20artwork/400x200/zhornights.png"
   },
   {
-    "name": "Zee Tamil (576p)",
-    "type": "Entertainment",
-    "url": "http://103.161.153.165:8000/play/a05z/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540"
-  },
-  {
     "name": "Zee Tamil HD (1080p)",
     "type": "Entertainment",
     "url": "http://ptu.ridsys.in/riptv/live/ZEE_TAMIL_HD/index.m3u8",
@@ -2043,12 +2025,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3978,6 +3954,12 @@
     "img": "https://i.imgur.com/1ztVXUi.png"
   },
   {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
+  },
+  {
     "name": "PMC Telugu (1080p)",
     "type": "Religious",
     "url": "https://mumbai-edge.smartplaytv.in/PMC/index.m3u8",
@@ -4560,9 +4542,9 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/500px-Kairali_TV.svg.png"
   },
   {
-    "name": "Kalaignar TV (396p)",
+    "name": "Kalaignar TV (576p)",
     "type": "General",
-    "url": "https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8",
+    "url": "http://ajkiptv.ridsys.in/riptv/live/KALAIGNAR_TV/index.m3u8",
     "img": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalaignar%20TV.png"
   },
   {
