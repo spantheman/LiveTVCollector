@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-11 22:00:12",
+  "date": "2026-04-12 07:31:23",
   "channels": {
     "Promo": [
       {
@@ -111,6 +111,13 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+      },
+      {
+        "name": "Peace TV Urdu",
+        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+        "group": "Relagion Channel",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "Madani TV",
@@ -903,20 +910,6 @@
         "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8"
       },
       {
-        "name": "Star Sports SL 1 🇮🇳",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8"
-      },
-      {
-        "name": "Star Sports SL 2 🇮🇳",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8"
-      },
-      {
         "name": "Sony-Ten-Cricket HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1661,6 +1654,13 @@
       }
     ],
     "ISLAMIC CHANNELS": [
+      {
+        "name": "Peace tv Bangla",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
+      },
       {
         "name": "Noor Tv",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -4740,13 +4740,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
-      },
-      {
-        "name": "Peace TV Urdu (1080p)",
-        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "PMC Telugu (1080p)",
