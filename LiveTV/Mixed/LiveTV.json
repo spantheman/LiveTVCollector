@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-11 22:01:36",
+  "date": "2026-04-12 07:38:04",
   "channels": {
     "film": [
       {
@@ -1067,7 +1067,7 @@
         "logo": "https://i.ibb.co/fMh1j6W/610.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://217.26.190.76:8888/play/a0co/index.m3u8"
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/DS1_ENC_LIVE/index.mpd"
       },
       {
         "name": "DIRECTV SPORTS +",
@@ -1112,11 +1112,18 @@
         "url": "http://45.5.119.43:4000/play/a05r/index.m3u8"
       },
       {
+        "name": "FOX DEPORTES",
+        "logo": "https://e7.pngegg.com/pngimages/809/867/png-clipart-fox-broadcasting-company-television-channel-logo-television-show-fox-logo-television-angle.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://live-manifest.production-public.tubi.io/live/35557bb9-7c94-40ea-85f7-c94d852f8374/playlist.m3u8"
+      },
+      {
         "name": "TIGO SPORTS",
         "logo": "https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L-A",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://177.10.184.193:8000/play/a09k/index.m3u8"
+        "url": "https://tigocloud.desdeparagauy.com.py-east-1.amazonaws.com@live.enhdtv.com:8081/8160/index.m3u8"
       },
       {
         "name": "MOVISTAR DEPORTES",
@@ -1137,7 +1144,7 @@
         "logo": "https://newyorktennismagazine.com/wp-content/uploads/2020/03/TennisChannel-logo_0.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.114.57.246:4000/play/CuhCF3z5UqBQAt54/index.m3u8"
+        "url": "https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8"
       },
       {
         "name": "NBA",
