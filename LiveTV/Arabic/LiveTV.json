@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-11 22:12:34",
+  "date": "2026-04-12 08:49:53",
   "channels": {
     "General": [
       {
@@ -2039,6 +2039,22 @@
         "url": "https://video.yementdy.tv/hls/yementoday.m3u8"
       }
     ],
+    "Family": [
+      {
+        "name": "Al-Souriya TV (1080p)",
+        "logo": "https://i.imgur.com/8FILgXT.jpeg",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8"
+      },
+      {
+        "name": "MBC 5 (1080p)",
+        "logo": "https://i.imgur.com/fRWaDyF.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
+      }
+    ],
     "Sports": [
       {
         "name": "Alkass Five (1080p)",
@@ -2388,15 +2404,6 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
         "url": "https://starmenajo.com/hls/yemenshabab/index.m3u8"
-      }
-    ],
-    "Family": [
-      {
-        "name": "MBC 5 (1080p)",
-        "logo": "https://i.imgur.com/fRWaDyF.png",
-        "group": "Family",
-        "source": "https://iptv-org.github.io/iptv/languages/ara.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
       }
     ],
     "Classic": [
