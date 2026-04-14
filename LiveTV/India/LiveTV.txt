@@ -267,11 +267,6 @@ URL: https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Star Sports SL 1 🇮🇳
-URL: https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1701,6 +1696,16 @@ URL: https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Unnamed Channel
+URL: https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: ZB Cartoon
+URL: https://server.zillarbarta.com/zbcatun/video.m3u8
+Logo: https://i.postimg.cc/FFwSjdzS/Pogo.jpg
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Zoo Moo
 URL: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1746,11 +1751,6 @@ URL: http://103.229.254.25:7001/play/a0dl/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: ZB Cartoon (1080p)
-URL: https://server.zillarbarta.com/zbcatun/video.m3u8
-Logo: https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 
 Group: Kolkata Bangla
 Name: Gopal Bhar
@@ -1770,9 +1770,21 @@ URL: https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Bangla Movies
+URL: https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Colors Bangla Cinema
 URL: http://103.229.254.25:7001/play/a078/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+
+Group: Kolkata Bangla Music
+Name: Dhoom Music
+URL: http://103.175.73.12:8080/live/378/378_0.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 

@@ -150,10 +150,22 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Bangla Movies",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Colors Bangla Cinema",
     "type": "Kolkata Bangla Movies",
     "url": "http://103.229.254.25:7001/play/a078/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
+  },
+  {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "ABP Ananda",
@@ -711,12 +723,6 @@
     "name": "T Sports HD 🇧🇩",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/TSportsHD/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 1 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1302,6 +1308,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Unnamed Channel",
+    "type": "Kids",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cartoon",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -1354,12 +1372,6 @@
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
   },
   {
     "name": "Peace tv Bangla",
