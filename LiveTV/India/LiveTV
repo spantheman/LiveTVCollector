@@ -78,12 +78,6 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Peace TV Urdu",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
@@ -168,6 +162,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
   },
   {
+    "name": "Dhoom Music",
+    "type": "Kolkata Bangla Music",
+    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "ABP Ananda",
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
@@ -196,6 +196,12 @@
     "type": "Indian Bangla News",
     "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
+  },
+  {
+    "name": "Kolkata TV",
+    "type": "Indian Bangla News",
+    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png"
   },
   {
     "name": "TV9 Bangla",
@@ -744,6 +750,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Laliga Movistar",
+    "type": "Football",
+    "url": "https://xtream.videx.lol/Yoshiro/admin/478.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "MuxIP-SportsFirst TV🎯",
     "type": "Football",
     "url": "https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8",
@@ -795,6 +807,12 @@
     "name": "Russia Football 3 HD",
     "type": "Football",
     "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Real Madrid tv Football",
+    "type": "Football",
+    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1278,6 +1296,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Unnamed Channel",
+    "type": "Kids",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cartoon",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -1330,18 +1360,6 @@
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
-  },
-  {
-    "name": "Peace tv Bangla",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
-    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
     "name": "Noor Tv",
@@ -1467,6 +1485,12 @@
     "name": "FASHION ONE",
     "type": "Entertainment",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8",
+    "img": "https://i.ibb.co/9grLJCS/fone22.png"
+  },
+  {
+    "name": "Digital Fashion",
+    "type": "Entertainment",
+    "url": "http://115.187.41.216:8080/hls/digitalfashion/index.m3u8",
     "img": "https://i.ibb.co/9grLJCS/fone22.png"
   },
   {
@@ -2058,6 +2082,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "DW English",
     "type": "NEWS INTERNASIONAL",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1",
@@ -2644,12 +2674,6 @@
     "type": "News",
     "url": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540"
-  },
-  {
-    "name": "Kolkata TV (1080p)",
-    "type": "News",
-    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Living India News (1080p)",
@@ -4036,6 +4060,12 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
+  },
+  {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
