@@ -72,6 +72,12 @@
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
   },
   {
+    "name": "Peace TV English",
+    "type": "Relagion Channel",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
     "name": "Peace TV Urdu",
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
@@ -82,6 +88,12 @@
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  },
+  {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
   },
   {
     "name": "AL Sunnah TV",
@@ -156,12 +168,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"
   },
   {
-    "name": "Dhoom Music",
-    "type": "Kolkata Bangla Music",
-    "url": "http://103.175.73.12:8080/live/378/378_0.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "ABP Ananda",
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8",
@@ -190,12 +196,6 @@
     "type": "Indian Bangla News",
     "url": "https://akdnetwork.co.in/live/cnnew/index.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png"
-  },
-  {
-    "name": "Kolkata TV",
-    "type": "Indian Bangla News",
-    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
-    "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/kolkata-tv.png"
   },
   {
     "name": "TV9 Bangla",
@@ -372,6 +372,18 @@
     "img": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
   },
   {
+    "name": "Sony Sports Ten 4 (1080p) [Geo-blocked]",
+    "type": "Sports",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540"
+  },
+  {
+    "name": "Sony Sports Ten 4 Telugu (1080p)",
+    "type": "Sports",
+    "url": "https://sl.vodep39240327.workers.dev/channel/SONY%20TEN%204%20HD.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s149166_ld_h15_aa.png?lock=720x540"
+  },
+  {
     "name": "Sony Sports Ten 5 HD (1080p)",
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a05x/index.m3u8",
@@ -388,18 +400,6 @@
     "type": "Sports",
     "url": "http://103.157.248.140:8000/play/a00g/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HINDI/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil (576p)",
-    "type": "Sports",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "Star Sports 1 Tamil HD (1080p)",
-    "type": "Sports",
-    "url": "http://ajkiptv.ridsys.in/riptv/live/STAR_SPORTS_1_TAMIL_HD/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_TAMIL/images/LOGO_HD/image.png"
   },
   {
     "name": "Star Sports 2 Hindi HD (1080p)",
@@ -795,12 +795,6 @@
     "name": "Russia Football 3 HD",
     "type": "Football",
     "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Real Madrid tv Football",
-    "type": "Football",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1284,18 +1278,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Unnamed Channel",
-    "type": "Kids",
-    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ZB Cartoon",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
-  },
-  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -1350,6 +1332,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
   },
   {
+    "name": "ZB Cartoon (1080p)",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
+  },
+  {
     "name": "Peace tv Bangla",
     "type": "ISLAMIC CHANNELS",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
@@ -1359,12 +1347,6 @@
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Peace Tv English",
-    "type": "ISLAMIC CHANNELS",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1485,12 +1467,6 @@
     "name": "FASHION ONE",
     "type": "Entertainment",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/playlist.m3u8",
-    "img": "https://i.ibb.co/9grLJCS/fone22.png"
-  },
-  {
-    "name": "Digital Fashion",
-    "type": "Entertainment",
-    "url": "http://115.187.41.216:8080/hls/digitalfashion/index.m3u8",
     "img": "https://i.ibb.co/9grLJCS/fone22.png"
   },
   {
@@ -2668,6 +2644,12 @@
     "type": "News",
     "url": "https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8",
     "img": "https://dtil.tmsimg.com/assets/s143262_ld_h15_aa.png?lock=720x540"
+  },
+  {
+    "name": "Kolkata TV (1080p)",
+    "type": "News",
+    "url": "https://cdn.ottlive.co.in/kolkatatv/index.m3u8",
+    "img": "https://dtil.tmsimg.com/assets/s143271_ld_h15_aa.png?lock=720x540"
   },
   {
     "name": "Living India News (1080p)",
@@ -3882,6 +3864,12 @@
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Arihant_TV.png"
   },
   {
+    "name": "Dharsan TV (720p)",
+    "type": "Religious",
+    "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8",
+    "img": "https://play-lh.googleusercontent.com/brn76ZzRlqS8ylZVVcc5ZFWcqUp36iJ82WyzwiQ8-Nqi_8pIZZ_gsMCXNn6YiLhOEQ"
+  },
+  {
     "name": "Dheeran TV (576p)",
     "type": "Religious",
     "url": "https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8",
@@ -3946,6 +3934,12 @@
     "type": "Religious",
     "url": "https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestusa/d57ffba6564caea2fee3f4085f19a098.sdp/playlist.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/hh/harvest_tv_in_usa.png"
+  },
+  {
+    "name": "Hebron TV (1080p)",
+    "type": "Religious",
+    "url": "https://account20.livebox.co.in/charleshls/live.m3u8",
+    "img": "https://i0.wp.com/hebrontv.in/wp-content/uploads/2023/11/hebron-.png?w=512"
   },
   {
     "name": "Hindu Dharmam (576p)",
