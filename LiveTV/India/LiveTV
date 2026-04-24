@@ -6,12 +6,6 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
-    "name": "Live Sports",
-    "type": "Live Sports",
-    "url": "https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK-N_gNFqnaOM4YRQ&s=10"
-  },
-  {
     "name": "LiveSports",
     "type": "Live Sports",
     "url": "http://103.229.254.25:7001/play/a087/index.m3u8",
@@ -316,12 +310,6 @@
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/19/19_0.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLOrrVnk_41l-x7vMswKXKH2YJYGL5TNx6MzOEbEvzUA&s"
-  },
-  {
-    "name": "Star Sports 1 HD",
-    "type": "Sports",
-    "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
   },
   {
     "name": "DD Sports 2.0",
@@ -816,6 +804,12 @@
     "img": "https://i.ibb.co/BfM21nC/beinhaber.png"
   },
   {
+    "name": "A SPOR",
+    "type": "Football",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
+    "img": "https://i.ibb.co/xSjB51j/aspor.png"
+  },
+  {
     "name": "Bein Sports 1🎯",
     "type": "Football",
     "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8",
@@ -1226,7 +1220,7 @@
   {
     "name": "Star Utsav Movies (576p)",
     "type": "Movies",
-    "url": "http://116.90.120.151:8000/play/a0ka/index.m3u8",
+    "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_STAR_UTSAV_MOVIES&uid=gana-sunega&pass=krish-ka",
     "img": "https://i.imgur.com/k5QHfH2.png"
   },
   {
@@ -1362,6 +1356,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BBC Cbeebies",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Cartoon Network",
     "type": "Kids",
     "url": "https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8",
@@ -1438,6 +1438,12 @@
     "type": "Kids",
     "url": "http://103.229.254.25:7001/play/a0dl/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
+  },
+  {
+    "name": "Peace tv Bangla",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ",
+    "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
     "name": "Sunnah Tv",
@@ -2022,9 +2028,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_8/images/LOGO_HD/image.png"
   },
   {
-    "name": "Sony Entertainment Television HD (1080p) [Geo-blocked]",
+    "name": "Sony Entertainment Television HD (1080p)",
     "type": "Entertainment",
-    "url": "https://sl.vodep39240327.workers.dev/channel/SET%20HD.m3u8",
+    "url": "http://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_SET_HD&uid=gana-sunega&pass=krish-ka",
     "img": "https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540"
   },
   {
