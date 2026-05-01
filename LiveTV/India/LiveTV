@@ -132,12 +132,6 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Peace TV Urdu",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
     "name": "Madani TV",
     "type": "Relagion Channel",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
@@ -819,12 +813,6 @@
     "name": "N TV",
     "type": "Live Tv",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Durronto TV",
-    "type": "Live Tv",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1956,12 +1944,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Amazon SAT",
-    "type": "Infotainment Channels",
-    "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "FASHION ONE",
     "type": "Entertainment",
     "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2ee6997cb_1/playlist.m3u8",
@@ -2673,12 +2655,6 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BBC News",
-    "type": "NEWS INTERNASIONAL",
-    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4702,6 +4678,12 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
+  },
+  {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",

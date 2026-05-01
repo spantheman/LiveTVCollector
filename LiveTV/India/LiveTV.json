@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-01 08:02:47",
+  "date": "2026-05-01 14:57:53",
   "channels": {
     "Promo": [
       {
@@ -169,13 +169,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-      },
-      {
-        "name": "Peace TV Urdu",
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "Madani TV",
@@ -1010,13 +1003,6 @@
         "group": "Live Tv",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
-      },
-      {
-        "name": "Durronto TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Channel I",
@@ -2347,13 +2333,6 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1"
-      },
-      {
-        "name": "Amazon SAT",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Infotainment Channels",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8"
       }
     ],
     "Entertainment": [
@@ -3193,13 +3172,6 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-      },
-      {
-        "name": "BBC News",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
       },
       {
         "name": "DW English",
@@ -5565,6 +5537,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      },
+      {
+        "name": "Peace TV Urdu (1080p)",
+        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "PMC Telugu (1080p)",

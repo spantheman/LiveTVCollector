@@ -2036,11 +2036,6 @@ URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Amazon SAT
-URL: https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 
 Group: Islamic
 Name: Islamic TV
@@ -2328,11 +2323,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: N TV
 URL: https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Durronto TV
-URL: https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -3203,11 +3193,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: BBC News
-URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -4429,11 +4414,6 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Peace TV Urdu
-URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
-Logo: https://i.ibb.co/598TYnC/20240827-092020.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Madani TV
 URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
@@ -4729,6 +4709,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Peace TV Bangla (1080p)
 URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
 Logo: https://i.imgur.com/1ztVXUi.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Peace TV Urdu (1080p)
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
+Logo: https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: PMC Telugu (1080p)
