@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-07 07:54:20",
+  "date": "2026-05-07 15:48:03",
   "channels": {
     "Promo": [
       {
@@ -137,20 +137,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
-      },
-      {
-        "name": "Peace TV English",
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-      },
-      {
-        "name": "Peace TV Urdu",
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "Madani TV",
@@ -755,6 +741,13 @@
     ],
     "English Movies": [
       {
+        "name": "Lotus",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "English Movies",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://cdn1.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus-avc1_2089200=342-mp4a_256000_eng=343.m3u8"
+      },
+      {
         "name": "Action Hollywood Movies",
         "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",
         "group": "English Movies",
@@ -1241,6 +1234,13 @@
         "url": "https://stream.spicefmbd.com/stream.m3u8"
       },
       {
+        "name": "Willow-Cricket HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cricket 🏏",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8"
+      },
+      {
         "name": "PTV Sports pk HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cricket 🏏",
@@ -1274,13 +1274,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8"
-      },
-      {
-        "name": "Star Sports SL 2 🇮🇳",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8"
       },
       {
         "name": "Sony-Ten-Cricket HD",
@@ -2168,6 +2161,13 @@
     ],
     "ISLAMIC CHANNELS": [
       {
+        "name": "Peace tv Bangla",
+        "logo": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",
+        "group": "ISLAMIC CHANNELS",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ"
+      },
+      {
         "name": "Noor Tv",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "ISLAMIC CHANNELS",
@@ -2273,6 +2273,13 @@
         "group": "Infotainment Channels",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://zbgbierf.megatv.fun/iptv/XQKYTP7AMVYFXD/1105/index.m3u8"
+      },
+      {
+        "name": "Discovery HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Infotainment Channels",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
       },
       {
         "name": "Sochi 24 HD 🇷🇺",
@@ -3114,6 +3121,27 @@
     ],
     "NEWS INTERNASIONAL": [
       {
+        "name": "France 24 English (720p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_2300.m3u8"
+      },
+      {
+        "name": "DW NEWS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8"
+      },
+      {
+        "name": "NDTV NEWS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8"
+      },
+      {
         "name": "T Global News (Canada)",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -3121,11 +3149,11 @@
         "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
       },
       {
-        "name": "BBC News",
+        "name": "DW English",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1"
+        "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1"
       },
       {
         "name": "FOX News (AU) 🛜",
@@ -3210,6 +3238,13 @@
         "group": "NEWS INTERNASIONAL",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+      },
+      {
+        "name": "News Max 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "NEWS INTERNASIONAL",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
       }
     ],
     "News": [
@@ -5484,6 +5519,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8"
+      },
+      {
+        "name": "Peace TV Urdu (1080p)",
+        "logo": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
       },
       {
         "name": "PMC Telugu (1080p)",
