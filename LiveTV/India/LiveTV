@@ -126,12 +126,6 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
-    "name": "Makkah TV",
-    "type": "Relagion Channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
-    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
-  },
-  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
@@ -195,6 +189,12 @@
     "name": "Bangla Movies",
     "type": "Kolkata Bangla Movies",
     "url": "https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cinema",
+    "type": "Kolkata Bangla Movies",
+    "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -268,12 +268,6 @@
     "type": "Hindi",
     "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"
-  },
-  {
-    "name": "Zee TV HD",
-    "type": "Hindi",
-    "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"
   },
   {
     "name": "Big Magic",
@@ -1050,6 +1044,30 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Sony Sports 1 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Sports 2 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony Sports 5 HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "EuroSports HD 🇮🇳",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Star Sports SL 1 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
@@ -1059,6 +1077,12 @@
     "name": "Star Sports SL 2 🇮🇳",
     "type": "Cricket 🏏",
     "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sony-Ten-Cricket HD",
+    "type": "Cricket 🏏",
+    "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1707,6 +1731,12 @@
     "name": "Deepto TV",
     "type": "Bangladeshi 🇧🇩",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC Cbeebies",
+    "type": "Kids",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2556,6 +2586,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
+    "name": "Zee TV (1080p)",
+    "type": "Entertainment",
+    "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
+  },
+  {
     "name": "Zee TV HD (1080p)",
     "type": "Entertainment",
     "url": "http://103.72.101.252:8080/live/167.m3u8",
@@ -2589,12 +2625,6 @@
     "name": "TRT WORLD",
     "type": "NEWS INTERNASIONAL TV",
     "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Press TV Iran",
-    "type": "NEWS INTERNASIONAL TV",
-    "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
