@@ -126,6 +126,12 @@
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },
   {
+    "name": "Makkah TV",
+    "type": "Relagion Channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+  },
+  {
     "name": "AL Sunnah TV",
     "type": "Relagion Channel",
     "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
@@ -268,6 +274,12 @@
     "type": "Hindi",
     "url": "http://103.229.254.25:7001/play/a077/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"
+  },
+  {
+    "name": "Zee TV HD",
+    "type": "Hindi",
+    "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"
   },
   {
     "name": "Big Magic",
@@ -786,6 +798,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Durronto TV",
+    "type": "Live Tv",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel I",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8",
@@ -1068,18 +1086,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Star Sports SL 1 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Star Sports SL 2 🇮🇳",
-    "type": "Cricket 🏏",
-    "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Sony-Ten-Cricket HD",
     "type": "Cricket 🏏",
     "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8",
@@ -1161,12 +1167,6 @@
     "name": "Russia Football 3 HD",
     "type": "Football",
     "url": "http://cdntv.online/low/9mlxywika2/57.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Real Madrid tv Football",
-    "type": "Football",
-    "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1440,9 +1440,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUBLIC_MOVIES/images/LOGO_HD/image.png"
   },
   {
-    "name": "Raj Digital Plus (576p)",
+    "name": "Raj Digital Plus (1080p)",
     "type": "Movies",
-    "url": "http://103.72.101.252:8080/live/683.m3u8",
+    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_DIGITAL_PLUS/images/LOGO_HD/image.png"
   },
   {
@@ -1642,12 +1642,6 @@
     "type": "Movies",
     "url": "http://103.72.101.252:8080/live/1358.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TALKIES/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "name": "Zee Thirai HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.72.101.252:8080/live/3051.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_THIRAI/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Arabica TV",
@@ -2532,12 +2526,6 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VISSA_TV/images/LOGO_HD/image.png"
   },
   {
-    "name": "Zee Bangla (576p)",
-    "type": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/625.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_BANGLA_HD/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
     "name": "Zee Bangla Sonar (576p)",
     "type": "Entertainment",
     "url": "http://103.229.254.25:7001/play/a070/index.m3u8",
@@ -2574,22 +2562,10 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_SARTHAK/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
-    "name": "Zee Tamil (576p)",
-    "type": "Entertainment",
-    "url": "http://103.72.101.252:8080/live/628.m3u8",
-    "img": "https://dtil.tmsimg.com/assets/GNLZZGG0022S29Y.png?lock=720x540"
-  },
-  {
     "name": "Zee Telugu HD (1080p)",
     "type": "Entertainment",
     "url": "https://mumbai-edge.smartplaytv.in/ZeeTeluguHD/index.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TELUGU/images/LOGO_HD/LOGO_HD_image.png"
-  },
-  {
-    "name": "Zee TV (1080p)",
-    "type": "Entertainment",
-    "url": "http://103.229.254.25:7001/play/a0cs/index.m3u8",
-    "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png"
   },
   {
     "name": "Zee TV HD (1080p)",
@@ -2625,6 +2601,12 @@
     "name": "TRT WORLD",
     "type": "NEWS INTERNASIONAL TV",
     "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Press TV Iran",
+    "type": "NEWS INTERNASIONAL TV",
+    "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4236,9 +4218,9 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_MALAYALAM/images/LOGO_HD/image.png"
   },
   {
-    "name": "Raj Musix Tamil (576p)",
+    "name": "Raj Musix Tamil (1080p)",
     "type": "Music",
-    "url": "http://103.72.101.252:8080/live/748.m3u8",
+    "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png"
   },
   {
