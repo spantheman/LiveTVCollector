@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-10 07:57:42",
+  "date": "2026-05-10 14:54:16",
   "channels": {
     "Promo": [
       {
@@ -1416,6 +1416,13 @@
         "group": "Football",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "http://cdntv.online/low/9mlxywika2/57.m3u8"
+      },
+      {
+        "name": "Real Madrid tv Football",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Football",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8"
       },
       {
         "name": "FIFA+",
