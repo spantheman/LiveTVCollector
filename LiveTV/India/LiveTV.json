@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-11 16:25:51",
+  "date": "2026-05-11 23:21:21",
   "channels": {
     "Promo": [
       {
@@ -137,13 +137,6 @@
         "group": "Relagion Channel",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8"
-      },
-      {
-        "name": "Peace TV English",
-        "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
-        "group": "Relagion Channel",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
       },
       {
         "name": "Peace TV Urdu",
@@ -973,13 +966,6 @@
         "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8"
       },
       {
-        "name": "Durronto TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Live Tv",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "Channel I",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Live Tv",
@@ -1309,20 +1295,6 @@
         "group": "Cricket 🏏",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8"
-      },
-      {
-        "name": "Star Sports SL 1 🇮🇳",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect1/index.m3u8"
-      },
-      {
-        "name": "Star Sports SL 2 🇮🇳",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Cricket 🏏",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://mflixott.com/tv/plusbox/live/StarSportsSelect2/index.m3u8"
       },
       {
         "name": "Sony-Ten-Cricket HD",
@@ -2122,6 +2094,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
         "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
+      },
+      {
+        "name": "Zoo Moo",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
+        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
       },
       {
         "name": "Chithiram (576p)",
@@ -3240,13 +3219,6 @@
         "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8"
       },
       {
-        "name": "NDTV English",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "NEWS INTERNASIONAL",
-        "source": "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
-        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
-      },
-      {
         "name": "NDTV Hindi",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "NEWS INTERNASIONAL",
@@ -3968,6 +3940,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-6.pishow.tv/live/10014/master.m3u8"
+      },
+      {
+        "name": "NDTV 24X7 (480p) [Not 24/7]",
+        "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_24X7/images/LOGO_HD/image.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8"
       },
       {
         "name": "NDTV India (720p)",
