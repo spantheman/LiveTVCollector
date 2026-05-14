@@ -12,12 +12,6 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
   },
   {
-    "name": "ATN Bangla UK",
-    "type": "Bangla",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
-  },
-  {
     "name": "NTV UK",
     "type": "Bangla",
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8",
@@ -70,18 +64,6 @@
     "type": "Relagion Channel",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v2a1/mono.m3u8",
     "img": "https://i.ibb.co/Gfw89mC/20240804-033102.png"
-  },
-  {
-    "name": "Peace TV English",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
-    "name": "Peace TV Urdu",
-    "type": "Relagion Channel",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
     "name": "Madani TV",
@@ -214,6 +196,12 @@
     "type": "Indian Bangla News",
     "url": "https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8",
     "img": "https://jio.dinesh29.com.np/smart/ardinesh/logos/tv9-bangla.png"
+  },
+  {
+    "name": "R Bangla",
+    "type": "Indian Bangla News",
+    "url": "https://tvsen5.aynaott.com/R_Bangla/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "NK",
@@ -3768,6 +3756,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Durronto TV",
+    "type": "Live Tv",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Channel I",
     "type": "Live Tv",
     "url": "https://nomawnoijl.gpcdn.net/akash/originals/chunks.m3u8",
@@ -3996,12 +3990,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Willow-Cricket HD",
-    "type": "Cricket 🏏",
-    "url": "https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "PTV Sports pk HD",
     "type": "Cricket 🏏",
     "url": "https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8",
@@ -4209,6 +4197,12 @@
     "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
     "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Peace Tv English",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -4780,6 +4774,12 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8",
     "img": "https://i.imgur.com/1ztVXUi.png"
+  },
+  {
+    "name": "Peace TV Urdu (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8",
+    "img": "https://github.com/fawazahmed0/tiger/raw/master/peace/urdu.jpg"
   },
   {
     "name": "PMC Telugu (1080p)",
