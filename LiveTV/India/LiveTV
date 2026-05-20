@@ -6,10 +6,22 @@
     "img": "https://raw.githubusercontent.com/falconcasthoster/images/refs/heads/main/FalconCast.png"
   },
   {
+    "name": "Live Sports",
+    "type": "Live Sports",
+    "url": "https://stream.snexus.co/live/SHARQ_GAME_TV/main_stream.m3u8",
+    "img": "https://encrypted mtbs 0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10"
+  },
+  {
     "name": "BTV World",
     "type": "Bangla",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"
+  },
+  {
+    "name": "Gazi TV",
+    "type": "Bangla",
+    "url": "http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg"
   },
   {
     "name": "ATN Bangla UK",
@@ -252,16 +264,22 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Zee Cinema HD",
+    "type": "Hindi Movies",
+    "url": "http://103.99.249.139/zeecinema/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"
+  },
+  {
     "name": "Zee Action",
     "type": "Hindi Movies",
     "url": "http://103.175.73.12:8080/live/270/270_0.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"
   },
   {
-    "name": "B4U Movies",
+    "name": "Star Gold",
     "type": "Hindi Movies",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"
+    "url": "http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"
   },
   {
     "name": "B4U Kadak",
@@ -326,8 +344,26 @@
   {
     "name": "Star Sports 1 HD",
     "type": "Sports",
+    "url": "http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
+  },
+  {
+    "name": "Star Sports 1 HD",
+    "type": "Sports",
     "url": "http://41.205.93.154/STARSPORTS1/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"
+  },
+  {
+    "name": "Star Sports 2 HD Hindi",
+    "type": "Sports",
+    "url": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"
+  },
+  {
+    "name": "Sony Sports Ten 3 HD",
+    "type": "Sports",
+    "url": "http://103.99.249.139/sonyten3/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png"
   },
   {
     "name": "DD Sports 2.0",
@@ -519,12 +555,6 @@
     "name": "CGTN Docment",
     "type": "Information",
     "url": "https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Discover Pakistan TV",
-    "type": "Information",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3414,6 +3444,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Unnamed Channel",
+    "type": "Kids",
+    "url": "https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ZB Cartoon",
+    "type": "Kids",
+    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
+    "img": "https://i.postimg.cc/FFwSjdzS/Pogo.jpg"
+  },
+  {
     "name": "Zoo Moo",
     "type": "Kids",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
@@ -3472,12 +3514,6 @@
     "type": "Kids",
     "url": "http://103.122.249.134:8000/play/a051",
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONIC/images/LOGO_HD/image.png"
-  },
-  {
-    "name": "ZB Cartoon (1080p)",
-    "type": "Kids",
-    "url": "https://server.zillarbarta.com/zbcatun/video.m3u8",
-    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/zbcatun.png"
   },
   {
     "name": "Party Universe",
@@ -4038,16 +4074,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Azan TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bangladesh vs Pakistan Live",
-    "type": "Cricket 🏏",
-    "url": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8",
-    "img": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg"
   },
   {
     "name": "T Sports BD",
@@ -4260,6 +4296,12 @@
     "img": "https://i.ibb.co/2qdGPCh/Sharjahtvquran.png"
   },
   {
+    "name": "AL QAMAR",
+    "type": "ISLAMIC CHANNELS",
+    "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
+    "img": "https://i.ibb.co/dQtMFVT/qamar.jpg"
+  },
+  {
     "name": "ALMASIRA MUBASHER",
     "type": "ISLAMIC CHANNELS",
     "url": "https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8",
@@ -4395,6 +4437,12 @@
     "name": "T Global News (Canada)",
     "type": "NEWS INTERNASIONAL",
     "url": "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BBC News",
+    "type": "NEWS INTERNASIONAL",
+    "url": "https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
