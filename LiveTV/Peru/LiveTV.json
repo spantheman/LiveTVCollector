@@ -1,5 +1,5 @@
 {
-  "date": "2026-05-21 16:25:38",
+  "date": "2026-05-21 23:18:05",
   "channels": {
     "Entertainment": [
       {
@@ -1407,6 +1407,20 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live.obslivestream.com/rtvxplorer/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "159 | CANAL X TV |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://xtv.moxapps.shop/live/6Z5Esvtga8Q19NTwWETHN9TrhKl2/index.m3u8"
+      },
+      {
+        "name": "160 | CANAL X TV PLUS |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://live20.bozztv.com/giatv/giatv-xtvplus/xtvplus/chunks.m3u8"
       }
     ],
     "TV ESPANA": [
