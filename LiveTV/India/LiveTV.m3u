@@ -117,6 +117,8 @@ http://103.175.73.12:8080/live/19/19_0.m3u8
 http://103.175.73.12:8080/live/13/13_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
 http://tvn1.chowdhury-shaheb.com/starsport1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg" group-title="Sports",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg" group-title="Sports",Star Sports 2 HD Hindi
 http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png" group-title="Sports",Sony Sports Ten 3 HD
@@ -169,6 +171,10 @@ http://103.157.248.140:8000/play/a01m/index.m3u8
 http://103.122.249.134:8000/play/a04i
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_3/images/LOGO_HD/image.png" group-title="Sports",Star Sports 3 (576p)
 http://103.122.249.134:8000/play/a04u
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Information",Discovery Bangla
+http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png" group-title="Information",Nat Geo HD
+http://202.70.146.135:8000/play/a05o/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Information",BBC Earth
 https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Information",BBC Earth
@@ -1365,8 +1371,16 @@ https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",PTV Sports pk HD
-https://crichd.johirxofficial.workers.dev/live/ptvpk.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sony Sports 1 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sony Sports 2 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sony Sports 5 HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",EuroSports HD 🇮🇳
+https://ottbanglaplatform.com/tv/toffee/live.php?id=euro_sports_hd&e=.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",Sony-Ten-Cricket HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",🚨Sathiya TV Srilanka 📡📺
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Cricket 🏏",DD SPORTS
@@ -1481,8 +1495,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="NEWS INTERNASIONAL",T Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="NEWS INTERNASIONAL",BBC News
-https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="NEWS INTERNASIONAL",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/whc9vkT/download-5.png" group-title="NEWS INTERNASIONAL",FOX News (AU) 🛜
