@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-04 01:22:52",
+  "date": "2026-06-04 10:11:58",
   "channels": {
     "BCU": [
       {
@@ -12413,6 +12413,13 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
         "url": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8"
+      },
+      {
+        "name": "RTVi (450p)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/ru.m3u",
+        "url": "https://s70378.cdn.ngenix.net/rtvi/index.m3u8"
       }
     ],
     "Undefined": [
