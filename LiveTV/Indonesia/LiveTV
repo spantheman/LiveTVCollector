@@ -15186,19 +15186,19 @@
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "A TUDN EN VIVO",
+    "name": "C TUDN EN VIVO",
     "type": "PIALA DUNIA",
     "url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "CCTV5",
+    "name": "D CCTV5",
     "type": "PIALA DUNIA",
     "url": "http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "TVP Sport",
+    "name": "A TVP Sport",
     "type": "PIALA DUNIA",
     "url": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
@@ -15216,19 +15216,19 @@
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "A TSN 1 HD CA",
+    "name": "B TSN 1 HD CA",
     "type": "PIALA DUNIA",
     "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6521/index.m3u8",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "A TSN 3 HD CA",
+    "name": "B TSN 3 HD CA",
     "type": "PIALA DUNIA",
     "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6522/index.m3u8",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
   },
   {
-    "name": "A TSN 4 HD CA",
+    "name": "B TSN 4 HD CA",
     "type": "PIALA DUNIA",
     "url": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BMXKTN5RXYDNXT/6445/index.m3u8",
     "img": "https://www.fifplay.com/img/public/fifa-world-cup-2026-logo.png"
@@ -32472,12 +32472,6 @@
     "img": "https://i.imgur.com/sXsAcZ3.png"
   },
   {
-    "name": "GTV (720p)",
-    "type": "General",
-    "url": "https://indihuy.streamized.net/atm/DASH/globaltv/manifest.mpd",
-    "img": "https://i.imgur.com/jjuKnYs.png"
-  },
-  {
     "name": "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"General\",Indosiar [Geo-blocked]",
     "type": "General",
     "url": "https://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8",
@@ -33154,5 +33148,11 @@
     "type": "News;Sports",
     "url": "https://indihuy.streamized.net/atm/DASH/sinpotv/manifest.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/960px-Sin_Po_TV.svg.png"
+  },
+  {
+    "name": "The Indonesia Channel (1080p)",
+    "type": "Culture;Education",
+    "url": "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+    "img": "https://i.imgur.com/jAAPgpV.png"
   }
 ]
