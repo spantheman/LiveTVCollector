@@ -7754,14 +7754,14 @@ https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩",SindoNews TV ᵛ⁺
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Sin_Po_TV.svg/500px-Sin_Po_TV.svg.png" group-title="Nasional 🇮🇩",Sin PO tv
-https://ratu77.adptv.workers.dev/index.mpd?id=19046&type=dash|User-Agent=VidioPlayer/6.31.6
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/sinpotv-avc1_2500000=7-3277707030000000.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eVuKMF8.png" group-title="Nasional 🇮🇩",Trans TV 1
 https:/rtmp://f13h.mine.nu/sat/tv731/video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JtN4fgn.png" group-title="Nasional 🇮🇩",TVR Parlemen
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Nasional 🇮🇩",TVRI Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/960px-TVRI_Sport_2022.svg.png" group-title="Nasional 🇮🇩",TVRI Sport
 http://103.148.44.38:8000/play/a05u/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Riau_TV.png/revision/latest?cb=20181001034314" group-title="Daerah",Riau TV
 https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
