@@ -6264,6 +6264,11 @@ URL: https://cdnbal1.indihometv.com/atm/DASH/inews/inews-avc1_2500000=7-32777070
 Logo: https://mimipipi22.github.io/logo/nasional/inews.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 15. INEWS
+URL: https://ayo.maling.pl/Vision/index.mpd?id=4
+Logo: https://mimipipi22.github.io/logo/nasional/inews.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: SINDONEWS (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/sindonews.jpg
@@ -6279,9 +6284,19 @@ URL: https://tvratu.my.id/vid/index.mpd?id=205&type=dash
 Logo: https://mimipipi22.github.io/logo/nasional/indosiar.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
+Name: 03. INDOSIAR V
+URL: https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+Logo: https://mimipipi22.github.io/logo/nasional/indosiar.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
 Name: 26. MOJI TV
 URL: http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175
 Logo: https://mimipipi22.github.io/logo/nasional/moji.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 20. MENTARI TV
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+Logo: https://i.ibb.co.com/7Jnn95wt/MENTARI.png
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 04. TRANS TV
@@ -6305,7 +6320,7 @@ Logo: https://mimipipi22.github.io/logo/nasional/antv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 12. RTV (MAX)
-URL: https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
+URL: https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/rtv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
@@ -6314,7 +6329,7 @@ URL: https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&useri
 Logo: https://mimipipi22.github.io/logo/nasional/rtv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
-Name: 10. TVONE (MAX)
+Name: 09. TVONE (MAX)
 URL: https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/tvone.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
@@ -6327,6 +6342,11 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: 17. CNBC INDONESIA (FEED)
 URL: https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 Logo: https://mimipipi22.github.io/logo/nasional/cnbcid.jpg
+Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
+--------------------------------------------------
+Name: 19. VTV
+URL: http://tvratu.my.id/oxygen/index.m3u8?id=vtv
+Logo: https://i.imgur.com/1F0683P.jpeg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: 30. BTV (V+)
@@ -6923,11 +6943,6 @@ Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/play
 Name: ZOO MOO (FEED)
 URL: https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 Logo: https://mimipipi22.github.io/logo/kids/zoomoo.jpg
-Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
---------------------------------------------------
-Name: MENTARI TV
-URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
-Logo: https://mimipipi22.github.io/logo/kids/mentaritv.jpg
 Source: https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist
 --------------------------------------------------
 Name: VIVA TV (INTECH)
@@ -20850,11 +20865,6 @@ URL: http://157.15.187.3:25092/hls/95/95.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
-Name: INDOSIAR VD
-URL: https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
 Name: MNC TV IH
 URL: https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqFfGFGJU6o9ViyB8hBd8doyC83zYkVvesuwx1e9Rdkg819se6Z8e0jdFE7fS0tgrVofADMaFR_fylrNM2KxmuloQcLKyi3J80VUtkVUIbtALBx2BQw0rdG3s9EbUd1jenmSyDYWzXbboMesCFWxiP4g5Z7CiV8s2BBtmM8HJh9jarJwSNcZsFO4p88YL9/s700/MNC%20TV.png
@@ -20888,11 +20898,6 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 Name: MDTV IP
 URL: https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png
-Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
---------------------------------------------------
-Name: RTV IH
-URL: https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
-Logo: https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
 Name: MENTARI TV VD
@@ -21572,6 +21577,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 --------------------------------------------------
 Name: RTV (V+)
 URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
+Logo: https://mimipipi22.github.io/logo/nasional/rtv.jpg
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: RTV (MAX)
+URL: https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd
 Logo: https://mimipipi22.github.io/logo/nasional/rtv.jpg
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------

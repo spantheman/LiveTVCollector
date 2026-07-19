@@ -15606,6 +15606,12 @@
     "img": "https://mimipipi22.github.io/logo/nasional/inews.jpg"
   },
   {
+    "name": "15. INEWS",
+    "type": "INDONESIA TV",
+    "url": "https://ayo.maling.pl/Vision/index.mpd?id=4",
+    "img": "https://mimipipi22.github.io/logo/nasional/inews.jpg"
+  },
+  {
     "name": "SINDONEWS (MAX)",
     "type": "INDONESIA TV",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
@@ -15624,10 +15630,22 @@
     "img": "https://mimipipi22.github.io/logo/nasional/indosiar.jpg"
   },
   {
+    "name": "03. INDOSIAR V",
+    "type": "INDONESIA TV",
+    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash",
+    "img": "https://mimipipi22.github.io/logo/nasional/indosiar.jpg"
+  },
+  {
     "name": "26. MOJI TV",
     "type": "INDONESIA TV",
     "url": "http://line.crystalott.net:80/MVQIT3BOBS/LQPDWSNYNZ/1179175",
     "img": "https://mimipipi22.github.io/logo/nasional/moji.jpg"
+  },
+  {
+    "name": "20. MENTARI TV",
+    "type": "INDONESIA TV",
+    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
+    "img": "https://i.ibb.co.com/7Jnn95wt/MENTARI.png"
   },
   {
     "name": "04. TRANS TV",
@@ -15656,7 +15674,7 @@
   {
     "name": "12. RTV (MAX)",
     "type": "INDONESIA TV",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd",
     "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
   },
   {
@@ -15666,7 +15684,7 @@
     "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
   },
   {
-    "name": "10. TVONE (MAX)",
+    "name": "09. TVONE (MAX)",
     "type": "INDONESIA TV",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://mimipipi22.github.io/logo/nasional/tvone.jpg"
@@ -15682,6 +15700,12 @@
     "type": "INDONESIA TV",
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8",
     "img": "https://mimipipi22.github.io/logo/nasional/cnbcid.jpg"
+  },
+  {
+    "name": "19. VTV",
+    "type": "INDONESIA TV",
+    "url": "http://tvratu.my.id/oxygen/index.m3u8?id=vtv",
+    "img": "https://i.imgur.com/1F0683P.jpeg"
   },
   {
     "name": "30. BTV (V+)",
@@ -16702,12 +16726,6 @@
     "type": "KIDS",
     "url": "https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8",
     "img": "https://mimipipi22.github.io/logo/kids/zoomoo.jpg"
-  },
-  {
-    "name": "MENTARI TV",
-    "type": "KIDS",
-    "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd",
-    "img": "https://mimipipi22.github.io/logo/kids/mentaritv.jpg"
   },
   {
     "name": "VIVA TV (INTECH)",
@@ -31062,12 +31080,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "INDOSIAR VD",
-    "type": "TV BackUP",
-    "url": "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash",
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOs5V6wbLyHlAiK5kEtNWmRVdoggVjzNT-_1z45wKBQWEeo3pWpKKYMDLU4BQBDzjPeXsXS2VxuY1fdzm4m-E0rAdpivXHZSNUFKKAzLw4eCeb_ZBMWrjtv17StapLfuKOZjSNo_bjdoBnmNjGm2pQg2-KL05K62XYdCpwiqZf5L4ICeuuenHYlvATxuo6/s700/INDOSIAR.png"
-  },
-  {
     "name": "MNC TV IH",
     "type": "TV BackUP",
     "url": "https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd",
@@ -31108,12 +31120,6 @@
     "type": "TV BackUP",
     "url": "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
     "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjn2A9ip5ces3kmUiiTDhTh5C7obSlYdtsT3MPIgqtI33Gzn3YT28DGA0C9O0icpc-fLpwuFeJWdczQlVsYjTgtAK4dpbiIUZru-NliiyD7-BAK_uZ3IadFWM2mo0gaDXXvqcCn1rHSA7Ps0z_NVPJjSWszPox0EwWgtSH-fQiC0_9DAJbIJmxrTEi-1r5u/s700/MDTV.png"
-  },
-  {
-    "name": "RTV IH",
-    "type": "TV BackUP",
-    "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd",
-    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVapQVSVsIweoWpfpUcwU1od2hb8PtzQa0kV24Rpg_6wV45523L3QSaeXmAgDKlLSaVv15BnXvjP9nj6OggMpQpnPUnOTqsDE28BopevlSXrFY-v4R2l1hElLZNidZbdGnTlV_WfMkVIxIvyStXztCDROscV6WYj3ugO1q9pREWJp1ekgnnLItS102EyMH/s700/RTV.png"
   },
   {
     "name": "MENTARI TV VD",
@@ -31929,6 +31935,12 @@
     "name": "RTV (V+)",
     "type": "TV BackUP",
     "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd",
+    "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
+  },
+  {
+    "name": "RTV (MAX)",
+    "type": "TV BackUP",
+    "url": "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/RAJAWALI_TV-avc1_2500000=7-3277707030000000.mpd",
     "img": "https://mimipipi22.github.io/logo/nasional/rtv.jpg"
   },
   {
