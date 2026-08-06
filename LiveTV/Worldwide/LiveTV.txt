@@ -218,11 +218,6 @@ URL: https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8
 Logo: https://i.imgur.com/8upyApg.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: ElyTV
-URL: https://stmv1.srvsite.com/ely/ely/playlist.m3u8
-Logo: https://i.imgur.com/1eHNe91.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Petlovers TV
 URL: https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 Logo: https://petloverstv.com.br/storage/357/config/yqP4nOugWRxRFCmgLqXF4gRKyM9ybsAOfHgUaqPt.png
@@ -251,6 +246,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV GRANDE NATAL HDTV BRASIL
 URL: http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 Logo: https://i.imgur.com/MTuErdw.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: TV Vicosa
+URL: http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+Logo: https://i.imgur.com/TZF55f9.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Zoom
@@ -1319,11 +1319,6 @@ URL: https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb
 Logo: https://i.imgur.com/J2EAZPS.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
-Name: TV Sim Cachoeiro
-URL: https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: TV Sim Colatina
 URL: https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 Logo: https://i.imgur.com/t5oUK3C.png
@@ -1710,11 +1705,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 --------------------------------------------------
 
 Group: Séries
-Name: Chaves 24H
-URL: https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrEFVZsKW4tRGEskbb5fFuDH1s4zoRutnVz-8DTafou8y7KHWId6DqzdoccDZ75TCnxv1RxyIzMAX7dgATIB6xuk_YhrYD_X_DyYTYS4VuiR2yzgWuyslbZhrM9STlRKjMhxgzgJDifquRDq9IC3kolDIOSyUieCrGQT4cwQAYK6zPFD3Zo6ADqCBCqCUjGeHGDuXrrAoAvPdHTcYb29lxag9tt3R9_2QzXmWzmlNmVzT8EjvDOjJkXkL1x3PUBlLfU__GqlAxvh7AifGAXOWFY-dyUhMU_rCUkRHYSOCUk2FVXF_lFjorKcoX8mRtTfLFEvo9Nh8R2Wx8EfnBImswn378bWgNV5EUuZ8xIq-NnzofBWXlgVMAS_etc2F4Yl1-mSECONFjIC4KNs3SQnGR93Cl1xJsnxzh-4qO4Rw1njyhlFZYVF339Fs-r4uzrQ_fB57yddR3_5YinT-0AN5NX7MGA99KdXh27E7BTVgNBMLxhbrtMk8ccM0rJnA7jpke3nxGJcAebLKb1s-aziFPAprjpqBg64zaURYlcaDCCgPuxqJVM3J8ejpmwt-yqkwlj-l0vcYTcs1WgjUXBRhKK2SxgzzlFLEZWGBVqwja1ozmIrOctfi6VdDcX6BVlGmMQeDi4iIymyAEo4a8RDj-ADokN_VgH9jtjVC6tRnX8p9XHHigmgkV9thjhShXJoZhiO-G2IJctOadHGhla6s7l_SdC_H6dadH5gkA5g0AKi_cqOzwPbT3Gi2IIBDtBXynvXQg8W5nDISHZB9NhwA-ZSkflDYFniPZyut57jd5EC3WdmQ5zkqCy0L_M4Ge_XinExyjY4Zq-gMb9BLWVtY3VyhVC2l4g7Ouw3sfRtGh5In3RNrPgiyeGpDwOtXpokRwsesEXYmO1KqoTBYZjkqPdUrK8aDF2aEGwPG-mb-BsofyABKgl1cy1lYXN0LTIw4g8.m3u8
-Logo: https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
 Name: Chespirito
 URL: http://168.205.87.198:8555/live/1492/123456/159.m3u8
 Logo: https://github.com/gambiarras/legal-iptv/raw/main/legal_iptv/resources/images/chespirito-logo.png
@@ -1726,7 +1716,7 @@ Logo: https://storage.googleapis.com/soultv-prod-media/media/img/mobile/featured
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Séries #1
-URL: https://sae12.playlist.ttvnw.net/v1/playlist/CtIE0rs076cJfFmzYegSbU2kKmlaBHZtvfxrWem8TR_HSbs-SSas_KEC7h0k6yethU2F07HMw6JRkvdp4gBmCs-gWmBsl4D5Qhxy_b4S_Xs5ske2WNtKIsoS11UFe0PnpGTbUMNU_ZKLQMIPINAAlnwBaLh2mFKpRgCck2reVnekKdnV61m-wX2YABqLy57aXkba4Id5WmhlqlRDIG4ziEd6I7UDgIiR_q3qQyBIqwjsgq5rNBQ9cs38fKD-21_H7jONRo0sDeGip6A5IFd0Zh5D2PQQxZWAriW1YO6NxRXp9GI2opVplCcNf8lXcvmC5YGXU4iSz6DoMZXQ65XGVkc011hiY2wBKGa5jQS6becoAnf0qFRcyVLhCEQ9sI9HVkppDVh8TxUM6x4Kb6L_RmGNx9AQ8xJ1aHmIT_KUG8hn9rLcAq3f2PsPP4_lxb9gnNyoq3v-b4qLGXDHlwldMVkQmrs9cgtEJhHtSxXtdHhKpG6p7K7yswABsOiP0ABUig0WMOyMcxVh_F-zOwhVdqrf8OAr_xPhBPD2pcSyzX3VKRiHinJhdM0webNwm9M90tHuzcKmBg7gGRAncuCgLsxNcFGavA-m7aYoDQ6IJ4wJh_nvENMcnaCuaPSEr4EqMaPoD2zFNA7esZO8tb6GP5iCBLGLkYdLLFj1Jsotrf38fUc16aTDsE9KAECbe9YgSxlMYabN7OWeU_JE6ir-4GY11YuvT7OMCm-jOGzDRmDzIuvlwGcFcR9qsTTwNrW1ELtmEBYsXO6UAtEK4Q3vmiX5wdORGgziVXvseiLvjgDF1cEgASoJdXMtZWFzdC0yMOIP.m3u8
+URL: https://sae12.playlist.ttvnw.net/v1/playlist/CtMEItyrN8SraVluoNavj-hJvvKeZN88MRYcMaDSV0OHxAF9RQuwqIZi375kzjtk70wDHYWI1LHFWS8xF8nqpBz3gLtOYKNwQxHCOIg7d0jaN0A3K31FkjqtQGTyI-KdnWY2QubnoaJSsj5BpB_C9pYGMlnOFlT-4Tz8c97wcX0my1-eJzJnWJtoGDkw9IU4I6pzDatpzAnUUybH3j21qZFFt3aSkeLkIgGlXXL6RVJea-si5XEzwkDtcsDZ-Xi4pnYhk7RYGOUm8AcnguEDxI3SdLXjN2XM7y6VXWE_MtppizBxIZaPUM1pKAxkIKo1f4jjRb53VmlRJuN9cU0h00gh-nh0ZdxdXLKjXw49UlHpdNUXgWWbgoqiR9Hb8ax1AsSuKRkvenhVNTwkyksjcBIlJ1746f5IjRpz2RrPRZksz9GECNYsVsJXwoRhyBaoARAv93AFZx3ZnKF-9xKzkH-SQWf46g_0_3eldi-8FcqCWeuFyC9pAtloU0A-T1udMoacT8cWFuMYtmOkBRsBn_NtuSegPy30AOFJtGRbCOM5xH09PlmUWi5njWZxGmLSQhcvd4dH3YWuwzRXSyas2b_1-n5cC7r_mc2NUzuxe1u_QJNEB-VryQYdY7ZGWS4ncfOkx0g0AtpKg1lPLMUD5w83W3BjRhoiWEWYvpRnV9XOvpPfpLQxJfROv8aROb9WaXPbH0-C5M7eVVC-3kYj-sbhwaOzYVKH484UyTlR5kbEPw-m2UwEWW3Dw_QWPjd20tDkOzNK698aIhZpWu54ZwipNCaichoM_Wura2e1f6U0meItIAEqCXVzLWVhc3QtMjDiDw.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
@@ -2012,6 +2002,11 @@ URL: https://stream.ichibansys.com:3764/hybrid/play.m3u8
 Logo: https://i.postimg.cc/T1xygSJ5/geekdot.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: GLN TV
+URL: https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
+Logo: https://i.postimg.cc/dtQJdVfY/glntv.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Globo SP
 URL: https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 Logo: https://i.postimg.cc/TY6wHCzf/redeglobo.jpg
@@ -2160,6 +2155,11 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Nova Era TV
 URL: http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 Logo: https://i.imgur.com/IK3F9Uq.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
+Name: Nova TVI Petrópolis
+URL: https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8
+Logo: https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Novelas Prime
@@ -2737,6 +2737,11 @@ URL: http://170.83.16.50:80/CANCAO_NOVA/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Cancao Nova Alternativo 8
+URL: http://170.84.165.204:80/CANCAONOVA/index.m3u8
+Logo: https://i.imgur.com/OaM9hkH.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Cancao Nova Alternativo 9
 URL: http://186.219.52.187:80/cancao_nova/index.m3u8
 Logo: https://i.imgur.com/OaM9hkH.png
@@ -2765,11 +2770,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: TV Cidade Verde Cuiaba
 URL: https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 Logo: https://i.imgur.com/e67h04h.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: TV Cidade- Afiliada à TV Gazeta
-URL: https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-Logo: https://i.postimg.cc/3RYQT2Vx/tv-cidade-afiliada-gazeta.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: TV Clube
@@ -3012,6 +3012,11 @@ URL: https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.
 Logo: https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Mais Brasil
+URL: https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?hls_ctx=041j468u
+Logo: https://i.postimg.cc/9XYT6hfP/tvmaisbrasil.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Mais Marica
 URL: https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 Logo: https://i.imgur.com/lgCRX7q.png
@@ -3202,6 +3207,11 @@ URL: http://186.219.52.187:80/tv_senado/index.m3u8
 Logo: https://i.imgur.com/duy6waL.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: TV Show Fortaleza
+URL: https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
+Logo: https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: TV Singular
 URL: https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8
 Logo: https://i.postimg.cc/SsRjXYqd/lingular-tv-logo2.png
@@ -3287,6 +3297,11 @@ URL: https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 Logo: https://i.imgur.com/zoHBxn1.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
+Name: Ultra TV
+URL: https://stmv8.samcast.com.br/jcbrasil7363/jcbrasil7363/playlist.m3u8
+Logo: https://i.postimg.cc/RhK7vDL2/ultra-tv.jpg
+Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
+--------------------------------------------------
 Name: Veja +
 URL: https://origin-fast.b-cdn.net/VEJA_PLUS/tracks-v1a1/mono.ts.m3u8?app_id=1&app_name=soplay&user_Id=1078638
 Logo: https://i.postimg.cc/4N4pC1D1/veja-mais.jpg
@@ -3345,11 +3360,6 @@ Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/
 Name: Wording TV
 URL: https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1527962150.m3u8
 Logo: https://i.postimg.cc/3r2YWyFH/wording-de-televisao.png
-Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
---------------------------------------------------
-Name: Xtreme TV
-URL: https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
-Logo: https://i.postimg.cc/s2DpXVcz/xtreme-tv.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 
