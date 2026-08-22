@@ -1,5 +1,803 @@
 [
   {
+    "name": "VTV1",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/1.png"
+  },
+  {
+    "name": "VTV2",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/2.png"
+  },
+  {
+    "name": "VTV3",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/3.png"
+  },
+  {
+    "name": "VTV4",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/4.png"
+  },
+  {
+    "name": "VTV5",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/5.png"
+  },
+  {
+    "name": "VTV5 Tây Nam Bộ",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/6.png"
+  },
+  {
+    "name": "VTV5 Tây Nguyên",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/7.png"
+  },
+  {
+    "name": "VTV6",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/113.png"
+  },
+  {
+    "name": "VTV7",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/9.png"
+  },
+  {
+    "name": "VTV8",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/10.png"
+  },
+  {
+    "name": "VTV9",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/11.png"
+  },
+  {
+    "name": "VTV10",
+    "type": "VTV",
+    "url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/8.png"
+  },
+  {
+    "name": "VietNam Today",
+    "type": "VTV",
+    "url": "https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8",
+    "img": "https://vnepg.site/logos/176.png"
+  },
+  {
+    "name": "ON Vie Giải Trí",
+    "type": "VTVcab HD",
+    "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd",
+    "img": "https://vnepg.site/logos/12.png"
+  },
+  {
+    "name": "ON Phim Việt",
+    "type": "VTVcab HD",
+    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-2-phim-viet-hd",
+    "img": "https://vnepg.site/logos/13.png"
+  },
+  {
+    "name": "ON Movies",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+    "img": "https://vnepg.site/logos/15.png"
+  },
+  {
+    "name": "ON E Channel",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=182",
+    "img": "https://vnepg.site/logos/16.png"
+  },
+  {
+    "name": "ON O2TV",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=136",
+    "img": "https://vnepg.site/logos/18.png"
+  },
+  {
+    "name": "ON BiBi",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=178",
+    "img": "https://vnepg.site/logos/19.png"
+  },
+  {
+    "name": "ON Info TV",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+    "img": "https://vnepg.site/logos/20.png"
+  },
+  {
+    "name": "ON Cine",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=176",
+    "img": "https://vnepg.site/logos/21.png"
+  },
+  {
+    "name": "ON Style TV",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=184",
+    "img": "https://vnepg.site/logos/22.png"
+  },
+  {
+    "name": "ON Music",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=185",
+    "img": "https://vnepg.site/logos/23.png"
+  },
+  {
+    "name": "ON Trending TV",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=186",
+    "img": "https://vnepg.site/logos/25.png"
+  },
+  {
+    "name": "ON Vie DRAMAS",
+    "type": "VTVcab HD",
+    "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd",
+    "img": "https://vnepg.site/logos/27.png"
+  },
+  {
+    "name": "ON VFamily",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=187",
+    "img": "https://vnepg.site/logos/28.png"
+  },
+  {
+    "name": "ON KIDS",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=179",
+    "img": "https://vnepg.site/logos/29.png"
+  },
+  {
+    "name": "On Life",
+    "type": "VTVcab HD",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=188",
+    "img": "https://vnepg.site/logos/30.png"
+  },
+  {
+    "name": "ON Golf",
+    "type": "VTVcab HD",
+    "url": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel",
+    "img": "https://vnepg.site/logos/31.png"
+  },
+  {
+    "name": "HTV1",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/32.png"
+  },
+  {
+    "name": "HTV2",
+    "type": "HTV",
+    "url": "https://tv.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd",
+    "img": "https://vnepg.site/logos/33.png"
+  },
+  {
+    "name": "HTV3",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/34.png"
+  },
+  {
+    "name": "HTV Key",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/35.png"
+  },
+  {
+    "name": "HTV5 Bchannel",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/85.png"
+  },
+  {
+    "name": "HTV7",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/36.png"
+  },
+  {
+    "name": "HTV9",
+    "type": "HTV",
+    "url": "https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/37.png"
+  },
+  {
+    "name": "HTV Thể Thao",
+    "type": "HTV",
+    "url": "https://live.fptplay53.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://vnepg.site/logos/38.png"
+  },
+  {
+    "name": "HTVC Ca Nhạc",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/43.png"
+  },
+  {
+    "name": "HTVC Du Lịch và Cuộc Sống",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net//epzhd1/htvcdulich_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/44.png"
+  },
+  {
+    "name": "HTVC Gia Đình",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/40.png"
+  },
+  {
+    "name": "HTVC Phim",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/42.png"
+  },
+  {
+    "name": "HTVC Phụ Nữ",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/41.png"
+  },
+  {
+    "name": "HTVC Thuần Việt",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/39.png"
+  },
+  {
+    "name": "HTVC+",
+    "type": "HTVC",
+    "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/45.png"
+  },
+  {
+    "name": "SCTV1",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv1-hd-7f2aafec/index.m3u8",
+    "img": "https://vnepg.site/logos/46.png"
+  },
+  {
+    "name": "SCTV2",
+    "type": "SCTV",
+    "url": "https://liveh12vng.vtvprime.vn/hls/SCTV2/03.m3u8",
+    "img": "https://vnepg.site/logos/47.png"
+  },
+  {
+    "name": "SCTV3",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv3-hd-cf3adaca/index.m3u8",
+    "img": "https://vnepg.site/logos/48.png"
+  },
+  {
+    "name": "SCTV4",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv4-ae779f7e/index.m3u8",
+    "img": "https://vnepg.site/logos/49.png"
+  },
+  {
+    "name": "SCTV6",
+    "type": "SCTV",
+    "url": "http://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/50.png"
+  },
+  {
+    "name": "SCTV7",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv7-ef7e259a/index.m3u8",
+    "img": "https://vnepg.site/logos/51.png"
+  },
+  {
+    "name": "SCTV8",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv8-c12d138b/index.m3u8",
+    "img": "https://vnepg.site/logos/52.png"
+  },
+  {
+    "name": "SCTV9",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv9-cdd19ab2/index.m3u8",
+    "img": "https://vnepg.site/logos/53.png"
+  },
+  {
+    "name": "SCTV11",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv11-1d565c47/index.m3u8",
+    "img": "https://vnepg.site/logos/54.png"
+  },
+  {
+    "name": "SCTV12",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv12-b0d6c023/index.m3u8",
+    "img": "https://vnepg.site/logos/55.png"
+  },
+  {
+    "name": "SCTV13",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv13-67f88fcb/index.m3u8",
+    "img": "https://vnepg.site/logos/56.png"
+  },
+  {
+    "name": "SCTV14",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv14-789c9f45/index.m3u8",
+    "img": "https://vnepg.site/logos/57.png"
+  },
+  {
+    "name": "SCTV16",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv16-dd1535e8/index.m3u8",
+    "img": "https://vnepg.site/logos/59.png"
+  },
+  {
+    "name": "SCTV18",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv18-398b0b4e/index.m3u8",
+    "img": "https://vnepg.site/logos/61.png"
+  },
+  {
+    "name": "SCTV19",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv19-bf00bd02/index.m3u8",
+    "img": "https://vnepg.site/logos/62.png"
+  },
+  {
+    "name": "SCTV20",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv19-cb98949a/index.m3u8",
+    "img": "https://vnepg.site/logos/63.png"
+  },
+  {
+    "name": "SCTV21",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv-21-57de221a/index.m3u8",
+    "img": "https://vnepg.site/logos/64.png"
+  },
+  {
+    "name": "SCTV Phim tổng hợp",
+    "type": "SCTV",
+    "url": "https://vietanhtv.id.vn/sctv/sctv-phim-tong-hop-e6d2df88/index.m3u8",
+    "img": "https://vnepg.site/logos/170.png"
+  },
+  {
+    "name": "TVB VIỆT NAM",
+    "type": "TVB",
+    "url": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "img": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg"
+  },
+  {
+    "name": "ANTV HD",
+    "type": "Địa phương",
+    "url": "https://live-a.fptplay53.net/live/media/antv/live-hls-avc/antv-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/QztqOe0.png"
+  },
+  {
+    "name": "QPVN HD",
+    "type": "Địa phương",
+    "url": "https://vips-livecdn.fptplay.net/live/media/quocphongvn/live-hls-avc/quocphongvn-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/UIGZw0y.png"
+  },
+  {
+    "name": "HanoiTV1 HD",
+    "type": "Địa phương",
+    "url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Je3K25E.png"
+  },
+  {
+    "name": "HanoiTV2 HD",
+    "type": "Địa phương",
+    "url": "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/szivqh2.png"
+  },
+  {
+    "name": "ATV1 | TH An Giang 1",
+    "type": "Địa phương",
+    "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8",
+    "img": "https://i.imgur.com/0TkI4Ar.png"
+  },
+  {
+    "name": "ATV2 | TH An Giang 2",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/0TkI4Ar.png"
+  },
+  {
+    "name": "ATV3 | TH An Giang 3",
+    "type": "Địa phương",
+    "url": "http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8",
+    "img": "https://i.imgur.com/0TkI4Ar.png"
+  },
+  {
+    "name": "CTV | TH Cà Mau",
+    "type": "Địa phương",
+    "url": "https://tv.ctvcamau.vn/live/tv/tv.m3u8",
+    "img": "https://i.imgur.com/ZKV1ok2.png"
+  },
+  {
+    "name": "THTPCT1 | TH Cần Thơ 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=47",
+    "img": "https://i.imgur.com/0fGI8cJ.png"
+  },
+  {
+    "name": "THTPCT2 | TH Cần Thơ 2",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=61",
+    "img": "https://i.imgur.com/0fGI8cJ.png"
+  },
+  {
+    "name": "THTPCT3 | TH Cần Thơ 3",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=84",
+    "img": "https://i.imgur.com/0fGI8cJ.png"
+  },
+  {
+    "name": "ĐN1 | TH Đồng Nai 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=53",
+    "img": "https://i.imgur.com/DCLUAqZ.png"
+  },
+  {
+    "name": "ĐN2 | TH Đồng Nai 2",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=255",
+    "img": "https://i.imgur.com/8qlDA5N.png"
+  },
+  {
+    "name": "THĐT1 | TH Đồng Tháp",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=54",
+    "img": "https://i.imgur.com/TqAz7ET.png"
+  },
+  {
+    "name": "THĐT2 | TH Đồng Tháp",
+    "type": "Địa phương",
+    "url": "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8",
+    "img": "https://i.imgur.com/PfETBEp.png"
+  },
+  {
+    "name": "LTV1 | TH Lâm Đồng 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=50",
+    "img": "https://vnepg.site/logos/111.png"
+  },
+  {
+    "name": "LTV2 | TH Lâm Đồng 2",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=45",
+    "img": "https://vnepg.site/logos/112.png"
+  },
+  {
+    "name": "TTV1 | TH Tây Ninh 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=72",
+    "img": "https://i.imgur.com/8rGiYuk.png"
+  },
+  {
+    "name": "TTV2 | TH Tây Ninh 2",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=86",
+    "img": "https://i.imgur.com/8rGiYuk.png"
+  },
+  {
+    "name": "DNRT1 | TH Đà Nẵng 1",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/EdXvjrH.png"
+  },
+  {
+    "name": "DNRT2 | TH Đà Nẵng 2",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/6SujuqZ.png"
+  },
+  {
+    "name": "DRT | TH Đắk Lắk",
+    "type": "Địa phương",
+    "url": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
+    "img": "https://i.imgur.com/jtyDVU5.png"
+  },
+  {
+    "name": "THGL | TH Gia Lai",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=55",
+    "img": "https://i.imgur.com/z7l0ZZg.png"
+  },
+  {
+    "name": "HUETV | TH Huế",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/HQ7jCa6.png"
+  },
+  {
+    "name": "KTV | TH Khánh Hòa",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/N2gUYoh.png"
+  },
+  {
+    "name": "KTV | TH Khánh Hòa 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=76",
+    "img": "https://i.imgur.com/N2gUYoh.png"
+  },
+  {
+    "name": "QNgTV1 | TH Quảng Ngãi 1",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=81",
+    "img": "https://vnepg.site/logos/119.png"
+  },
+  {
+    "name": "QTTV | TH Quảng Trị",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8",
+    "img": "https://img-zlr1.tv360.vn/image1/2025/07/01/09/1751335585476/9d5c42897302_640_360.png"
+  },
+  {
+    "name": "BTV | TH Bắc Ninh",
+    "type": "Địa phương",
+    "url": "https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8",
+    "img": "https://i.imgur.com/j9lbGel.png"
+  },
+  {
+    "name": "TN | TH Thái Nguyên",
+    "type": "Địa phương",
+    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&pkg=pkg11.hni",
+    "img": "https://i.imgur.com/6HQeLRw.png"
+  },
+  {
+    "name": "CRTV | TH Cao Bằng",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=48",
+    "img": "https://i.imgur.com/kETe9LN.png"
+  },
+  {
+    "name": "ĐTV | TH Điện Biên",
+    "type": "Địa phương",
+    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni",
+    "img": "https://i.imgur.com/hMDRDxN.png"
+  },
+  {
+    "name": "TTV | TH Tuyên Quang",
+    "type": "Địa phương",
+    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv365&q=high&pkg=pkg11.hni",
+    "img": "https://i.imgur.com/zXqjjUf.png"
+  },
+  {
+    "name": "NTV | TH Ninh Bình",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=75",
+    "img": "https://i.imgur.com/pL4NqYO.png"
+  },
+  {
+    "name": "BHTTV | TH Hà Tĩnh",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=58",
+    "img": "https://i.imgur.com/4yIgKKx.png"
+  },
+  {
+    "name": "THP | TH Hải Phòng",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/live/media/haiphong/live-hls-avc/haiphong-avc1_4000000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/iq9JLb9.png"
+  },
+  {
+    "name": "THP3 | TH Hải Phòng 3",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=59",
+    "img": "https://i.imgur.com/iq9JLb9.png"
+  },
+  {
+    "name": "PTV | TH Phú Thọ",
+    "type": "Địa phương",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=77",
+    "img": "https://i.imgur.com/LXuRwJY.png"
+  },
+  {
+    "name": "HY | TH Hưng Yên",
+    "type": "Địa phương",
+    "url": "https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8",
+    "img": "https://i.imgur.com/JAglyuT.png"
+  },
+  {
+    "name": "LTV | TH Lai Châu",
+    "type": "Địa phương",
+    "url": "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni",
+    "img": "https://i.imgur.com/n02cvKQ.png"
+  },
+  {
+    "name": "LSTV | TH Lạng Sơn",
+    "type": "Địa phương",
+    "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+    "img": "https://i.imgur.com/yxz02UD.png"
+  },
+  {
+    "name": "THLC | TH Lào Cai",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/ldwQU4L.png"
+  },
+  {
+    "name": "NTV | TH Nghệ An",
+    "type": "Địa phương",
+    "url": "https://live.truyenhinhnghean.vn/hls/na1/index.m3u8",
+    "img": "https://i.imgur.com/FLvFSLS.png"
+  },
+  {
+    "name": "QTV1 | TH Quảng Ninh",
+    "type": "Địa phương",
+    "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8",
+    "img": "https://i.imgur.com/KVia0uU.png"
+  },
+  {
+    "name": "QTV3 | TH Quảng Ninh",
+    "type": "Địa phương",
+    "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8",
+    "img": "https://i.imgur.com/ci6kzgL.png"
+  },
+  {
+    "name": "STV | TH Sơn La",
+    "type": "Địa phương",
+    "url": "https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8",
+    "img": "https://i.imgur.com/xjkm6Zg.png"
+  },
+  {
+    "name": "TTV | TH Thanh Hóa",
+    "type": "Địa phương",
+    "url": "https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/UwTCbZ5.png"
+  },
+  {
+    "name": "THVL1",
+    "type": "THVL",
+    "url": "https://live-a.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/pTVybK6.png"
+  },
+  {
+    "name": "THVL2",
+    "type": "THVL",
+    "url": "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/MsHdGNZ.png"
+  },
+  {
+    "name": "THVL3",
+    "type": "THVL",
+    "url": "https://live-a.fptplay53.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "img": "https://i.imgur.com/44c1Yoz.png"
+  },
+  {
+    "name": "THVL4",
+    "type": "THVL",
+    "url": "https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8",
+    "img": "https://i.imgur.com/JWDsJxB.png"
+  },
+  {
+    "name": "THVL5",
+    "type": "THVL",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=91",
+    "img": "https://vnepg.site/logos/175.png"
+  },
+  {
+    "name": "Da Vinci",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/iBx7K1M.png"
+  },
+  {
+    "name": "Animax HD",
+    "type": "Quốc tế",
+    "url": "http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1165775&extension=ts&play_token=yyA3sijrgj",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Animax.jpg"
+  },
+  {
+    "name": "KIX",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8",
+    "img": "https://vnepg.site/logos/167.png"
+  },
+  {
+    "name": "HGTV",
+    "type": "Quốc tế",
+    "url": "https://liveh34.vtvprime.vn/hls/HGTV/index.m3u8",
+    "img": "https://freem3u.xyz/static/images/global/hgtv.png"
+  },
+  {
+    "name": "History",
+    "type": "Quốc tế",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9856",
+    "img": "https://i.ibb.co/41wJdvL/history.png"
+  },
+  {
+    "name": "Asian Food Network",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/KL9oaqc.png"
+  },
+  {
+    "name": "Outdoor",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/isCqVcE.png"
+  },
+  {
+    "name": "ABC News",
+    "type": "Quốc tế",
+    "url": "https://c.mjh.nz/abc-nsw.m3u8",
+    "img": "https://i.imgur.com/GpgrYCb.png"
+  },
+  {
+    "name": "CNA",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/awIDugE.png"
+  },
+  {
+    "name": "CNBC",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8",
+    "img": "https://i.ibb.co/h7xsfby/cnbc.png"
+  },
+  {
+    "name": "Deutsche Welle English",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/A1xzjOI.png"
+  },
+  {
+    "name": "France 24 English",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/no9Mv3X.png"
+  },
+  {
+    "name": "France 24 French",
+    "type": "Quốc tế",
+    "url": "https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8",
+    "img": "https://i.imgur.com/no9Mv3X.png"
+  },
+  {
+    "name": "Sky News",
+    "type": "Quốc tế",
+    "url": "https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8",
+    "img": "https://i.imgur.com/jP0rB8j.png"
+  },
+  {
+    "name": "TV5Monde ASIE",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/FRsRXRR.png"
+  },
+  {
+    "name": "NHK WORLD JAPAN",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8",
+    "img": "https://i.imgur.com/Et3vExm.png"
+  },
+  {
+    "name": "Arirang",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8",
+    "img": "https://i.ibb.co/nbzwz4w/arirang.jpg"
+  },
+  {
+    "name": "KBS World",
+    "type": "Quốc tế",
+    "url": "https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/vylHBC8.png"
+  },
+  {
     "name": "3HD",
     "type": "General",
     "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
