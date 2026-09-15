@@ -684,6 +684,12 @@
     "img": "https://i.postimg.cc/6pbjRxpj/tv-noticias-agricolas.png"
   },
   {
+    "name": "TV OLHO D’ÁGUA",
+    "type": "Recomendados",
+    "url": "https://video08.logicahost.com.br/tvolhodagua/tvolhodagua/playlist.m3u8",
+    "img": "https://i.postimg.cc/d3x0zNSc/tvolhodagua.jpg"
+  },
+  {
     "name": "TV Singular",
     "type": "Recomendados",
     "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8",
@@ -822,12 +828,6 @@
     "img": "https://www.ubplay.com.br/wp-content/uploads/sites/67/2025/10/capa-site-bemmelhor.png"
   },
   {
-    "name": "Boas Novas",
-    "type": "Variedades",
-    "url": "https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8",
-    "img": "https://i.imgur.com/ZqhizdP.png"
-  },
-  {
     "name": "BS TV",
     "type": "Variedades",
     "url": "https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8",
@@ -962,7 +962,7 @@
   {
     "name": "Cultura Para",
     "type": "Variedades",
-    "url": "http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8",
+    "url": "http://170.84.165.204/CANAL_21_HD/index.m3u8",
     "img": "https://i.imgur.com/5jPEI5c.png"
   },
   {
@@ -1060,12 +1060,6 @@
     "type": "Variedades",
     "url": "https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8",
     "img": "https://i.imgur.com/n79nkVC.png"
-  },
-  {
-    "name": "O Dia TV",
-    "type": "Variedades",
-    "url": "https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8",
-    "img": "https://i.imgur.com/1LUbAVP.png"
   },
   {
     "name": "Play TV",
@@ -1866,12 +1860,6 @@
     "img": "https://i.ibb.co/1QZv2q1/Br8-fb-graph.png"
   },
   {
-    "name": "Canal 38",
-    "type": "Notícia",
-    "url": "https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8",
-    "img": "https://i.imgur.com/co7TCWC.png"
-  },
-  {
     "name": "Canal Metropolitano de Noticias",
     "type": "Notícia",
     "url": "https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8",
@@ -2154,6 +2142,12 @@
     "img": "https://i.imgur.com/cQN3nWt.png"
   },
   {
+    "name": "IMPD TV Worldwide",
+    "type": "Religião",
+    "url": "https://igrejamundial.nuvemplay.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/9dW3AUQ.png"
+  },
+  {
     "name": "Novo Tempo",
     "type": "Religião",
     "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8",
@@ -2418,12 +2412,6 @@
     "img": "https://i.postimg.cc/yNznWkNF/my_times_network.jpg"
   },
   {
-    "name": "On FM",
-    "type": "Internacional",
-    "url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
-    "img": "https://i.postimg.cc/BnwqQwzm/on_fm.jpg"
-  },
-  {
     "name": "TV Maná 1",
     "type": "Internacional",
     "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8",
@@ -2590,6 +2578,42 @@
     "type": "Canais de TV",
     "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU1NDQubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/0479e0a8acffc051b5c5f9361961c803.jpg"
+  },
+  {
+    "name": "A Fazenda Cam 1 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMTcubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Fazenda Cam 2 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMjAubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Fazenda Cam 3 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMjEubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Fazenda Cam 4 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMjIubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Fazenda Cam 5 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMjMubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "A Fazenda Cam 6 [FHD]",
+    "type": "Canais de TV",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8zOTczMjQubTN1OA.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "A Festa da Salsicha Comilandia",
@@ -2900,7 +2924,7 @@
   {
     "name": "Band SP [FHD]",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMDQ5NDMubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC83OTMxMS5tM3U4.m3u8",
     "img": "https://logos.imperioapps.top/BAND.png"
   },
   {
@@ -4988,7 +5012,7 @@
   {
     "name": "Liga da Justica",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDk1NTEubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDk1NTIubTN1OA.m3u8",
     "img": "http://gstaticontent.com/images/2494d056a9fca8ef02f578e8153ea7ec.jpg"
   },
   {
@@ -5846,7 +5870,7 @@
   {
     "name": "Quilos Mortais",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xNDk1MzcubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY4MjAubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/40e303224a1977f77896cfa33ac3e73e.jpg"
   },
   {
@@ -6386,7 +6410,7 @@
   {
     "name": "Supernatural",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3MjYubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzY3MzcubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/b092acc65e66b3b6b8db27a7f9b3a5bf.jpg"
   },
   {
@@ -6464,7 +6488,7 @@
   {
     "name": "The Big Bang Theory",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NTkubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzU0NTYubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/c0171aeb6aef301892834b590d8a5025.jpg"
   },
   {
@@ -6926,7 +6950,7 @@
   {
     "name": "Vai Que Cola",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzc0NDAubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzc0NDUubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/2c3afaf02f2e9a5907129b6b166bee29.jpg"
   },
   {
@@ -6998,7 +7022,7 @@
   {
     "name": "Xena A Princesa Guerreira",
     "type": "Canais de TV",
-    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxMTcubTN1OA.m3u8",
+    "url": "https://frostviewrelease.squareweb.app/proxy/hls/aHR0cDovL3ByYWlhMTMuY29tOjgwL2xpdmUvOTM5MDQxLzhTQTlzaC8xMzcxMjIubTN1OA.m3u8",
     "img": "http://24horas.cc:80/images/e0827e5589f4854f7b18555f84eb0467.jpg"
   },
   {
@@ -7522,12 +7546,6 @@
     "type": "Alternativos",
     "url": "https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8",
     "img": "https://i.imgur.com/qHwTWlz.png"
-  },
-  {
-    "name": "Cultura Para Alternativo 1",
-    "type": "Alternativos",
-    "url": "http://170.84.165.204/CANAL_21_HD/index.m3u8",
-    "img": "https://i.imgur.com/5jPEI5c.png"
   },
   {
     "name": "Demais TV Alternativo 1",
