@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-27 19:09:58",
+  "date": "2026-09-28 01:08:09",
   "channels": {
     "国际": [
       {
@@ -824,13 +824,6 @@
         "url": "https://stmv2.srvsh.com.br/daniel8121/daniel8121/chunklist_w1486298669.m3u8"
       },
       {
-        "name": "TV Tudo",
-        "logo": "https://i.postimg.cc/bJ8ZhTGZ/tv-tudo.jpg",
-        "group": "Recomendados",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8"
-      },
-      {
         "name": "TV+ News",
         "logo": "https://i.postimg.cc/t47nvJ2j/tvmais_news.jpg",
         "group": "Recomendados",
@@ -880,6 +873,13 @@
         "group": "TV Aberta",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8"
+      },
+      {
+        "name": "Globo TV Morena MG",
+        "logo": "https://i.postimg.cc/TY6wHCzf/redeglobo.jpg",
+        "group": "TV Aberta",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://media2.cdntvms.com.br/tv_morena_dorados/index.m3u8"
       },
       {
         "name": "Record",
@@ -1162,6 +1162,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8"
+      },
+      {
+        "name": "Mais Um",
+        "logo": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8"
       },
       {
         "name": "MBC Brasil TV",
@@ -1570,13 +1577,6 @@
         "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8"
       },
       {
-        "name": "TV Litoral RN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
-      },
-      {
         "name": "TV Mais Marica",
         "logo": "https://i.imgur.com/lgCRX7q.png",
         "group": "Variedades",
@@ -1626,13 +1626,6 @@
         "url": "https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8"
       },
       {
-        "name": "TV Petropolis",
-        "logo": "https://web2.petropolis.rj.gov.br/imc/film-commission/uploads/profissional/perfil/785b645d9c574b4d88504a85dbd6ef37.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video02.logicahost.com.br/tvpetropolis/tvpetropolis/playlist.m3u8"
-      },
-      {
         "name": "TV Ra Tim Bum",
         "logo": "https://i.imgur.com/JIQwz0w.png",
         "group": "Variedades",
@@ -1666,13 +1659,6 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8"
-      },
-      {
-        "name": "TVC-Rio",
-        "logo": "https://i.imgur.com/WDiikWv.png",
-        "group": "Variedades",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8"
       },
       {
         "name": "TVCOM Maceio",
@@ -2014,6 +2000,13 @@
         "url": "https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8"
       },
       {
+        "name": "TV Sim Cachoeiro",
+        "logo": "https://i.imgur.com/t5oUK3C.png",
+        "group": "Notícia",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8"
+      },
+      {
         "name": "TVideoNews",
         "logo": "https://i.imgur.com/vstHOYx.png",
         "group": "Notícia",
@@ -2206,6 +2199,13 @@
         "group": "Religião",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/NOVO_TEMPO/index.m3u8"
+      },
+      {
+        "name": "Plenitude TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Religião",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8"
       },
       {
         "name": "Rede Gospel",
@@ -2522,141 +2522,6 @@
         "group": "Internacional",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://live.wayone.cloud/waytv/waytv1/playlist.m3u8"
-      }
-    ],
-    "Canais de TV": [
-      {
-        "name": "AgroMais [FHD]",
-        "logo": "http://www.acstatic.co/logos/canais/agromais.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc2NC5tM3U4.m3u8"
-      },
-      {
-        "name": "Arte 1 [HD]",
-        "logo": "https://logos.imperioapps.top/ARTE_1.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc3OS5tM3U4.m3u8"
-      },
-      {
-        "name": "AXN [4K]",
-        "logo": "https://logos.imperioapps.top/AXN.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0NS5tM3U4.m3u8"
-      },
-      {
-        "name": "Band News [FHD]",
-        "logo": "https://logos.imperioapps.top/BAND_NEWS.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MTc4OS5tM3U4.m3u8"
-      },
-      {
-        "name": "ESPN [4K]",
-        "logo": "https://logos.imperioapps.top/ESPN.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MDY0MC5tM3U4.m3u8"
-      },
-      {
-        "name": "Gladiadores da Natureza",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE0NTYubTN1OA.m3u8"
-      },
-      {
-        "name": "Globo NSC TV Florianopolis [FHD]",
-        "logo": "https://logos.imperioapps.top/globo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjAxMC5tM3U4.m3u8"
-      },
-      {
-        "name": "Globo Rede Amazonas Arquemes [HD]",
-        "logo": "https://logos.imperioapps.top/globo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNTAwODUubTN1OA.m3u8"
-      },
-      {
-        "name": "Globo Rede Amazonica Boa Vista [SD]",
-        "logo": "https://logos.imperioapps.top/globo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85MzU4OS5tM3U4.m3u8"
-      },
-      {
-        "name": "Globo RPC TV Maringa [HD]",
-        "logo": "https://logos.imperioapps.top/globo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85Njg4OC5tM3U4.m3u8"
-      },
-      {
-        "name": "Globo SP [FHD]",
-        "logo": "https://logos.imperioapps.top/globo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjA0MC5tM3U4.m3u8"
-      },
-      {
-        "name": "History [SD]",
-        "logo": "https://logos.imperioapps.top/HISTORY.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjE0OS5tM3U4.m3u8"
-      },
-      {
-        "name": "RecordTV RJ [SD]",
-        "logo": "https://logos.imperioapps.top/RECORD.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy85NjUyNi5tM3U4.m3u8"
-      },
-      {
-        "name": "Rede Vida [4K]",
-        "logo": "https://logos.imperioapps.top/REDE_VIDA.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NzUubTN1OA.m3u8"
-      },
-      {
-        "name": "Telecine Fun [SD]",
-        "logo": "https://logos.imperioapps.top/TCFun.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM1Ny5tM3U4.m3u8"
-      },
-      {
-        "name": "Telecine Premium [SD]",
-        "logo": "https://logos.imperioapps.top/TCPremium.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy83MjM2NS5tM3U4.m3u8"
-      },
-      {
-        "name": "TV Aparecida [4K]",
-        "logo": "https://logos.imperioapps.top/APARECIDA.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NjQubTN1OA.m3u8"
-      },
-      {
-        "name": "TV Novo Tempo [4K]",
-        "logo": "https://logos.imperioapps.top/NOVO_TEMPO.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8xMDM0NTkubTN1OA.m3u8"
-      },
-      {
-        "name": "Vikings",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Canais de TV",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://frostview.squareweb.app/relay/m/aHR0cDovL3BhbGRpLnBybzo4MC9saXZlL3RvbmluaG8wMi9DYjQ5ODAzNy8zNzE1MDAubTN1OA.m3u8"
       }
     ],
     "Clássico": [
@@ -3489,6 +3354,13 @@
         "group": "Alternativos",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://170.83.49.66:8083/TRAVELBOXHD/index.m3u8"
+      },
+      {
+        "name": "TV Aparecida Alternativo 1",
+        "logo": "https://i.postimg.cc/SKyxZqvt/tv-aparecida.jpg",
+        "group": "Alternativos",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8"
       },
       {
         "name": "TV Brasil Alternativo 1",
