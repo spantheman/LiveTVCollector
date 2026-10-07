@@ -528,6 +528,12 @@
     "img": "https://i.postimg.cc/76cC5fk1/lucas-tv-logo.jpg"
   },
   {
+    "name": "Mais Um",
+    "type": "Variedades",
+    "url": "https://stream.ichibansys.com:3230/hybrid/play.m3u8",
+    "img": "https://i.postimg.cc/NFWhnwMH/mais_um.jpg"
+  },
+  {
     "name": "MBC Brasil TV",
     "type": "Variedades",
     "url": "https://play.mbcbrasil.tv.br/playlist.m3u8",
@@ -702,12 +708,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png"
   },
   {
-    "name": "SOU TV",
-    "type": "Variedades",
-    "url": "https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8",
-    "img": "https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png"
-  },
-  {
     "name": "TV 100% Caipira",
     "type": "Variedades",
     "url": "https://video10.logicahost.com.br/caipira/caipira/playlist.m3u8",
@@ -724,12 +724,6 @@
     "type": "Variedades",
     "url": "https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8",
     "img": "https://i.imgur.com/rsfnv4Z.png"
-  },
-  {
-    "name": "TV Alianca Catarinense",
-    "type": "Variedades",
-    "url": "https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8",
-    "img": "https://i.imgur.com/eqmOhtP.png"
   },
   {
     "name": "TV Alternativa",
@@ -856,6 +850,12 @@
     "type": "Variedades",
     "url": "http://45.162.64.114/GAZETA/index.m3u8",
     "img": "https://i.imgur.com/0sksWse.png"
+  },
+  {
+    "name": "TV Guara",
+    "type": "Variedades",
+    "url": "https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8",
+    "img": "https://i.imgur.com/8PErNBT.png"
   },
   {
     "name": "TV Justica",
@@ -1512,6 +1512,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Canal_Futura.png/960px-Canal_Futura.png"
   },
   {
+    "name": "ISTV",
+    "type": "Educação",
+    "url": "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8",
+    "img": "https://i.imgur.com/RUKVrOH.png"
+  },
+  {
     "name": "Rede Minas",
     "type": "Educação",
     "url": "https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8",
@@ -2088,12 +2094,6 @@
     "img": "https://i.ibb.co/WGXHDnF/logo-ge-fast.png"
   },
   {
-    "name": "ISTV Alternativo 1",
-    "type": "Alternativos",
-    "url": "https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w1732472063.m3u8",
-    "img": "https://i.postimg.cc/GmZSkzZZ/logo-istv.png"
-  },
-  {
     "name": "Jovem Pan News Alternativo 1",
     "type": "Alternativos",
     "url": "http://186.219.52.187/jp_news/index.m3u8",
@@ -2242,6 +2242,12 @@
     "type": "Alternativos",
     "url": "https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8",
     "img": "https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_br_1920x1080_0.jpg"
+  },
+  {
+    "name": "SBT Nacional Alternativo 1",
+    "type": "Alternativos",
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8",
+    "img": "https://i.imgur.com/tc1ALuu.png"
   },
   {
     "name": "SBT News Alternativo 1",
