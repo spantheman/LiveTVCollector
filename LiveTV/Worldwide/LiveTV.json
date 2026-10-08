@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-08 20:52:19",
+  "date": "2026-10-09 02:39:04",
   "channels": {
     "Recomendados": [
       {
@@ -658,6 +658,13 @@
         "url": "http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8"
       },
       {
+        "name": "Nova TVI Petrópolis",
+        "logo": "https://pa-str.srvsite.com/arquivos/7140/cabecalho-7140-20240911033310.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://stmv8.samcast.com.br/novatvi2098/novatvi2098/playlist.m3u8"
+      },
+      {
         "name": "NTV",
         "logo": "https://i.imgur.com/n79nkVC.png",
         "group": "Variedades",
@@ -903,6 +910,13 @@
         "url": "https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/playlist.m3u8"
       },
       {
+        "name": "TV Brasil Oeste",
+        "logo": "https://i.imgur.com/noqGfuy.png",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8"
+      },
+      {
         "name": "TV Brasil Sinop",
         "logo": "https://i.postimg.cc/fWYmFj7D/tv_brasil_sinop.jpg",
         "group": "Variedades",
@@ -1027,6 +1041,13 @@
         "group": "Variedades",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "http://45.162.64.114/TV_JUSTICA/index.m3u8"
+      },
+      {
+        "name": "TV Litoral RN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3e/TV_LITORAL_RN.jpg",
+        "group": "Variedades",
+        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
+        "url": "https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8"
       },
       {
         "name": "TV Mais Marica",
@@ -1552,13 +1573,6 @@
         "group": "Entretenimento",
         "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "url": "https://stmv1.samcast.com.br/ricardo2194/ricardo2194/playlist.m3u8"
-      },
-      {
-        "name": "ElyTV",
-        "logo": "https://i.imgur.com/1eHNe91.png",
-        "group": "Entretenimento",
-        "source": "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
-        "url": "https://stmv1.srvsite.com/ely/ely/playlist.m3u8"
       },
       {
         "name": "Petlovers TV",
